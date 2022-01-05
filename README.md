@@ -394,8 +394,6 @@ The support page can be accessed from the top menu bar as well as from the botto
 
 Figure XX Support page of the ROHUb platform
 
-------
-
 <!--
 ### Markdown
 
