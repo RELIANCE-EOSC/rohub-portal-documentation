@@ -2,8 +2,7 @@
 
 ![ROHub logo](images/image58.png) 
 
-<div align="justify"> 
-  
+
 ## Introduction
 [ROHub](htp://reliance.rohub.org/) is a research object management platform supporting the preservation and lifecycle management of scientific investigations, research campaigns and operational processes. As the only existing platform implementing natively the full research object model and paradigm, resources associated to a particular experiment are aggregated in a single digital entity (research object), and metadata reliant to understand and interpret the content is represented as semantic annotations that are user and machine readable.
 
@@ -11,6 +10,7 @@
 ROHub can support different stakeholders, with the primary focus on scientists, researchers, students and enthusiasts, enabling them to manage and preserve their research work, to share it and make it available for publishing, to collaborate and to discover new knowledge.
 However, other user groups can be benefited by ROHub like the Industry that can leverage
 the platform to externalize their research to a community of researchers worldwide in multiple scientific domains, e.g., launching campaigns for research on specific topics, and to follow and monitor the progress. Similarly, investors can keep up to date and track scientific advances to fund and get involved in future breakthroughs. As another example, publishers can also leverage ROHub to advertise their journals with researchers, have access to a pool of potential reviewers, and implement more interactive review processes.
+
 
 ### ROHub portal
 
@@ -32,74 +32,70 @@ ROHub portal is a Web client application providing a comprehensive user interfac
 The homepage or landing page provides a general overview of the ROhub platform which includes a keyword search component from which the user can directly start finding research objects and creator information, a section for the featured research object where selective research objects (golden examples) can be featured based on their completeness and impact factor. The landing page also includes a section for the key statistics of the ROHub and a section with the recent activities showing the latest changes or events on the ROHub platform. The figure below depicts the partial view of the homepage of ROhub portal.
   
 
-<p align="center"> <img src="images/image19.png" width="700"> </p>
-
-<p align="center"> <img src="images/image2.png" width="700"> </p>
   
 
-<div align="center"> Figure 1: Landing page of the ROHub platform </div>
+Figure xx Landing page of the ROHub platform
 
 
 #### Basic search by keyword
 This component enables users to find research objects by keywords, looking through all the metadata annotations available, e.g., title, description, creator, etc. The user can easily look for research objects or resources by providing any associated keyword and thereafter the user can look for the desired resources from the explore page.
+ 
+  
 
-
-<p align="center"> <img src="images/image23.png" width="700"> </p>
-<div align="center"> Figure 2: Keyword search component </div>
+Figure XX: Keyword search component
 
 #### Featured research objects
 This section presents the list of ROs that are promoted because of their quality (measured based on the RO compliance according to some specified criteria like completeness, impact etc.) or because of their popularity (e.g., golden examples) as depicted in figure below.
   
-<p align="center"> <img src="images/image44.png" width="700"> </p>
-<div align="center"> Figure3: Featured research objects component </div>
 
+Figure XX Featured research objects component
 #### Recent activity
 This section presents the latest three ROs that were created most recently, resources added to research objects, snapshots or archives or any recent activities on the ROs. By clicking on the “Read more” the user can go to the main RO overview page for detailed representation. 
   
-<p align="center"> <img src="images/image28.png" width="700"> </p>
-<div align="center">Figure4: Recent activity component </div>
+
+Figure XX Recent activity component
 
 
 #### Key Statistics of ROHub platform
 This section of the landing page shows the key statistics of the ROHub platform consisting of the number of research objects created with all the resources, total number of annotations, total number of users in the portal. 
   
-
-<p align="center"> <img src="images/image43.png" width="700" > </p>
-<div align="center"> Figure 5: Key statistics of the ROhub platform </div>
+ 
+Figure XX Key statistics of the ROhub platform
 
 
 ### Login
 The login (Sign in/Sign up) is available on the menu bar of the homepage. The keycloak authentication system allows the users to login either with predefined EGI credentials or users can register themselves with login and password. Once registered the authentication system allows the registered users to sign in to the ROhub portal. The figures below show the login and sign up functionalities of the ROhub portal.
   
-<p align="center"> <img src="images/image9.png" width="500" > </p>
 
-<div align="center"> Figure 6: Login page of ROhub portal </div>
+Figure XX Login page of ROhub portal
 
 
-<p align="center"> <img src="images/image18.png" width="500" > </p>
+  
 
-<div align="center"> Figure 7: User registration page of ROhub portal </div>
-
+Figure XX User registration page of ROhub portal
 
 #### User account settings
 The user account settings can be accessed by the users once they are logged into the portal. There are various components that can be access via the user account setting page, such as:
 * Edit Account: In this page the user can update and save the personal user-specific information to update the account. This information includes email, firstname, last name, affiliation of the user etc. 
 
-<p align="center"> <img src="images/image17.png" width="500"> </p>
-<div align="center"> Figure 8: Edit Account page for ROHub users </div>
+
+  
+
+Figure XX Edit Account page for ROHub users
 
 
 * Change password: This section enables the user to change the password of his account in ROHub. This password is independent of the EGI check-in password.
   
 
-<p align="center"> <img src="images/image5.png" width="500"> </p>
-<div align="center"> Figure 9: Password reset page </div>
+Figure XX Password reset page
 
 
 * Authenticator: This system allows the user to save the device as a second level authentication. This is done through third party authentication applications (e.g. FreeOTP, Google Authenticator). The application scans the barcode provided in the user’s account and generates an OTP which along with the name of the device can be saved. 
 
-<p align="center"> <img src="images/image1.png" width="500"> </p>
-<div align="center"> Figure 10: User Authentication in ROHub platform </div>
+
+  
+
+Figure XX User Authentication in ROHub platform
 
 
 * Federated identities: This section shows the user identity in EGI check-in, if any, which is essentially the username of the user in EGI.
@@ -107,8 +103,7 @@ The user account settings can be accessed by the users once they are logged into
 * Applications: This section shows the IAM application clients that this user is able to use to authenticate in ROHub, along with the roles and permissions associated to this account. The client used is generally transparent to the user, as it is set internally by the application itself (e.g., ROHub portal, ROHub python library, Enrichment service, etc.). 
   
 
-<p align="center"> <img src="images/image16.png" width="700"> </p>
-<div align="center"> Figure 11: Page showing applications accessed by a ROHub user </div>
+Figure XX Page showing applications accessed by a ROHub user
 
 
 * Log: This section shows all the available activity log for the user account in ROHub, including the date of the event, type of the event (i.e., login), IP source, application client used, and any additional information like the username and authentication method used. 
@@ -135,9 +130,7 @@ The overview section of the research object displays the essential information/m
 The figure below depicts a basic overview page of a research object in the ROHub platform.
   
 
-<p align="center"> <img src="images/image82.png"> </p>
-<div align="center"> Figure 12: Research Object overview page </div>
-
+Figure XX Research Object overview page
 #### Content 
 This section shows the aggregated resources in a research object where the user is enabled to browse and navigate through the resources. The resources can also include folders and subfolders. When the user selects a resource, its metadata information is displayed at the end of the page along with the annotations added in the ROHub platform for that particular resource. The Content page of a research object comprise of the following sections:
 * The navigation section lists the RO contents that shows  metadata like the size or number of resources in a folder, creation time and date, creator identity etc.
@@ -145,45 +138,45 @@ This section shows the aggregated resources in a research object where the user 
 * On selecting a single resource the user is allowed to see the available annotation list associated with the resource.  On clicking the “Show Annotations” the user can see the annotations associated with that particular resource selected by the user. 
 The figures below give a better understanding of the content section of a research object. 
 
-<p align="center"> <img src="images/image54.png" width="700"> </p>
-<div align="center"> Figure 13: Content navigation list </div>
 
-<p align="center"> <img src="images/image21.png" width="700"> </p>
-<div align="center"> Figure 14: Resource metadata and action bar in Content Section </div>
   
 
-<p align="center"> <img src="images/image20.png" width="700"> </p>
-<div align="center"> Figure 15: Resource metadata and annotations in Content section </div>
-
+Figure XX Content navigation list
 
 
   
+
+
+
+Figure XX Resource metadata and action bar in Content Section
+  
+
+
+
+Figure XX Resource metadata and annotations in Content section
+
+
 #### Quality (under construction)
 This section of the RO will enable users to assess the quality of a research object according to some predefined quality criteria (e.g. completeness). This section interacts with the quality checklist service to showcase the desired results. Additionally, this section enables the RO monitoring tool to assess the RO quality through time. Presently this section is under construction. 
-  
 
 
 #### Activity
 This section is a specialisation of the main activity search page of the ROHub and only presents a list of notifications that were generated by the system regarding the activity done on the selected RO only (e.g., changes in the RO content, modification of resources, and their associated metadata, including comments) and quality (e.g., changes in the completeness, stability and reliability). The user can see the list containing the dates of creation of the activities, name of the activities as events and the user identity responsible for the activities. The user can sort the activities in a selected RO by date of creation (e.g. ascending or descending). There are filtering capabilities also present for the user to browse through the activities. Currently available filters allow searching for activities that have occurred in specific time or involve specific users or by specific objects. Moreover the annotations present for each RO activities can also be downloaded on clicking. The figure below shows the activity section of the RO selected.
   
 
-<p align="center"> <img src="images/image27.png" width="700"> </p>
-<div align="center"> Figure 16: Activity section of a Research Object  </div>
+Figure xx Activity section of a Research Object 
 
 
 #### Lifecycle
 This section displays the RO evolution, including the snapshots, forks, and on completion the archive (release) generated for the RO throughout the whole evolution time. The lifecycle chart provides a graphical representation of the related RO for live/snapshots/forks/archive and also the subsequent list of events of the RO over the period of timeline. The user also can navigate to the RO activity page from this section. The figure below depicts the life cycle section of a selected research object. 
   
 
-<p align="center"> <img src="images/image24.png" width="700"> </p>
-<div align="center"> Figure 17: RO Lifecycle section  </div>
-
+Figure XX RO Lifecycle section
 #### Relations
 This section of the ROHub portal visualises the semantic relations between two resources. This section is intended for advanced users. The users can see the relations between the resources where the first one must be the selected research object or an aggregated resource, while the second could also be an external resource. The figure below depicts a visualised relationship  between two resources in the ROHub platform.
   
 
-<p align="center"> <img src="images/image33.png" width="700"> </p>
-<div align="center"> Figure 18: RO relations section </div>
+Figure XX RO relations section
 
 
 #### Impact (under construction)
@@ -192,16 +185,14 @@ Though this section of the RO is under construction This section presently has t
 
   
 
-<p align="center"> <img src="images/image22.png" width="700"> </p>
-<div align="center"> Figure 19: Impact of the research object </div>
+Figure XX Impact of the research object
 
 
 ### My ROs
 This section in the ROHub platform enables an authenticated user to create a research object directly from the user interface of the portal. When a user signs into the portal and on clicking the “My ROs” from the top menu bar gets into the page where he can create new research objects from scratch, see his own created ROs as well as the ROs he is allowed to edit in the platform. The entry page in the My ROs section is shown in the figure below. 
   
 
-<p align="center"> <img src="images/image35.png" width="700"> </p>
-<div align="center"> Figure 20: Entry page of the My ROs section </div>
+Figure XX Entry page of the My ROs section
 
 
 The user can create a research object on clicking the “Create new RO” from the “My ROs” page. On clicking the user is transferred to a form where the user can enter the contents and metadata of the research object to be created. On clicking “Create and Continue” this page allows the user to navigate through other forms to add the various relevant data in order to enrich the research objects such as:
@@ -216,32 +207,30 @@ The user can create a research object on clicking the “Create new RO” from t
 At the bottom of  the first form page the user can also exit from the process of RO creation on clicking “Create and Exit” and come back again to populate the other forms, also there is the possibility of resetting the form on clicking the “Reset form.” The figure below shows the main page and the forms for creating research objects in the ROHub platform.
   
 
-<p align="center"> <img src="images/image59.png" width="700"> </p>
-<div align="center"> Figure 21: RO creation via ROHub </div> 
-  
+Figure xx RO creation via ROHub
 ### Explore
 The Explore page can be accessed by the user on clicking “EXPLORE” from the topmost menubar of the ROHub platform. This section enables the user to browse and navigate the research objects collection by organising them according to their semantic properties and allowing users to discover the objects by applying multiple search filters. By default the explore page lists all the available ROs, the user can sort them according to ascending/descending data of creation. The number of ROs in one page can be changed too from the explore page for the user. From the explore page the user can browse/search ROs in the following ways:
 * Faceted search results view where the user can search for keyword specific research objects from the keyword serah box present at  the top of the explore page. This fetches the list of research objects according to the keywords used for the search. The view is made by default in list view and another option of image icon (wherever available) for each RO is available. In both cases the same information about ROs is presented. Each research object in the list contains the key metadata like title, description, RO type, research areas, creation date and time etc. as depicted in the figure below. On clicking the “read more” the user can enter into the research object with its respective sections as described in section 2.3.
   
 
-<p align="center"> <img src="https://box.psnc.pl/f/8ed3a5cade/?raw=1" width="700"> </p>
-<div align="center"> Figure 22: Faceted search results of ROs </div>  
+Figure XX Faceted search results of ROs
 
 
 * Filter search allows the user to further filter the results of the fetched ROs according to various criteria. The figure below shows the filter section present in the left side of the explore page. On cycling the green drop-down icon the user can select the options from each filter section and also can reset all the filters from this section.
 
-<p align="center"> <img src="images/image45.png" width="300"> </p>
-<div align="center"> Figure 23: Filter section of the explore page </div>  
+
   
+
+Figure XX Filter section of the explore page
 Each filter section has various options to choose so that the user can filter through the most desired results of the research object. The subsections and their figures are as follows:
 * Research Areas: In the filter the user can select the from a vast range of research areas (broadly in applied sciences, earth sciences, life sciences, physical sciences and space science) available in the ROhub platform to fetch the results from those specific research areas. 
 
 
   
 
-<p align="center"> <img src="images/image39.png" width="300"> </p>
-<div align="center"> Figure 24: Research area filter options </div>
 
+
+Figure XX Research area filter options
 
 
 * Creator: The ROHub platform allows the user to filter the research objects from the platform based on the identity of the creators. The user can provide the names of single or multiple creators (from the signed up users of ROHub) to see the results of the research objects created by them.
@@ -249,14 +238,13 @@ Each filter section has various options to choose so that the user can filter th
 * Modifictors: Similarly the user can filter the ROs based on the information of the modificators. 
   
 
-<p align="center"> <img src="https://box.psnc.pl/f/8825ff7fea/?raw=1" width="300"> </p>
-<div align="center"> Figure 25: Filter options for Creator, Owner and Modificator </div>  
-  
+Figure XX Filter options for Creator, Owner and Modificator
 * “Created” filter allows the user to provide the range of creation dates so that the platform can fetch the ROs according to the dates of creation.
 
 
-<p align="center"> <img src="images/image26.png" width="300"> </p>
-<div align="center"> Figure 26: Creation date filter </div>  
+  
+
+Figure XX Creation date filter
 
 
 * “Quality” filter fetches the ROs according to their quality as per completeness level.
@@ -264,8 +252,7 @@ Each filter section has various options to choose so that the user can filter th
 
   
 
-<p align="center"> <img src="images/image32.png" width="300"> </p>
-<div align="center"> Figure 27: Filter for RO Quality </div>  
+Figure XX Filter for RO Quality
 
 
 * “Modified” allows the user to select and filter the ROs modified on a desired date range provided by the user.
@@ -273,22 +260,21 @@ Each filter section has various options to choose so that the user can filter th
 
   
 
-<p align="center"> <img src="images/image42.png" width="300"> </p>
-<div align="center"> Figure 28: Modification date filter </div>  
+Figure XX Modification date filter
 
 
 * The “Type” filter can be used to choose the relevant research object types available on the ROHub platform. 
 
 
-<p align="center"> <img src="https://box.psnc.pl/f/d83f376113/?raw=1" width="300"> </p>
-<div align="center"> Figure 29: RO type filter </div>  
+  
+
+Figure XX RO type filter
 
 
 * “Status” filter is for filtering the research object based on their status (e.g. live, archived, forked or snapshot). Multiple filter criteria can be applied by the user to fetch the results.
   
 
-<p align="center"> <img src="images/image40.png" width="300"> </p>
-<div align="center"> Figure 30: RO status filter </div>  
+Figure XX RO status filter
 
 
 * Through the “Access mode” filter the Public or private ROs can be selected by the user.
@@ -296,24 +282,20 @@ Each filter section has various options to choose so that the user can filter th
 
 
 
-<p align="center"> <img src="images/image30.png" width="300"> </p>
-<div align="center"> Figure 31: RO Access mode filter </div>  
+Figure XX RO Access mode filter
 
 
 * “Rating” filter allows the user to select the research objects from the range of ratings from <1 to >4.
   
 
-<p align="center"> <img src="images/image76.png" width="300"> </p>
-<div align="center"> Figure 32: RO rating filter </div>  
+Figure XX RO rating filter
 
 
 * “Metrics” is the filter for selecting research objects based on the quantitative values of its metadata elements like folders, resources, annotation, aggregations as well as other portal specific elements like number of views, downloads, likes, dislikes, snapshots, forks, archives and ratings.
 
   
 
-
-<p align="center"> <img src="https://box.psnc.pl/f/82073b0567/?raw=1" width="300"> </p>
-<div align="center"> Figure 33: RO Metrics filter  </div>  
+Figure XX RO Metrics filter 
         
 ### Activity
 The activity page  can be accessed from the topmost menubar of the ROHUb portal. This section comprises the two sections:
@@ -322,15 +304,12 @@ The activity page  can be accessed from the topmost menubar of the ROHUb portal.
 The figures of the global activity list page and the filter view are provided below.
   
 
-<p align="center"> <img src="images/image37.png" width="700"> </p>
-<div align="center"> Figure 34: Activity List </div>  
+Figure XX Activity List
 
 
   
 
-<p align="center"> <img src="images/image34.png" width="300"> </p>
-<div align="center"> Figure 35: Activity search filters list section </div>
-  
+Figure XX Activity search filters list section
 ### People
 This section of the ROHub platform can be accessed from the main topmost menu bar located  in the main landing page of the portal on clicking the “People”.  Once a user is in this section three distinct subsections are visible. A search box for searching the ROHub users by name or surname, a taskbar with alphabets in order to browse the users alphabetically on clicking on each alphabets and finally the list of users fetched as per the search of the user. By default this list provides a global list of all the ROHub users. The subsections can be described as below:
    * The search box for ROHub users allows the users to search for any ROHub user simply by providing their name and/or surname and the results will be provided in the list below. From the list the user can navigate to the user profile of the specific user on clicking “Read more”.
@@ -338,8 +317,10 @@ This section of the ROHub platform can be accessed from the main topmost menu ba
    * By default the list of ROhub users contains all the available ROHub users registered in the portal. A user can sort the list alphabetically depending on the names. From the users list the user profile can be accessed by clicking “Read more” for more information about the users and their associated activities on the platform.
 The figure below shows the people page of the ROHub platform showing the above-mentioned subsections.
 
-<p align="center"> <img src="images/image25.png" width="700"> </p>
-<div align="center"> Figure 36: People search in ROhub  </div>  
+
+  
+
+Figure XX People search in ROhub 
 
 
 #### User profile
@@ -349,8 +330,13 @@ In the ROHub platform the “User profile” can be accessed from the “People�
    * Research Objects is the section which shows the list of the ROs on which the user has performed some activity. If there is nothing to show this section will be simply empty.  
 The figure below shows a general overview of a user profile page.
 
-<p align="center"> <img src="images/image29.png" width="700"> </p> 
-<div align="center"> Figure 37: Overview of a User Profile  </div>
+
+  
+
+
+
+Figure XX Overview of a User Profile
+
 
 ### About
 This section of the ROHub platform provides the user with the most basic information about the ROHub platform. The various sections of the about page can be navigated by the user from the left side panel of the “About” page. Each subsection opens a separate page once the user clicks on the sidebar options. The subsections are as follows:
@@ -365,44 +351,48 @@ This section of the ROHub platform provides the user with the most basic informa
 The following figures show the various above-mentioned sections of the “About” page.
 
 
-<p align="center"> <img src="images/image41.png" width="700"> </p>
-<div align="center"> Figure 38: ROHub details  </div>  
   
 
-<p align="center"> <img src="https://box.psnc.pl/f/21c6b60363/?raw=1" width="800"> </p>
-<div align="center"> Figure 39: Research object information </div>   
-  
-<p align="center"> <img src="images/image69.png" width="700"> </p>  
-<div align="center"> Figure 40: Privacy policy of ROHub </div>  
-  
 
-<p align="center"> <img src="images/image57.png" width="700"> </p>
-<div align="center"> Figure 41: Terms and Services for ROHub users </div>  
+
+Figure XX ROHub details
 
 
   
 
-<p align="center"> <img src="images/image70.png" width="700"> </p>
-<div align="center"> Figure 42: Publications on ROHub platform </div>  
-
-
-<p align="center"> <img src="https://box.psnc.pl/f/c599244b26/?raw=1" width="700"> </p>
-<div align="center"> Figure 43: Team of ROHub platform </div>  
+Figure XX Research object information
   
 
 
-<p align="center"> <img src="images/image74.png" width="700"> </p>
-<div align="center"> Figure 44: Contact details for ROHub support </div>
+
+Figure XX Privacy policy of ROHub 
+
+
   
+
+Figure XX Terms and Services for ROHub users
+
+
+  
+
+Figure XX Publications on ROHub platform
+
+
+  
+
+
+
+Figure XX Team of ROHub platform
+  
+
+Figure XX  Contact details for ROHub support
 ### Support
 The support page can be accessed from the top menu bar as well as from the bottom of the ROhub landing page. In the support section the user can find the ROHub documentation and a brief summary of how to browse the research objects present in the platform. There will also be a frequently asked question section which is still under construction. The documentation of the ROHub is still to be updated and on completion the users can download it in pdf form from the support section. The figure below shows the support section of the ROHub platform. 
 
 
+  
 
-<p align="center"> <img src="images/image65.png" width="700"> </p>
-<div align="center"> Figure 45: Support page of the ROHUb platform </div>  
-
-</div>   
+Figure XX Support page of the ROHUb platform
 
 <!--
 ### Markdown
