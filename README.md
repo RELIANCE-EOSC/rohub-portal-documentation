@@ -1,6 +1,5 @@
 ![ROHub logo](images/image58.png)
 
-<div align="justify">
 
 # Introduction
 [ROHub](htp://reliance.rohub.org/) is a research object management platform supporting the preservation and lifecycle management of scientific investigations, research campaigns and operational processes. As the only existing platform implementing natively the full research object model and paradigm, resources associated to a particular experiment are aggregated in a single digital entity (research object), and metadata reliant to understand and interpret the content is represented as semantic annotations that are user and machine readable.
