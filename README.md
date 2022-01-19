@@ -397,7 +397,6 @@ The support page can be accessed from the top menu bar as well as from the botto
 <p align="center"> <img src="images/image65.png" width="700"> </p>
 <div align="center"> Figure 45: Support page of the ROHUb platform </div>
 
-</div>
 
 <!--
 ### Markdown
