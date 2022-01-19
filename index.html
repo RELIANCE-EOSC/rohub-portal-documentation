@@ -1,0 +1,1089 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>ROHub portal documentation</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <link rel="stylesheet" href="css/normalize.css">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/cayman.css">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">ROHub portal documentation</h1>
+      <h2 class="project-tagline">ROHub is the reference research object management platform, allowing to manage and preserve your research work, make it available and discover new knowledge. As part of RELIANCE project ROHub has been onboarded and integrated in the European Open Science Cloud as a service for research management</h2>
+      <a href="#" class="btn">View on GitHub</a>
+      <a href="#" class="btn">Download .zip</a>
+      <a href="#" class="btn">Download .tar.gz</a>
+    </section>
+
+    <section class="main-content">
+      <h1 class="c43">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 158.67px;">
+        <img alt="" src="images/image58.png" style="width: 601.70px; height: 158.67px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </h1>
+    <p class="c5 c7">
+      <span class="c3"></span>
+    </p>
+        <h1 style="display:inline">
+          <span class="c37">Introduction</span>
+        </h1>
+    <p class="c17">
+      <a href="https://reliance.rohub.org/">ROHub</a> is a research object management platform supporting the preservation and lifecycle management of scientific investigations, research campaigns and operational processes. As the only existing platform implementing natively the full research object model and paradigm, resources associated to a particular experiment are aggregated in a single digital entity (research object), and metadata reliant to understand and interpret the content is represented as semantic annotations that are user and machine readable.</span>
+    </p>
+    <p class="c6">
+      <span class="c3"></span>
+    </p>
+    <p class="c17">
+      <span class="c3">ROHub can support different stakeholders, with the primary focus on scientists, researchers, students and enthusiasts, enabling them to manage and preserve their research work, to share it and make it available for publishing, to collaborate and to discover new knowledge.</span>
+    </p>
+    <p class="c17">
+      <span class="c3">However, other user groups can be benefited by ROHub like the Industry that can leverage</span>
+    </p>
+    <p class="c17">
+      <span class="c3">the platform to externalize their research to a community of researchers worldwide in multiple scientific domains, e.g., launching campaigns for research on specific topics, and to follow and monitor the progress. Similarly, investors can keep up to date and track scientific advances to fund and get involved in future breakthroughs. As another example, publishers can also leverage ROHub to advertise their journals with researchers, have access to a pool of potential reviewers, and implement more interactive review processes.</span>
+    </p>
+    <p class="c6">
+      <span class="c3"></span>
+    </p>
+    
+        <h2 style="display:inline">
+          <span class="c0">ROHub portal</span>
+        </h2>
+    <p class="c5 c7">
+      <span class="c3"></span>
+    </p>
+    <p class="c17">
+      <span class="c3">ROHub portal is a Web client application providing a comprehensive user interface for the management and preservation of research objects (ROs). ROHub portal integrates and provides access to different research object services, such as:</span>
+    </p>
+    <ul class="c10 lst-kix_list_15-0 start">
+      <li class="c2 li-bullet-0">
+        <span class="c28">The core RO backend service, enabling the creation, storage, maintenance and access to research objects, the management of their lifecycle, and their preservation. The backend </span>
+        <span class="c3">leverages various EOSC services including Zenodo and B2Share for RO publication, as well as B2Drop for resources storage (ongoing). </span>
+      </li>
+    </ul>
+    <ul class="c10 lst-kix_list_15-1 start">
+      <li class="c9 li-bullet-0">
+        <span class="c3">RO backend also includes a notification service, enabling the subscription to events related to a particular research object (e.g., changes in content or quality), or to the portal itself (e.g., when new ROs are created).</span>
+      </li>
+    </ul>
+    <ul class="c10 lst-kix_list_15-0">
+      <li class="c2 li-bullet-0">
+        <span class="c3">The ROHub AIM (Identity and Access Management) service, powered by Keycloack open source solution, and which is integrated with EOSC AIM service (EGI check-in)</span>
+      </li>
+      <li class="c2 li-bullet-0">
+        <span class="c3">RO enrichment service (also onboarded in EOSC), which generates automatically semantic annotations based on the (textual) resources aggregated in order to improve the discoverability and searchability of research objects.</span>
+      </li>
+      <li class="c2 li-bullet-0">
+        <span class="c3">RO PDF generation service, allowing the retrieval of the RO in paper style in PDF format. </span>
+      </li>
+      <li class="c2 li-bullet-0">
+        <span class="c3">EOSC (EGI) Notebooks (under integration) to allow the loading of notebooks aggregated in an RO directly on the EGI notebooks environment.</span>
+      </li>
+      <li class="c2 li-bullet-0">
+        <span class="c28">RO checklists service </span>
+        <span>(under integration)</span>
+        <span class="c28">, providing remote access to the minim-based evaluation of research objects, used to test for completeness, </span>
+        <span>runnability</span>
+        <span class="c3">&nbsp;or repeatability. </span>
+      </li>
+      <li class="c2 li-bullet-0">
+        <span class="c28">RO stability service </span>
+        <span>(under integration)</span>
+        <span class="c28">, enabling the evaluation of the RO through time by capturing concrete values provided by the checklist service in different moments of its evolution. It allows testing the ability of a research object to achieve its original purpose after being subject </span>
+        <span>to changes</span>
+        <span class="c3">&nbsp;on its resources. </span>
+      </li>
+    </ul>
+    <ul class="c10 lst-kix_list_15-1 start">
+      <li class="c9 li-bullet-0">
+        <span>RO stability includes the </span>
+        <span class="c3">RO monitoring tool, providing an interface to visually monitor and keep track of the status of external datasets and web services required for workflow execution. It&#39;s based on the stability service. </span>
+      </li>
+    </ul>
+    <ul class="c10 lst-kix_list_15-0">
+      <li class="c2 li-bullet-0">
+        <span class="c28">RO collaboration spheres </span>
+        <span>(under integration)</span>
+        <span class="c28">, providing an interface for the discovery of research objects that are similar or related to the selected research object or scientist.</span>
+      </li>
+    </ul>
+    
+        <h1 style="display:inline">
+          <span class="c41">ROHub Portal pages</span>
+        </h1>
+    <p class="c16">
+      <span class="c8"> </span>
+    </p>
+    
+        <h2 id="h.az3i3cbvf4tl" style="display:inline">
+          <span class="c18">Home</span>
+        </h2>
+    
+    <p class="c17">
+      <span class="c3">The homepage or landing page provides a general overview of the ROhub platform which includes a keyword search component from which the user can directly start finding research objects and creator information, a section for the featured research object where selective research objects (golden examples) can be featured based on their completeness and impact factor. The landing page also includes a section for the key statistics of the ROHub and a section with the recent activities showing the latest changes or events on the ROHub platform. The figure below depicts the partial view of the homepage of ROhub portal.</span>
+    </p>
+    <p class="c16">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 476.43px; height: 224.20px;">
+        <img alt="" src="images/image19.png" style="width: 476.43px; height: 224.20px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c16">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 489.95px; height: 229.70px;">
+        <img alt="" src="images/image2.png" style="width: 489.95px; height: 229.70px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c16">
+      <span class="c8">Figure xx Landing page of the ROHub platform</span>
+    </p>
+    <p class="c4">
+      <span class="c8"></span>
+    </p>
+        <h3 id="h.6spnzbhxowsb" style="display:inline">
+          <span class="c22">Basic search by keyword</span>
+        </h3>
+
+  <p class="c17">
+      <span class="c3">This component enables users to find research objects by keywords, looking through all the metadata annotations available, e.g., title, description, creator, etc. The user can easily look for research objects or resources by providing any associated keyword and thereafter the user can look for the desired resources from the explore page.</span>
+    </p>
+    <p class="c17">
+      <span class="c3">&nbsp;</span>
+    </p>
+    <p class="c17 c39">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 444.50px; height: 177.61px;">
+        <img alt="" src="images/image23.png" style="width: 444.50px; height: 177.61px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c16">
+      <span class="c8">Figure XX: Keyword search component</span>
+    </p>
+    <p class="c6 c39">
+      <span class="c3"></span>
+    </p>
+    
+        <h3 id="h.w8rbxvzaj9aq" style="display:inline">
+          <span class="c22">Featured research objects</span>
+        </h3>
+    
+    <p class="c17">
+      <span class="c3">This section presents the list of ROs that are promoted because of their quality (measured based on the RO compliance according to some specified criteria like completeness, impact etc.) or because of their popularity (e.g., golden examples) as depicted in figure below.</span>
+    </p>
+    <p class="c17 c39">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 403.50px; height: 205.89px;">
+        <img alt="" src="images/image44.png" style="width: 403.50px; height: 205.89px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c16">
+      <span class="c25">Figure XX Featured research objects component</span>
+    </p>
+        <h3 id="h.gai9f5sdvat6" style="display:inline">
+          <span class="c22">Recent activity</span>
+        </h3>
+    <p class="c17">
+      <span>This section presents the latest three ROs that were created most recently, resources added to research objects, snapshots or archives or any recent activities on the ROs. By clicking on the &ldquo;Read more&rdquo; the user can go to the main RO overview page for detailed representation. </span>
+    </p>
+    <p class="c17 c19">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 496.50px; height: 380.81px;">
+        <img alt="" src="images/image28.png" style="width: 496.50px; height: 380.81px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c16">
+      <span class="c8">Figure XX Recent activity component</span>
+    </p>
+    <p class="c5 c7">
+      <span class="c8"></span>
+    </p>
+        <h3 id="h.zz5cwkjmpe" style="display:inline">
+          <span class="c22">Key Statistics of ROHub platform</span>
+        </h3>
+    <p class="c5">
+      <span class="c3">This section of the landing page shows the key statistics of the ROHub platform consisting of the number of research objects created with all the resources, total number of annotations, total number of users in the portal. </span>
+    </p>
+    <p class="c16">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 425.33px; height: 130.00px;">
+        <img alt="" src="images/image43.png" style="width: 425.33px; height: 130.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+      <span class="c3">&nbsp;</span>
+    </p>
+    <p class="c16">
+      <span class="c8">Figure XX Key statistics of the ROhub platform</span>
+    </p>
+    <p class="c6">
+      <span class="c8"></span>
+    </p>
+        <h2 id="h.dxfy7hwxqxvw" style="display:inline">
+          <span class="c18">Login</span>
+        </h2>
+    <p class="c17">
+      <span class="c3">The login (Sign in/Sign up) is available on the menu bar of the homepage. The keycloak authentication system allows the users to login either with predefined EGI credentials or users can register themselves with login and password. Once registered the authentication system allows the registered users to sign in to the ROhub portal. The figures below show the login and sign up functionalities of the ROhub portal.</span>
+    </p>
+    <p class="c16">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 320.77px; height: 371.50px;">
+        <img alt="" src="images/image9.png" style="width: 320.77px; height: 371.50px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c16">
+      <span class="c8">Figure XX Login page of ROhub portal</span>
+    </p>
+    <p class="c4">
+      <span class="c8"></span>
+    </p>
+    <p class="c16">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 246.58px; height: 448.50px;">
+        <img alt="" src="images/image18.png" style="width: 246.58px; height: 448.50px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c16">
+      <span class="c25">Figure XX User registration page of ROhub portal</span>
+    </p>
+        <h2 id="h.lqzh3w2ortpv" style="display:inline">
+          <span class="c22">User account settings</span>
+        </h2>
+    <p class="c17">
+      <span class="c3">The user account settings can be accessed by the users once they are logged into the portal. There are various components that can be access via the user account setting page, such as:</span>
+    </p>
+    <ul class="c10 lst-kix_mpm4kdvncsxi-0 start">
+      <li class="c2 li-bullet-0">
+        <span class="c3">Edit Account: In this page the user can update and save the personal user-specific information to update the account. This information includes email, firstname, last name, affiliation of the user etc. </span>
+      </li>
+    </ul>
+    <p class="c6 c19">
+      <span class="c3"></span>
+    </p>
+    <p class="c14">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 282.25px; height: 431.87px;">
+        <img alt="" src="images/image17.png" style="width: 282.25px; height: 431.87px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c14">
+      <span class="c8">Figure XX Edit Account page for ROHub users</span>
+    </p>
+    <p class="c4 c19">
+      <span class="c8"></span>
+    </p>
+    <ul class="c10 lst-kix_mpm4kdvncsxi-0">
+      <li class="c2 li-bullet-0">
+        <span class="c3">Change password: This section enables the user to change the password of his account in ROHub. This password is independent of the EGI check-in password.</span>
+      </li>
+    </ul>
+    <p class="c14">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 247.75px; height: 193.70px;">
+        <img alt="" src="images/image5.png" style="width: 247.75px; height: 193.70px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c14">
+      <span class="c8">Figure XX Password reset page</span>
+    </p>
+    <p class="c4 c19">
+      <span class="c8"></span>
+    </p>
+    <ul class="c10 lst-kix_mpm4kdvncsxi-0">
+      <li class="c2 li-bullet-0">
+        <span class="c3">Authenticator: This system allows the user to save the device as a second level authentication. This is done through third party authentication applications (e.g. FreeOTP, Google Authenticator). The application scans the barcode provided in the user&rsquo;s account and generates an OTP which along with the name of the device can be saved. </span>
+      </li>
+    </ul>
+    <p class="c6 c19">
+      <span class="c3"></span>
+    </p>
+    <p class="c14">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 290.46px; height: 433.40px;">
+        <img alt="" src="images/image1.png" style="width: 290.46px; height: 433.40px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c14">
+      <span class="c8">Figure XX User Authentication in ROHub platform</span>
+    </p>
+    <p class="c4 c19">
+      <span class="c8"></span>
+    </p>
+    <ul class="c10 lst-kix_mpm4kdvncsxi-0">
+      <li class="c2 li-bullet-0">
+        <span class="c3">Federated identities: This section shows the user identity in EGI check-in, if any, which is essentially the username of the user in EGI.</span>
+      </li>
+      <li class="c2 li-bullet-0">
+        <span class="c3">Sessions: Shows the current sessions for the user account. The session record consists of information like the &nbsp;user IP address, the start and end time of the session etc. </span>
+      </li>
+      <li class="c2 li-bullet-0">
+        <span class="c3">Applications: This section shows the IAM application clients that this user is able to use to authenticate in ROHub, along with the roles and permissions associated to this account. The client used is generally transparent to the user, as it is set internally by the application itself (e.g., ROHub portal, ROHub python library, Enrichment service, etc.). </span>
+      </li>
+    </ul>
+    <p class="c14">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 448.67px; height: 87.20px;">
+        <img alt="" src="images/image16.png" style="width: 448.67px; height: 87.20px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c14">
+      <span class="c8">Figure XX Page showing applications accessed by a ROHub user</span>
+    </p>
+    <p class="c5 c19 c7">
+      <span class="c8"></span>
+    </p>
+    <ul class="c10 lst-kix_mpm4kdvncsxi-0">
+      <li class="c2 li-bullet-0">
+        <span>Log: This section shows all the available activity log for the user account in ROHub, including the date of the event, type of the event (i.e., login), IP source, application client used, and any additional information like the username and authentication method used.</span>
+        <span class="c3">&nbsp;</span>
+      </li>
+    </ul>
+    <p class="c6 c19">
+      <span class="c3"></span>
+    </p>
+        <h2 id="h.gxcz6by0xp9v" style="display:inline">
+          <span class="c18">Research Object </span>
+        </h2>
+    <p class="c17">
+      <span class="c3">The ROHub users can access a research object either by the keyword search or from the explore page. The metadata of a specific research object in the ROHub platform can be categorised in various sections as described below.</span>
+    </p>
+        <h3 id="h.27rrdij59m04" style="display:inline">
+          <span class="c22">Overview</span>
+        </h3>
+    <p class="c17">
+      <span class="c3">The overview section of the research object displays the essential information/metadata and enables the manipulation of the research object. It consists the following subsections:</span>
+    </p>
+    <ul class="c10 lst-kix_k7joaauqd5mx-0 start">
+      <li class="c2 li-bullet-0">
+        <span class="c3">The main metadata includes the title, description, research areas, research object type, creation mode, creation date, last modification date, creator&rsquo;s identity and relevant sketch associated with the research object.</span>
+      </li>
+      <li class="c2 li-bullet-0">
+        <span class="c3">Some especially relevant metadata elements might include the geospatial information associated with the research object that can be displayed in a map popup window, and the annotations added automatically by the semantic enrichment service.</span>
+      </li>
+      <li class="c2 li-bullet-0">
+        <span class="c3">The overview page also gives a summary of the contents encapsulated within the research object inspite of having a separate section for contents in the research object. The content subsection within the overview page shows the relevant contents and enables the user to navigate through them. </span>
+      </li>
+      <li class="c2 li-bullet-0">
+        <span class="c3">Within the overview page the Activity subsection summarizes the recent activity done on the research object. The user will be transferred to the main activity page within the research object on clicking the &ldquo;View all&rdquo; option. </span>
+      </li>
+      <li class="c2 li-bullet-0">
+        <span class="c3">The overview also contains the Lifecycle chart subsection where the evolution of the research object can be summarised for the user. From this subsection the user can navigate to the main lifecycle page of the research object on clicking &ldquo;View all&rdquo;.</span>
+      </li>
+      <li class="c2 li-bullet-0">
+        <span class="c3">The overview also contains the annotations added automatically to the research object by the semantic enrichment service. Selecting &ldquo;Show All Annotations&rdquo; at the end of the overview panel, drops down all the annotations added to the research object. Each annotation pops out in a separate window on clicking one of the annotations listed within the list. The user can also hide the annotation list on clicking the &ldquo;Hide Annotations&rdquo;.</span>
+      </li>
+      <li class="c2 li-bullet-0">
+        <span class="c3">On the right side of the overview page contains the various toolbars such as:</span>
+      </li>
+    </ul>
+    <ul class="c10 lst-kix_k7joaauqd5mx-1 start">
+      <li class="c9 li-bullet-0">
+        <span class="c3">Summary of the RO including the number of views, downloads, resources, annotations, activity events, forks, snapshots/archives, as well as the RO quality score, and the research object size.</span>
+      </li>
+      <li class="c9 li-bullet-0">
+        <span class="c3">&ldquo;AGENTS&rdquo; subsection holds the usernames of the creator and the importer associated with the RO.</span>
+      </li>
+      <li class="c9 li-bullet-0">
+        <span class="c3">&ldquo;QUALITY&rdquo; shows the status of the quality of the RO in regard of its completeness.</span>
+      </li>
+      <li class="c9 li-bullet-0">
+        <span class="c3">&ldquo;KEYWORDS&rdquo; subsection holds the relevant keywords associated with the RO</span>
+      </li>
+      <li class="c9 li-bullet-0">
+        <span class="c3">&ldquo;TOOLBOX&rdquo; section allowing the user to download the research object, or its metadata; to get the research object atom feed that can be used to subscribe to the research object notifications; manage the research object evolution if the user is allowed (e.g., to create snapshots, archives, or fork the research object); manage the research object annotations if the user is allowed (e.g., to update the annotations from the semantic enrichment service, import an annotation body, or display the advanced annotation view</span>
+      </li>
+      <li class="c9 li-bullet-0">
+        <span>&ldquo;SHARE&rdquo; allows the user to share the </span>
+        <span>RO over</span>
+        <span class="c3">&nbsp;social media or by directly creating shareable link (function still not available) </span>
+      </li>
+      <li class="c9 li-bullet-0">
+        <span class="c3">&ldquo;Cite As&rdquo; subsection shows the citations used in the RO (if any)</span>
+      </li>
+    </ul>
+    <p class="c17">
+      <span class="c3">The figure below depicts a basic overview page of a research object in the ROHub platform.</span>
+    </p>
+    <p class="c16">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 492.27px; height: 807.50px;">
+        <img alt="" src="images/image82.png" style="width: 492.27px; height: 807.50px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c16">
+      <span class="c25">Figure XX Research Object overview page</span>
+    </p>
+        <h3 id="h.pjmci2tu5paz" style="display:inline">
+          <span class="c22">Content </span>
+        </h3>
+    <p class="c17">
+      <span class="c3">This section shows the aggregated resources in a research object where the user is enabled to browse and navigate through the resources. The resources can also include folders and subfolders. When the user selects a resource, its metadata information is displayed at the end of the page along with the annotations added in the ROHub platform for that particular resource. The Content page of a research object comprise of the following sections:</span>
+    </p>
+    <ul class="c10 lst-kix_2o688oj8uyiv-0 start">
+      <li class="c2 li-bullet-0">
+        <span class="c3">The navigation section lists the RO contents that shows &nbsp;metadata like the size or number of resources in a folder, creation time and date, creator identity etc.</span>
+      </li>
+      <li class="c2 li-bullet-0">
+        <span class="c3">The resource details section, which appears after the user selects (or clicks on) a resource in the navigation panel. It shows basic resource metadata e.g. title, resource type, number of contents in case of folder, URI (in case of a single resource element), creation date, modification date, author etc. Moreover on selecting a resource the content section shows actions on these resources from where the user is allowed certain actions like download, edition, deletion etc.</span>
+      </li>
+      <li class="c2 li-bullet-0">
+        <span class="c3">On selecting a single resource the user is allowed to see the available annotation list associated with the resource. &nbsp;On clicking the &ldquo;Show Annotations&rdquo; the user can see the annotations associated with that particular resource selected by the user. </span>
+      </li>
+    </ul>
+    <p class="c17">
+      <span class="c3">The figures below give a better understanding of the content section of a research object. </span>
+    </p>
+    <p class="c6">
+      <span class="c3"></span>
+    </p>
+    <p class="c16">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 429.03px; height: 213.80px;">
+        <img alt="" src="images/image54.png" style="width: 429.03px; height: 213.80px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c16">
+      <span class="c8">Figure XX Content navigation list</span>
+    </p>
+    <p class="c4">
+      <span class="c8"></span>
+    </p>
+    <p class="c16">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 385.95px; height: 266.99px;">
+        <img alt="" src="images/image21.png" style="width: 385.95px; height: 266.99px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c4">
+      <span class="c8"></span>
+    </p>
+    <p class="c16">
+      <span class="c8">Figure XX Resource metadata and action bar in Content Section</span>
+    </p>
+    <p class="c16">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 405.25px; height: 373.80px;">
+        <img alt="" src="images/image20.png" style="width: 405.25px; height: 373.80px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c4">
+      <span class="c8"></span>
+    </p>
+    <p class="c16">
+      <span class="c25">Figure XX Resource metadata and annotations in Content </span>
+      <span class="c25">section</span>
+    </p>
+    <p class="c4">
+      <span class="c8"></span>
+    </p>
+    <ol class="c10 lst-kix_list_14-2" start="8">
+      <li class="c13 li-bullet-5">
+        <h3 id="h.nhb581c2atuf" style="display:inline">
+          <span class="c22">Quality (under construction)</span>
+        </h3>
+      </li>
+    </ol>
+    <p class="c17">
+      <span class="c3">This section of the RO will enable users to assess the quality of a research object according to some predefined quality criteria (e.g. completeness). This section interacts with the quality checklist service to showcase the desired results. Additionally, this section enables the RO monitoring tool to assess the RO quality through time. Presently this section is under construction. </span>
+    </p>
+    <p class="c6">
+      <span class="c3"></span>
+    </p>
+        <h3 id="h.vajlrd91xs21" style="display:inline">
+          <span class="c22">Activity</span>
+        </h3>
+    <p class="c17">
+      <span>This section is a specialisation of the main activity search page of the ROHub and only presents a list of notifications that were generated by the system regarding the activity done on the selected </span>
+      <span>RO only</span>
+      <span>&nbsp;(e.g., changes in the RO content, modification of resources, and their associated metadata, including comments) and quality (e.g., changes in the completeness, stability and reliability). The user can see the list containing the dates of creation of the activities, name of the activities as events and the user identity responsible for the activities. The user can sort the activities in a selected </span>
+      <span>RO by</span>
+      <span class="c3">&nbsp;date of creation (e.g. ascending or descending). There are filtering capabilities also present for the user to browse through the activities. Currently available filters allow searching for activities that have occurred in specific time or involve specific users or by specific objects. Moreover the annotations present for each RO activities can also be downloaded on clicking. The figure below shows the activity section of the RO selected.</span>
+    </p>
+    <p class="c16">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 467.58px; height: 373.60px;">
+        <img alt="" src="images/image27.png" style="width: 467.58px; height: 373.60px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c16">
+      <span class="c8">Figure xx Activity section of a Research Object </span>
+    </p>
+    <p class="c5 c7">
+      <span class="c3"></span>
+    </p>
+        <h3 id="h.k0j5qfo6kwxs" style="display:inline">
+          <span class="c22">Lifecycle</span>
+        </h3>
+    <p class="c17">
+      <span class="c3">This section displays the RO evolution, including the snapshots, forks, and on completion the archive (release) generated for the RO throughout the whole evolution time. The lifecycle chart provides a graphical representation of the related RO for live/snapshots/forks/archive and also the subsequent list of events of the RO over the period of timeline. The user also can navigate to the RO activity page from this section. The figure below depicts the life cycle section of a selected research object. </span>
+    </p>
+    <p class="c16">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 376.85px; height: 144.86px;">
+        <img alt="" src="images/image24.png" style="width: 376.85px; height: 144.86px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c16">
+      <span class="c25">Figure XX RO Lifecycle section</span>
+    </p>
+        <h3 id="h.vxejovwdf1i9" style="display:inline">
+          <span class="c22">Relations</span>
+        </h3>
+    <p class="c17">
+      <span class="c3">This section of the ROHub portal visualises the semantic relations between two resources. This section is intended for advanced users. The users can see the relations between the resources where the first one must be the selected research object or an aggregated resource, while the second could also be an external resource. The figure below depicts a visualised relationship &nbsp;between two resources in the ROHub platform.</span>
+    </p>
+    <p class="c16">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 180.00px;">
+        <img alt="" src="images/image33.png" style="width: 601.70px; height: 180.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c16">
+      <span class="c8">Figure XX RO relations section</span>
+    </p>
+    <p class="c5 c7">
+      <span class="c3"></span>
+    </p>
+        <h3 id="h.p1ud70rb9cnt" style="display:inline">
+          <span class="c22">Impact (under construction)</span>
+        </h3>
+    <p class="c17">
+      <span class="c3">Though this section of the RO is under construction This section presently has two sections. The first section presents a graph of the number of activities through a time period of one year and the second section presents the statistics related to research object impact, including the number of views, downloads, forks and number of activities through a time period of a month.</span>
+    </p>
+    <p class="c6">
+      <span class="c3"></span>
+    </p>
+    <p class="c16">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 394.85px; height: 320.06px;">
+        <img alt="" src="images/image22.png" style="width: 394.85px; height: 320.06px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c16">
+      <span class="c8">Figure XX Impact of the research object</span>
+    </p>
+    <p class="c5 c7">
+      <span class="c3"></span>
+    </p>
+        <h2 id="h.4fyf62oxx2h2" style="display:inline">
+          <span class="c18">My ROs</span>
+        </h2>
+    <p class="c17">
+      <span class="c3">This section in the ROHub platform enables an authenticated user to create a research object directly from the user interface of the portal. When a user signs into the portal and on clicking the &ldquo;My ROs&rdquo; from the top menu bar gets into the page where he can create new research objects from scratch, see his own created ROs as well as the ROs he is allowed to edit in the platform. The entry page in the My ROs section is shown in the figure below. </span>
+    </p>
+    <p class="c16">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 470.23px; height: 169.50px;">
+        <img alt="" src="images/image35.png" style="width: 470.23px; height: 169.50px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c16">
+      <span class="c8">Figure XX Entry page of the My ROs section</span>
+    </p>
+    <p class="c4">
+      <span class="c8"></span>
+    </p>
+    <p class="c17">
+      <span class="c3">The user can create a research object on clicking the &ldquo;Create new RO&rdquo; from the &ldquo;My ROs&rdquo; page. On clicking the user is transferred to a form where the user can enter the contents and metadata of the research object to be created. On clicking &ldquo;Create and Continue&rdquo; this page allows the user to navigate through other forms to add the various relevant data in order to enrich the research objects such as:</span>
+    </p>
+    <ul class="c10 lst-kix_tgxirhhbcope-0 start">
+      <li class="c2 li-bullet-0">
+        <span class="c3">&ldquo;Basic information&rdquo; form allows the user to add the key information such as title, description, access mode, editor and owner identities, research areas related to the RO and the type of RO.</span>
+      </li>
+      <li class="c2 li-bullet-0">
+        <span class="c3">&ldquo;Authors &amp; contributors&rdquo; form allows the user to add identity information about the authors and contributors.</span>
+      </li>
+      <li class="c2 li-bullet-0">
+        <span>The form named &ldquo;</span>
+        <span class="c47">tags</span>
+        <span>&rdquo; adds r</span>
+        <span class="c3">elevant tags and related keywords to be used in the research object.</span>
+      </li>
+      <li class="c2 li-bullet-0">
+        <span class="c3">&ldquo;Sketches gallery&rdquo; for uploading sketches related to the research object. </span>
+      </li>
+      <li class="c2 li-bullet-0">
+        <span class="c3">&ldquo;Resources&rdquo; allows the user to add folders and subfolders and add specific types of resources for the research object.</span>
+      </li>
+      <li class="c2 li-bullet-0">
+        <span class="c3">The user can also upload specific geolocations (e.g. GeoJSON files) as per relevance of the research object through the form named &ldquo;Related locations&rdquo;.</span>
+      </li>
+      <li class="c2 li-bullet-0">
+        <span class="c3">&ldquo;License &amp; Funding&rdquo; form allows the creator to add licences and funding information used in the reach object.</span>
+      </li>
+      <li class="c2 li-bullet-0">
+        <span>There is another form called &ldquo;</span>
+        <span class="c47">Other metadata</span>
+        <span>&rdquo; page where additional metadata could be added in the research object &nbsp;</span>
+      </li>
+    </ul>
+    <p class="c17">
+      <span class="c3">At the bottom of &nbsp;the first form page the user can also exit from the process of RO creation on clicking &ldquo;Create and Exit&rdquo; and come back again to populate the other forms, also there is the possibility of resetting the form on clicking the &ldquo;Reset form.&rdquo; The figure below shows the main page and the forms for creating research objects in the ROHub platform.</span>
+    </p>
+    <p class="c16">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 568.84px; height: 511.20px;">
+        <img alt="" src="images/image59.png" style="width: 568.84px; height: 511.20px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c16">
+      <span class="c8">Figure xx RO creation via ROHub</span>
+    </p>
+        <h2 id="h.tszvphmfggjl" style="display:inline">
+          <span class="c18">Explore</span>
+        </h2>
+    <p class="c17">
+      <span class="c3">The Explore page can be accessed by the user on clicking &ldquo;EXPLORE&rdquo; from the topmost menubar of the ROHub platform. This section enables the user to browse and navigate the research objects collection by organising them according to their semantic properties and allowing users to discover the objects by applying multiple search filters. By default the explore page lists all the available ROs, the user can sort them according to ascending/descending data of creation. The number of ROs in one page can be changed too from the explore page for the user. From the explore page the user can browse/search ROs in the following ways:</span>
+    </p>
+    <ul class="c10 lst-kix_wnn86768d1d3-0 start">
+      <li class="c2 li-bullet-0">
+        <span class="c3">Faceted search results view where the user can search for keyword specific research objects from the keyword serah box present at &nbsp;the top of the explore page. This fetches the list of research objects according to the keywords used for the search. The view is made by default in list view and another option of image icon (wherever available) for each RO is available. In both cases the same information about ROs is presented. Each research object in the list contains the key metadata like title, description, RO type, research areas, creation date and time etc. as depicted in the figure below. On clicking the &ldquo;read more&rdquo; the user can enter into the research object with its respective sections as described in section 2.3.</span>
+      </li>
+    </ul>
+    <p class="c14">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 514.98px; height: 503.00px;">
+        <img alt="" src="images/image7.png" style="width: 514.98px; height: 503.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c14">
+      <span class="c8">Figure XX Faceted search results of ROs</span>
+    </p>
+    <p class="c4 c19">
+      <span class="c8"></span>
+    </p>
+    <ul class="c10 lst-kix_wnn86768d1d3-0">
+      <li class="c2 li-bullet-0">
+        <span class="c3">Filter search allows the user to further filter the results of the fetched ROs according to various criteria. The figure below shows the filter section present in the left side of the explore page. On cycling the green drop-down icon the user can select the options from each filter section and also can reset all the filters from this section.</span>
+      </li>
+    </ul>
+    <p class="c6 c19">
+      <span class="c3"></span>
+    </p>
+    <p class="c14">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 114.85px; height: 263.39px;">
+        <img alt="" src="images/image45.png" style="width: 114.85px; height: 263.39px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c14">
+      <span class="c8">Figure XX Filter section of the explore page</span>
+    </p>
+    <p class="c17">
+      <span class="c3">Each filter section has various options to choose so that the user can filter through the most desired results of the research object. The subsections and their figures are as follows:</span>
+    </p>
+    <ul class="c10 lst-kix_yfhb7u5ccwjk-0 start">
+      <li class="c2 li-bullet-0">
+        <span class="c3">Research Areas: In the filter the user can select the from a vast range of research areas (broadly in applied sciences, earth sciences, life sciences, physical sciences and space science) available in the ROhub platform to fetch the results from those specific research areas. </span>
+      </li>
+    </ul>
+    <p class="c6 c19">
+      <span class="c3"></span>
+    </p>
+    <p class="c14">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 116.75px; height: 422.60px;">
+        <img alt="" src="images/image39.png" style="width: 116.75px; height: 422.60px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c4 c19">
+      <span class="c8"></span>
+    </p>
+    <p class="c14">
+      <span class="c8">Figure XX Research area filter options</span>
+    </p>
+    <p class="c4 c19">
+      <span class="c8"></span>
+    </p>
+    <ul class="c10 lst-kix_napv64pr7s2c-0 start">
+      <li class="c2 li-bullet-0">
+        <span class="c3">Creator: The ROHub platform allows the user to filter the research objects from the platform based on the identity of the creators. The user can provide the names of single or multiple creators (from the signed up users of ROHub) to see the results of the research objects created by them.</span>
+      </li>
+      <li class="c2 li-bullet-0">
+        <span class="c3">Owner: On providing the names of owner/s the user can filter the research objects based on the information provided.</span>
+      </li>
+      <li class="c2 li-bullet-0">
+        <span class="c3">Modifictors: Similarly the user can filter the ROs based on the information of the modificators. </span>
+      </li>
+    </ul>
+    <p class="c14">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 155.77px; height: 137.00px;">
+        <img alt="" src="images/image6.png" style="width: 155.77px; height: 137.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c14">
+      <span class="c8">Figure XX Filter options for Creator, Owner and Modificator</span>
+    </p>
+    <ul class="c10 lst-kix_napv64pr7s2c-0">
+      <li class="c2 li-bullet-0">
+        <span>&ldquo;</span>
+        <span class="c3">Created&rdquo; filter allows the user to provide the range of creation dates so that the platform can fetch the ROs according to the dates of creation.</span>
+      </li>
+    </ul>
+    <p class="c6 c19">
+      <span class="c3"></span>
+    </p>
+    <p class="c14">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 207.35px; height: 166.97px;">
+        <img alt="" src="images/image26.png" style="width: 207.35px; height: 166.97px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c14">
+      <span class="c8">Figure XX Creation date filter</span>
+    </p>
+    <p class="c5 c19 c7">
+      <span class="c3"></span>
+    </p>
+    <ul class="c10 lst-kix_napv64pr7s2c-0">
+      <li class="c2 li-bullet-0">
+        <span class="c3">&ldquo;Quality&rdquo; filter fetches the ROs according to their quality as per completeness level.</span>
+      </li>
+    </ul>
+    <p class="c6 c19">
+      <span class="c3"></span>
+    </p>
+    <p class="c14">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 221.65px; height: 78.00px;">
+        <img alt="" src="images/image32.png" style="width: 221.65px; height: 78.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c14">
+      <span class="c8">Figure XX Filter for RO Quality</span>
+    </p>
+    <p class="c5 c19 c7">
+      <span class="c8"></span>
+    </p>
+    <ul class="c10 lst-kix_napv64pr7s2c-0">
+      <li class="c2 li-bullet-0">
+        <span class="c3">&ldquo;Modified&rdquo; allows the user to select and filter the ROs modified on a desired date range provided by the user.</span>
+      </li>
+    </ul>
+    <p class="c6 c19">
+      <span class="c3"></span>
+    </p>
+    <p class="c14">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 211.35px; height: 170.71px;">
+        <img alt="" src="images/image42.png" style="width: 211.35px; height: 170.71px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c14">
+      <span class="c8">Figure XX Modification date filter</span>
+    </p>
+    <p class="c5 c19 c7">
+      <span class="c8"></span>
+    </p>
+    <ul class="c10 lst-kix_napv64pr7s2c-0">
+      <li class="c2 li-bullet-0">
+        <span class="c3">The &ldquo;Type&rdquo; filter can be used to choose the relevant research object types available on the ROHub platform. </span>
+      </li>
+    </ul>
+    <p class="c6">
+      <span class="c3"></span>
+    </p>
+    <p class="c14">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 200.85px; height: 265.27px;">
+        <img alt="" src="images/image3.png" style="width: 200.85px; height: 265.27px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c14">
+      <span class="c8">Figure XX RO type filter</span>
+    </p>
+    <p class="c5 c19 c7">
+      <span class="c8"></span>
+    </p>
+    <ul class="c10 lst-kix_napv64pr7s2c-0">
+      <li class="c2 li-bullet-0">
+        <span class="c3">&ldquo;Status&rdquo; filter is for filtering the research object based on their status (e.g. live, archived, forked or snapshot). Multiple filter criteria can be applied by the user to fetch the results.</span>
+      </li>
+    </ul>
+    <p class="c14">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 240.35px; height: 119.53px;">
+        <img alt="" src="images/image40.png" style="width: 240.35px; height: 119.53px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c14">
+      <span class="c8">Figure XX RO status filter</span>
+    </p>
+    <p class="c5 c19 c7">
+      <span class="c8"></span>
+    </p>
+    <ul class="c10 lst-kix_napv64pr7s2c-0">
+      <li class="c2 li-bullet-0">
+        <span class="c3">Through the &ldquo;Access mode&rdquo; filter the Public or private ROs can be selected by the user.</span>
+      </li>
+    </ul>
+    <p class="c14">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 265.34px; height: 82.50px;">
+        <img alt="" src="images/image30.png" style="width: 265.34px; height: 82.50px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c4 c19">
+      <span class="c3"></span>
+    </p>
+    <p class="c14">
+      <span class="c8">Figure XX RO Access mode filter</span>
+    </p>
+    <p class="c4 c19">
+      <span class="c8"></span>
+    </p>
+    <ul class="c10 lst-kix_napv64pr7s2c-0">
+      <li class="c2 li-bullet-0">
+        <span class="c3">&ldquo;Rating&rdquo; filter allows the user to select the research objects from the range of ratings from &lt;1 to &gt;4.</span>
+      </li>
+    </ul>
+    <p class="c14">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 200.90px; height: 114.50px;">
+        <img alt="" src="images/image76.png" style="width: 200.90px; height: 114.50px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c14">
+      <span class="c8">Figure XX RO rating filter</span>
+    </p>
+    <p class="c4 c19">
+      <span class="c8"></span>
+    </p>
+    <ul class="c10 lst-kix_napv64pr7s2c-0">
+      <li class="c2 li-bullet-0">
+        <span class="c3">&ldquo;Metrics&rdquo; is the filter for selecting research objects based on the quantitative values of its metadata elements like folders, resources, annotation, aggregations as well as other portal specific elements like number of views, downloads, likes, dislikes, snapshots, forks, archives and ratings. <br>
+        </span>
+      </li>
+    </ul>
+    <p class="c14">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 195.20px; height: 360.50px;">
+        <img alt="" src="images/image4.png" style="width: 195.20px; height: 360.50px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c14">
+      <span class="c25">Figure XX RO Metrics filter </span>
+    </p>
+    <p class="c17 c19">
+      <span class="c3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+    </p>
+        <h2 id="h.x9ytewm9z7fa" style="display:inline">
+          <span class="c18">Activity</span>
+        </h2>
+    <p class="c17">
+      <span class="c3">The activity page &nbsp;can be accessed from the topmost menubar of the ROHUb portal. This section comprises the two sections:</span>
+    </p>
+    <ul class="c10 lst-kix_28fcg1klxr2u-0 start">
+      <li class="c2 li-bullet-0">
+        <span class="c3">Global Activity List is the one that summarises and presents all activities conducted by all users on all research objects available in ROHub. This list comprises mainly of the Date and time of the performed activity, activity event describing the type of activity (e.g. creation of a RO, addition of resources, addition of annotations etc.) and the name of the ROHub User who performed the activity (link of the userprofile page). Additionally in case of activities involving annotations the user can download the annotation simply by clicking on the icon &ldquo;Annotations&rdquo;.</span>
+      </li>
+      <li class="c2 li-bullet-0">
+        <span class="c3">Activity search filter is the section where the user can add criteria to find the list of specific activities passed through the filter by the user for searching through the activities, including the activity type and resource type, research area and username of the responsible creator.</span>
+      </li>
+    </ul>
+    <p class="c17">
+      <span class="c3">The figures of the global activity list page and the filter view are provided below.</span>
+    </p>
+    <p class="c16">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 352.35px; height: 382.70px;">
+        <img alt="" src="images/image37.png" style="width: 352.35px; height: 382.70px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c16">
+      <span class="c8">Figure XX Activity List</span>
+    </p>
+    <p class="c4">
+      <span class="c8"></span>
+    </p>
+    <p class="c16">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 187.29px; height: 479.50px;">
+        <img alt="" src="images/image34.png" style="width: 187.29px; height: 479.50px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c16">
+      <span class="c25">Figure XX Activity search filters list section</span>
+    </p>
+        <h2 id="h.s0xcvmvnll5f" style="display:inline">
+          <span class="c18">People</span>
+        </h2>
+    <p class="c17">
+      <span class="c3">This section of the ROHub platform can be accessed from the main topmost menu bar located &nbsp;in the main landing page of the portal on clicking the &ldquo;People&rdquo;. &nbsp;Once a user is in this section three distinct subsections are visible. A search box for searching the ROHub users by name or surname, a taskbar with alphabets in order to browse the users alphabetically on clicking on each alphabets and finally the list of users fetched as per the search of the user. By default this list provides a global list of all the ROHub users. The subsections can be described as below:</span>
+    </p>
+    <ul class="c10 lst-kix_req41wii38bk-0 start">
+      <li class="c2 li-bullet-0">
+        <span class="c3">The search box for ROHub users allows the users to search for any ROHub user simply by providing their name and/or surname and the results will be provided in the list below. From the list the user can navigate to the user profile of the specific user on clicking &ldquo;Read more&rdquo;.</span>
+      </li>
+      <li class="c2 li-bullet-0">
+        <span class="c3">The alphabetical browsing of the ROHub users allows users to navigate and fetch results of the users starting their names from A to Z. Once the user clicks on an alphabet, all the users with their names starting with that alphabet get listed from where the user profile of any user can be accessed to get more user specific information about the ROHub user.</span>
+      </li>
+      <li class="c2 li-bullet-0">
+        <span class="c3">By default the list of ROhub users contains all the available ROHub users registered in the portal. A user can sort the list alphabetically depending on the names. From the users list the user profile can be accessed by clicking &ldquo;Read more&rdquo; for more information about the users and their associated activities on the platform.</span>
+      </li>
+    </ul>
+    <p class="c17">
+      <span class="c3">The figure below shows the people page of the ROHub platform showing the above-mentioned subsections.</span>
+    </p>
+    <p class="c6">
+      <span class="c3"></span>
+    </p>
+    <p class="c16">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 375.66px; height: 443.50px;">
+        <img alt="" src="images/image25.png" style="width: 375.66px; height: 443.50px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c16">
+      <span class="c8">Figure XX People search in ROhub </span>
+    </p>
+    <p class="c6">
+      <span class="c3"></span>
+    </p>
+        <h2 id="h.pjcuapawtp73" style="display:inline">
+          <span class="c18">User profile</span>
+        </h2>
+    <p class="c17">
+      <span class="c3">In the ROHub platform the &ldquo;User profile&rdquo; can be accessed from the &ldquo;People&rdquo; section on clicking the &ldquo;Read more&rdquo; available for a specific registered user. Inside the User profile we can find various subsections. On the left side panel the profile picture is available for the specific user (if available). Besides that there are few subsections, such as:</span>
+    </p>
+    <ul class="c10 lst-kix_88akjcfqneho-0 start">
+      <li class="c2 li-bullet-0">
+        <span class="c3">Overview section shows personal details of the user such as professional description, the user&rsquo;s affiliation and research areas of the user.</span>
+      </li>
+      <li class="c2 li-bullet-0">
+        <span class="c3">Contact shows the email of the user and also the social media handles of the user if provided.</span>
+      </li>
+      <li class="c2 li-bullet-0">
+        <span class="c3">Research Objects is the section which shows the list of the ROs on which the user has performed some activity. If there is nothing to show this section will be simply empty. &nbsp;</span>
+      </li>
+    </ul>
+    <p class="c17">
+      <span class="c3">The figure below shows a general overview of a user profile page.</span>
+    </p>
+    <p class="c4">
+      <span class="c3"></span>
+    </p>
+    <p class="c16">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 422.50px; height: 228.09px;">
+        <img alt="" src="images/image29.png" style="width: 422.50px; height: 228.09px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c4">
+      <span class="c8"></span>
+    </p>
+    <p class="c16">
+      <span class="c8">Figure XX Overview of a User Profile</span>
+    </p>
+    <p class="c4">
+      <span class="c8"></span>
+    </p>
+        <h2 id="h.awn9sfhls2w0" style="display:inline">
+          <span class="c18">About</span>
+        </h2>
+    <p class="c17">
+      <span class="c3">This section of the ROHub platform provides the user with the most basic information about the ROHub platform. The various sections of the about page can be navigated by the user from the left side panel of the &ldquo;About&rdquo; page. Each subsection opens a separate page once the user clicks on the sidebar options. The subsections are as follows:</span>
+    </p>
+    <ul class="c10 lst-kix_6u1bpyqd0753-0 start">
+      <li class="c2 li-bullet-0">
+        <span class="c1">What is ROHub?</span>
+        <span class="c3">: This page includes a short introduction to the ROHub and the technical components of the portal backend and &nbsp;their orchestration. Here the user can read and understand the basic working principles of ROHub in an easy way targeted for all categories of users. </span>
+      </li>
+      <li class="c2 li-bullet-0">
+        <span class="c1">What </span>
+        <span class="c1">is Research</span>
+        <span class="c1">&nbsp;Object?: </span>
+        <span class="c3">This page provides information about the basic idea behind the concept of Research Object and its implementation in the ROHub platform. This page provides the schematic diagrams of the workflows associated in a research environment and its aggregation as a research object.</span>
+      </li>
+      <li class="c2 li-bullet-0">
+        <span class="c3">Privacy Policy: This section allows the user to know about the data protection policies followed in the ROHub platform to protect the user and also to ensure that the user gets the most reliable content available.</span>
+      </li>
+      <li class="c2 li-bullet-0">
+        <span class="c3">Terms of service: This page explains the user and the stakeholders about the terms they should abide by while using the ROHub platform and its digital resources.</span>
+      </li>
+      <li class="c2 li-bullet-0">
+        <span class="c3">Some sections like the &ldquo;News &rdquo; and &ldquo;Showcase&rdquo; ar still under construction</span>
+      </li>
+      <li class="c2 li-bullet-0">
+        <span class="c3">The publication sections show the information of the avail publication regarding ROhub in well known platforms or conferences.</span>
+      </li>
+      <li class="c2 li-bullet-0">
+        <span class="c3">The &ldquo;Team&rdquo; section holds the list of the current and the previous team members who worked on ROhub development.</span>
+      </li>
+      <li class="c2 li-bullet-0">
+        <span>&nbsp;There is a &ldquo;Contact&rdquo; section where the user can find the contact details such as email id and telephone for support and also the address of the affiliated institution. </span>
+      </li>
+    </ul>
+    <p class="c17">
+      <span class="c3">The following figures show the various above-mentioned sections of the &ldquo;About&rdquo; page.</span>
+    </p>
+    <p class="c4">
+      <span class="c3"></span>
+    </p>
+    <p class="c16">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 542.23px; height: 443.20px;">
+        <img alt="" src="images/image41.png" style="width: 542.23px; height: 443.20px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c4">
+      <span class="c3"></span>
+    </p>
+    <p class="c16">
+      <span class="c8">Figure XX ROHub details</span>
+    </p>
+    <p class="c4">
+      <span class="c8"></span>
+    </p>
+    <p class="c16">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 493.30px; height: 817.20px;">
+        <img alt="" src="images/image36.png" style="width: 493.30px; height: 817.20px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c16">
+      <span class="c8">Figure XX Research object information</span>
+    </p>
+    <p class="c16">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 442.25px; height: 421.04px;">
+        <img alt="" src="images/image78.png" style="width: 442.25px; height: 421.04px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c4">
+      <span class="c8"></span>
+    </p>
+    <p class="c16">
+      <span class="c8">Figure XX Privacy policy of ROHub </span>
+    </p>
+    <p class="c4">
+      <span class="c8"></span>
+    </p>
+    <p class="c16">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 445.24px; height: 409.40px;">
+        <img alt="" src="images/image57.png" style="width: 445.24px; height: 409.40px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c16">
+      <span class="c8">Figure XX Terms and Services for ROHub users</span>
+    </p>
+    <p class="c4">
+      <span class="c8"></span>
+    </p>
+    <p class="c16">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 363.00px; height: 145.32px;">
+        <img alt="" src="images/image8.png" style="width: 363.00px; height: 145.32px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c16">
+      <span class="c8">Figure XX Publications on ROHub platform</span>
+    </p>
+    <p class="c4">
+      <span class="c8"></span>
+    </p>
+    <p class="c16">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 320.35px; height: 598.61px;">
+        <img alt="" src="images/image38.png" style="width: 320.35px; height: 598.61px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c4">
+      <span class="c8"></span>
+    </p>
+    <p class="c16">
+      <span class="c8">Figure XX Team of ROHub platform</span>
+    </p>
+    <p class="c16">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 356.65px; height: 271.10px;">
+        <img alt="" src="images/image31.png" style="width: 356.65px; height: 271.10px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c16">
+      <span class="c25">Figure XX &nbsp;Contact details for ROHub support</span>
+    </p>
+        <h2 id="h.rhcy69ii8smb" style="display:inline">
+          <span class="c18">Support</span>
+        </h2>
+    <p class="c17">
+      <span class="c3">The support page can be accessed from the top menu bar as well as from the bottom of the ROhub landing page. In the support section the user can find the ROHub documentation and a brief summary of how to browse the research objects present in the platform. There will also be a frequently asked question section which is still under construction. The documentation of the ROHub is still to be updated and on completion the users can download it in pdf form from the support section. The figure below shows the support section of the ROHub platform. </span>
+    </p>
+    <p class="c6">
+      <span class="c3"></span>
+    </p>
+    <p class="c16">
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 412.65px; height: 431.50px;">
+        <img alt="" src="images/image65.png" style="width: 412.65px; height: 431.50px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+      </span>
+    </p>
+    <p class="c16">
+      <span class="c25">Figure XX Support page of the ROHUb platform</span>
+    </p>
+
+      <footer class="site-footer">
+        <span class="site-footer-owner"><a href="https://github.com/jasonlong/cayman-theme">Cayman</a> is maintained by <a href="https://github.com/jasonlong">jasonlong</a>.</span>
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</span>
+      </footer>
+
+    </section>
+
+  </body>
+</html>
