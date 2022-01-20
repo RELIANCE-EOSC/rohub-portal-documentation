@@ -92,7 +92,7 @@ This section presents the latest three ROs that were created most recently, reso
 This section of the landing page shows the key statistics of the ROHub platform consisting of the number of research objects created with all the resources, total number of annotations, total number of users in the portal.
 
 
-<p align="center"> <img src="images/image43.png" width="700" > </p>
+<p align="center"> <img src="https://box.psnc.pl/f/262e708e02/?raw=1" width="700" > </p>
 <div align="center"> Figure 5: Key statistics of the ROhub platform </div>
 
 
@@ -113,7 +113,7 @@ The login (Sign in/Sign up) is available on the menu bar of the homepage. The ke
 The user account settings can be accessed by the users once they are logged into the portal. There are various components that can be access via the user account setting page, such as:
 * Edit Account: In this page the user can update and save the personal user-specific information to update the account. This information includes email, firstname, last name, affiliation of the user etc.
 
-<p align="center"> <img src="images/image17.png" width="500"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/83e507eeea/?raw=1" width="500"> </p>
 <div align="center"> Figure 8: Edit Account page for ROHub users </div>
 
 
@@ -160,27 +160,29 @@ The overview section of the research object displays the essential information/m
    * “TOOLBOX” section allowing the user to download the research object, or its metadata; to get the research object atom feed that can be used to subscribe to the research object notifications; manage the research object evolution if the user is allowed (e.g., to create snapshots, archives, or fork the research object); manage the research object annotations if the user is allowed (e.g., to update the annotations from the semantic enrichment service, import an annotation body, or display the advanced annotation view
    * “SHARE” allows the user to share the RO over social media or by directly creating shareable link (function still not available)
    * “Cite As” subsection shows the citations used in the RO (if any)
+   * “LICENSE” subsection shows the associated license of the RO (if any) and the contents enclosed with the RO.
+   * “GRANTS” subsection allows the user to see the funsing body supporting the research.
 The figure below depicts a basic overview page of a research object in the ROHub platform.
 
 
-<p align="center"> <img src="images/image82.png"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/8a10c49df7/?raw=1"> </p>
 <div align="center"> Figure 12: Research Object overview page </div>
 
 #### Content <a name="content"></a>
 This section shows the aggregated resources in a research object where the user is enabled to browse and navigate through the resources. The resources can also include folders and subfolders. When the user selects a resource, its metadata information is displayed at the end of the page along with the annotations added in the ROHub platform for that particular resource. The Content page of a research object comprise of the following sections:
-* The navigation section lists the RO contents that shows  metadata like the size or number of resources in a folder, creation time and date, creator identity etc.
-* The resource details section, which appears after the user selects (or clicks on) a resource in the navigation panel. It shows basic resource metadata e.g. title, resource type, number of contents in case of folder, URI (in case of a single resource element), creation date, modification date, author etc. Moreover on selecting a resource the content section shows actions on these resources from where the user is allowed certain actions like download, edition, deletion etc.
+* The navigation section lists the RO contents that shows  metadata like the size or number of resources in a folder, creation time and date, creator identity etc. This page also allows the user to add resources manually or either uploading the resources by directly draging and droping in the webpage or choosing files locally from the user's desktop. The user can create a folder within a parent folder, add resouces from external links or can upload them directly in the portal from this section.
+* The resource details section, which appears after the user selects (or clicks on) a resource in the navigation panel. It shows basic resource metadata e.g. title, resource type, number of contents in case of folder, URI (in case of a single resource element), creation date, modification date, author etc. Moreover on selecting a resource the content section shows actions on these resources from where the user is allowed certain actions like moving the content across various folders, edition, deletion etc.
 * On selecting a single resource the user is allowed to see the available annotation list associated with the resource.  On clicking the “Show Annotations” the user can see the annotations associated with that particular resource selected by the user.
 The figures below give a better understanding of the content section of a research object.
 
-<p align="center"> <img src="images/image54.png" width="700"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/3b9bfcf411/?raw=1" width="700"> </p>
 <div align="center"> Figure 13: Content navigation list </div>
 
-<p align="center"> <img src="images/image21.png" width="700"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/ff5dd2833b/?raw=1" width="700"> </p>
 <div align="center"> Figure 14: Resource metadata and action bar in Content Section </div>
 
 
-<p align="center"> <img src="images/image20.png" width="700"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/8be0e6696c/?raw=1" width="700"> </p>
 <div align="center"> Figure 15: Resource metadata and annotations in Content section </div>
 
 
@@ -225,7 +227,7 @@ Though this section of the RO is under construction This section presently has t
 
 
 ### My ROs <a name="my_ros"></a>
-This section in the ROHub platform enables an authenticated user to create a research object directly from the user interface of the portal. When a user signs into the portal and on clicking the “My ROs” from the top menu bar gets into the page where he can create new research objects from scratch, see his own created ROs as well as the ROs he is allowed to edit in the platform. The entry page in the My ROs section is shown in the figure below.
+This section in the ROHub platform enables an authenticated user to create a research object directly from the user interface of the portal. When a user signs into the portal and on clicking the “My ROs” from the top menu bar gets into the page where he can create new research objects from scratch, see his own created ROs as well as the ROs he is allowed to edit in the platform. The users can also delete any unwanted RO from this page. The entry page in the My ROs section is shown in the figure below.
 
 
 <p align="center"> <img src="images/image35.png" width="700"> </p>
