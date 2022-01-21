@@ -2,6 +2,7 @@
 layout: default
 title: Main sections
 parent: ROHub navigation
+has_children: true
 nav_order: 2
 ---
 
