@@ -1,6 +1,6 @@
 ---
 layout: default
-title: People
+title: About
 parent: Main sections
 grand_parent: ROHub navigation
 nav_order: 2
@@ -14,4 +14,4 @@ nav_order: 2
 
 ---
 
-bla bla 
+bla bla
