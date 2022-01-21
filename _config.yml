@@ -3,3 +3,4 @@ description: ROHub is the reference research object management platform, allowin
 remote_theme: pmarsceill/just-the-docs
 email: support@rohub.org
 logo: images/image58.png
+search_enabled: true
