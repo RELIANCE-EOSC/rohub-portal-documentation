@@ -1,12 +1,9 @@
 ---
 layout: default
 title: Main sections
-parent: ROHub-navigation
-nav_order: 1
+parent: ROHub navigation
+nav_order: 2
 ---
-
-# Main sections
-{: .no_toc }
 
 ## Table of contents
 {: .no_toc .text-delta }
