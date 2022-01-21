@@ -19,7 +19,7 @@ ROHub can support different stakeholders, with the primary focus on scientists, 
 However, other user groups can be benefited by ROHub like the Industry that can leverage
 the platform to externalize their research to a community of researchers worldwide in multiple scientific domains, e.g., launching campaigns for research on specific topics, and to follow and monitor the progress. Similarly, investors can keep up to date and track scientific advances to fund and get involved in future breakthroughs. As another example, publishers can also leverage ROHub to advertise their journals with researchers, have access to a pool of potential reviewers, and implement more interactive review processes.
 
-# ROHub portal <a name="ROHub_portal"></a>
+## ROHub portal <a name="ROHub_portal"></a>
 
 
 ROHub portal is a Web client application providing a comprehensive user interface for the management and preservation of research objects (ROs). ROHub portal integrates and provides access to different research object services, such as:
