@@ -5,6 +5,11 @@ parent: ROHub navigation
 has_children: true
 nav_order: 2
 ---
+
+
+The following table of contents describes the main sections of the ROHub user navigation pages.
+
+
 <!--
 ## Table of contents
 {: .no_toc .text-delta }
