@@ -35,16 +35,16 @@ This section of the landing page shows the key statistics of the ROHub platform 
 
 
 <p align="center"> <img src="https://box.psnc.pl/f/262e708e02/?raw=1" width="700" > </p>
-<div align="center"> Figure 5: Key statistics of the ROhub platform </div>
+<div align="center"> Figure 3: Key statistics of the ROhub platform </div>
 
 ### Featured research objects
 This section presents the list of ROs that are promoted because of their quality (measured based on the RO compliance according to some specified criteria like completeness, impact etc.) or because of their popularity (e.g., golden examples) as depicted in figure below.
 
 <p align="center"> <img src="https://box.psnc.pl/f/b89f068ecf/?raw=1" width="700"> </p>
-<div align="center"> Figure3: Featured research objects component </div>
+<div align="center"> Figure 4: Featured research objects component </div>
 
 ### Recent activity
 This section presents the latest three ROs that were created most recently, resources added to research objects, snapshots or archives or any recent activities on the ROs. By clicking on the “Read more” the user can go to the main RO overview page for detailed representation.
 
 <p align="center"> <img src="https://box.psnc.pl/f/2a8af13407/?raw=1" width="700"> </p>
-<div align="center">Figure4: Recent activity component </div>
+<div align="center">Figure 5: Recent activity component </div>
