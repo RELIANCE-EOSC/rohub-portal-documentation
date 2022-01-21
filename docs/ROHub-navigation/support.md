@@ -20,3 +20,4 @@ The support page can be accessed from the top menu bar as well as from the botto
 ---
 
 bla bla
+-->
