@@ -9,4 +9,3 @@ permalink: /docs/ROHub-navigation
 # ROHub navigation
 
 The ROHub navigation page guides the users through the various pages of the portal.  
-{: .fs-6 .fw-300 }
