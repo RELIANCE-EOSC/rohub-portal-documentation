@@ -27,7 +27,7 @@ The homepage or landing page provides a general overview of the ROhub platform w
 ### Search by keyword
 This component enables users to find research objects by keywords, looking through all the metadata annotations available, e.g., title, description, creator, etc. The user can easily look for research objects or resources by providing any associated keyword and thereafter the user can look for the desired resources from the explore page.
 
-<p align="center"> <img src="images/image23.png" width="700"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/7c3b825529/?raw=1" width="700"> </p>
 <div align="center"> Figure 2: Keyword search component </div>
 
 ### Key ROHub statistics
@@ -40,11 +40,11 @@ This section of the landing page shows the key statistics of the ROHub platform 
 ### Featured research objects
 This section presents the list of ROs that are promoted because of their quality (measured based on the RO compliance according to some specified criteria like completeness, impact etc.) or because of their popularity (e.g., golden examples) as depicted in figure below.
 
-<p align="center"> <img src="images/image44.png" width="700"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/b89f068ecf/?raw=1" width="700"> </p>
 <div align="center"> Figure3: Featured research objects component </div>
 
 ### Recent activity
 This section presents the latest three ROs that were created most recently, resources added to research objects, snapshots or archives or any recent activities on the ROs. By clicking on the “Read more” the user can go to the main RO overview page for detailed representation.
 
-<p align="center"> <img src="images/image28.png" width="700"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/2a8af13407/?raw=1" width="700"> </p>
 <div align="center">Figure4: Recent activity component </div>
