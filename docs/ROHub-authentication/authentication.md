@@ -1,6 +1,7 @@
 ---
 layout: default
 title: ROHub authentication
+parent: ROHub-authentication
 nav_order: 1
 ---
 

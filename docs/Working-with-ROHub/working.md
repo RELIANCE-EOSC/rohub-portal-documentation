@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Working with ROHub
+parent: Working-with-ROHub
 nav_order: 1
 ---
 

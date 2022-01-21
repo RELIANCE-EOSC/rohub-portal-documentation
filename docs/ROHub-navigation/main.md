@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Main sections
-parent: ROHub navigation
+parent: ROHub-navigation
 nav_order: 1
 ---
 
