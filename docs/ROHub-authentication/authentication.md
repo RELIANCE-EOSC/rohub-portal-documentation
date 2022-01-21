@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ROHub Authentication
+title: ROHub authentication
 nav_order: 1
 ---
 
-# ROHub Auhentication
+# ROHub authentication introduction
 {: .no_toc }
 
 ## Table of contents
