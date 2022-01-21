@@ -15,7 +15,6 @@ nav_order: 2
 ---
 
 ## Home
-{: .d-inline-block }
 
 
 ### Search by keyword
