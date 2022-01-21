@@ -10,14 +10,3 @@ The support page can be accessed from the top menu bar as well as from the botto
 
 <p align="center"> <img src="https://box.psnc.pl/f/a17c08437e/?raw=1" width="700"> </p>
 <div align="center"> Figure 1: Support page of the ROHUb platform </div>
-<!--
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
-bla bla
--->
