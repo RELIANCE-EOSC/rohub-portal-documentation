@@ -2,6 +2,7 @@
 layout: default
 title: Activity
 parent: Main sections
+grand_parent: ROHub navigation
 nav_order: 2
 ---
 
