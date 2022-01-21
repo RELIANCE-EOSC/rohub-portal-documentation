@@ -18,13 +18,13 @@ nav_order: 2
 {: .d-inline-block }
 
 
-#### Search by keyword
+### Search by keyword
 
-#### Key ROHub statistics
+### Key ROHub statistics
 
-#### Featured research objects
+### Featured research objects
 
-#### Recent activity
+### Recent activity
 
 ## Activity
 
@@ -32,6 +32,6 @@ nav_order: 2
 
 ## My ROs
 
-## People 
+## People
 
 ## Support
