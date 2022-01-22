@@ -7,7 +7,7 @@ nav_order: 2
 ---
 
 
-The following table of contents describes the main sections of the ROHub user navigation pages.
+The following table of contents describes the main sections of the ROHub user navigation pages i.e. the sections available on the topmost menubar of the ROHub portal and the main landing page.
 
 
 <!--
