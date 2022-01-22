@@ -24,7 +24,7 @@ The homepage or landing page provides a general overview of the ROhub platform w
 
 <div align="center"> Figure 1: Landing page of the ROHub platform </div>
 
-### Search by keyword
+### Basic search by keyword
 This component enables users to find research objects by keywords, looking through all the metadata annotations available, e.g., title, description, creator, etc. The user can easily look for research objects or resources by providing any associated keyword and thereafter the user can look for the desired resources from the explore page.
 
 <p align="center"> <img src="https://box.psnc.pl/f/7c3b825529/?raw=1" width="700"> </p>
