@@ -1,6 +1,6 @@
 ![ROHub logo](images/image58.png)
 
-
+<div align="justify">
 ---
 
 # Table of contents
@@ -33,3 +33,5 @@ ROHub portal is a Web client application providing a comprehensive user interfac
 * RO stability service (under integration), enabling the evaluation of the RO through time by capturing concrete values provided by the checklist service in different moments of its evolution. It allows testing the ability of a research object to achieve its original purpose after being subject to changes on its resources.
    * RO stability includes the RO monitoring tool, providing an interface to visually monitor and keep track of the status of external datasets and web services required for workflow execution. It's based on the stability service.
 * RO collaboration spheres (under integration), providing an interface for the discovery of research objects that are similar or related to the selected research object or scientist.
+
+</div>
