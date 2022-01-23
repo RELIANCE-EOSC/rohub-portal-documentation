@@ -51,3 +51,10 @@ On providing the names of owner/s the user can filter the research objects based
 
 <p align="center"> <img src="https://box.psnc.pl/f/fca9cf7bf5/?raw=1" width="300"> </p>
 <div align="center"> Figure 5: Filter options for RO Owners</div>
+
+### Modificator
+Similar to the owner and creator the user can filter the ROs based on the information of the users who are designated as the modificators of specific research objects. The filter procedure is same as owner and creator as mentioned above.
+
+
+<p align="center"> <img src="https://box.psnc.pl/f/6a3c1ab00f/?raw=1" width="300"> </p>
+<div align="center"> Figure 6: Filter options for RO Owners</div>
