@@ -42,4 +42,12 @@ The ROHub platform allows the user to filter the research objects from the platf
 
 
 <p align="center"> <img src="https://box.psnc.pl/f/363811a765/?raw=1" width="300"> </p>
-<div align="center"> Figure 4: Filter options for Creator</div>
+<div align="center"> Figure 4: Filter options for RO Creator</div>
+
+### Owner
+
+On providing the names of owner/s the user can filter the research objects based on the information provided.The user can provide the names of single or multiple RO owners (from the signed up users of ROHub) to see the results of the research objects owned by them. Once the user starts to type in the search field or simply click on it the list of the existing users of the ROHub portal drops down and the user can select one or multiple users from the list. There is also possibility to delete any of the entered value by clicking the "x" icon alongside the provided value.
+
+
+<p align="center"> <img src="https://box.psnc.pl/f/fca9cf7bf5/?raw=1" width="300"> </p>
+<div align="center"> Figure 5: Filter options for RO Owners</div>
