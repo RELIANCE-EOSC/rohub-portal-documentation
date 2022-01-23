@@ -91,14 +91,14 @@ This filter can be used for filtering the research objects based on their status
 By using this filter the user can select the ROs published with accessmode as public or private. SImilar to the above-mentioned filter sections the number of public and private ROs are displayed by default.
 
 <p align="center"> <img src="https://box.psnc.pl/f/1199b4dbda/?raw=1" width="300"> </p>
-<div align="center"> Figure 31: RO Access mode filter </div>
+<div align="center"> Figure 11: RO Access mode filter </div>
 
 ### Rating
 The "Rating" filter allows the user to select the research objects from the range of ratings from <1 to >4.
 
 
 <p align="center"> <img src="https://box.psnc.pl/f/f99293eddf/?raw=1" width="300"> </p>
-<div align="center"> Figure 32: RO rating filter </div>
+<div align="center"> Figure 12: RO rating filter </div>
 
 ### Metrics
 This is the filter for selecting research objects based on the quantitative values of its metadata elements like folders, resources, annotation, aggregations as well as other portal specific elements like number of views, downloads, likes, dislikes, snapshots, forks, archives and ratings. Once the user clicks the drop down arrow alongside the “Metrics” another list opens including the number of the below-mentioned items. The number range of items for each ROs are set to be <50, 50-100 and >100. The user can choose the number of each item and fetch the RO results comprising of those metrics on clicking on each items of the Metrics as follows:
@@ -118,4 +118,4 @@ This is the filter for selecting research objects based on the quantitative valu
 The figure below shows the whole Metrics filter.
 
 <p align="center"> <img src="https://box.psnc.pl/f/d22449a580/?raw=1" width="300"> </p>
-<div align="center"> Figure 33: RO Metrics filter  </div>
+<div align="center"> Figure 13: RO Metrics filter  </div>
