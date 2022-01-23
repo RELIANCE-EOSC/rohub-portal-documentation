@@ -42,4 +42,4 @@ The ROHub platform allows the user to filter the research objects from the platf
 
 
 <p align="center"> <img src="https://box.psnc.pl/f/363811a765/?raw=1" width="300"> </p>
-<div align="center"> Figure 25: Filter options for Creator</div>
+<div align="center"> Figure 4: Filter options for Creator</div>
