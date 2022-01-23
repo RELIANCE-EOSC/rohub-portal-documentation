@@ -24,7 +24,7 @@ In this view the user can search for keyword specific research objects from the 
 <div align="center"> Figure 1: Faceted search results of ROs </div>
 
 ## Filter search
-The filter search allows the user to further filter the results of the fetched ROs according to various criteria. The figure below shows the filter section present in the left side of the explore page. On cycling the green drop-down icon the user can select the options from each filter section and also can reset all the filters from this section.
+The filter search allows the user to further filter the results of the fetched ROs according to various criteria. The figure below shows the filter section present in the left side of the explore page. On clicking the green drop-down icon the user can select the options from each filter section and also can reset all the filters from this section. There is also a "Reset filter" to reset all the filter values.
 
 <p align="center"> <img src="https://box.psnc.pl/f/29df959479/?raw=1" width="300"> </p>
 <div align="center"> Figure 2: Filter section of the explore page </div>
@@ -42,7 +42,7 @@ The ROHub platform allows the user to filter the research objects from the platf
 
 
 <p align="center"> <img src="https://box.psnc.pl/f/363811a765/?raw=1" width="300"> </p>
-<div align="center"> Figure 4: Filter options for RO Creator</div>
+<div align="center"> Figure 4: Filter options for RO Creator</div>With the help of this filter the user can select and filter the ROs modified on a desired date range provided by the user. The user can provide the range by selecting a date from the calendar to set a "Date from" and a “Date to” and by clicking “OK” the portal shows the list of ROs modified on that specific date range.
 
 ### Owner
 
@@ -58,3 +58,64 @@ Similar to the owner and creator the user can filter the ROs based on the inform
 
 <p align="center"> <img src="https://box.psnc.pl/f/6a3c1ab00f/?raw=1" width="300"> </p>
 <div align="center"> Figure 6: Filter options for RO Owners</div>
+
+### RO Quality filter
+By using this filter the user can fetch the ROs according to their quality as per the level of completeness. The slider for "Minimum Quality" in the quality level bar can be adjusted from 0 to 100.
+
+
+<p align="center"> <img src="https://box.psnc.pl/f/259935e028/?raw=1" width="300"> </p>
+<div align="center"> Figure 7: Filter for RO Quality </div>
+
+### Modified
+With the help of this filter the user can select and filter the ROs modified on a desired date range provided by the user. The user can provide the range by selecting a date from the calendar to set a "Date from" and a “Date to” and by clicking “OK” the portal shows the list of ROs modified on that specific date range.
+
+<p align="center"> <img src="https://box.psnc.pl/f/0b8d76360a/?raw=1" width="300"> </p>
+<div align="center"> Figure 8: Modification date filter </div>
+
+
+### Type
+The type filter can be used to choose the relevant research object types available on the ROHub platform. In this filter by default the number of ROs of each type is displayed alongside. On checking one or multiple RO types the user can fetch the list of ROs on the left side of the page.
+
+
+<p align="center"> <img src="https://box.psnc.pl/f/d83f376113/?raw=1" width="300"> </p>
+<div align="center"> Figure 9: RO type filter </div>
+
+### Status
+This filter can be used for filtering the research objects based on their status (e.g. live, archived, forked or snapshot). By default the number of each status type is shown alongside. Multiple filter criteria can be applied by the user to fetch the results.
+
+
+<p align="center"> <img src="https://box.psnc.pl/f/a567e3f133/?raw=1" width="300"> </p>
+<div align="center"> Figure 10: RO status filter </div>
+
+### Access mode
+By using this filter the user can select the ROs published with accessmode as public or private. SImilar to the above-mentioned filter sections the number of public and private ROs are displayed by default.
+
+<p align="center"> <img src="https://box.psnc.pl/f/1199b4dbda/?raw=1" width="300"> </p>
+<div align="center"> Figure 31: RO Access mode filter </div>
+
+### Rating
+The "Rating" filter allows the user to select the research objects from the range of ratings from <1 to >4.
+
+
+<p align="center"> <img src="https://box.psnc.pl/f/f99293eddf/?raw=1" width="300"> </p>
+<div align="center"> Figure 32: RO rating filter </div>
+
+### Metrics
+This is the filter for selecting research objects based on the quantitative values of its metadata elements like folders, resources, annotation, aggregations as well as other portal specific elements like number of views, downloads, likes, dislikes, snapshots, forks, archives and ratings. Once the user clicks the drop down arrow alongside the “Metrics” another list opens including the number of the below-mentioned items. The number range of items for each ROs are set to be <50, 50-100 and >100. The user can choose the number of each item and fetch the RO results comprising of those metrics on clicking on each items of the Metrics as follows:
+* Folders: From here the user can select the ROs with a definite number of folders.
+* Resources: Using this filter the user can choose the ROs with the number of resources for his choice as per the range of items.
+* All aggregates: The user can choose the number of aggregation from this filter section and get the result of ROs.
+* Annotations: Fetches the ROs according to the number of annotations from this filter.
+* Downloads: The user can see the list of most downloaded to the least downloaded ROs depending on the number of downloads.
+* Views: The list of ROs with the maximum/minimum number of views can be obtained from this filter.
+* Snapshots: Fetches the list of the most and the least number of ROs snapshotted by the existing users.
+* Forks: Fetches the list of the most and the least number of ROs forked by the existing users.
+* Archives: Fetches the list of the most and the least number of ROs archived by the existing users.
+* Ratings: The user can see the ROs with the most till the least number of ratings.
+* Likes: The user can see the ROs with the most till the least number of likes.
+* Dislikes: The user can see the ROs with the most till the least number of dislikes.
+
+The figure below shows the whole Metrics filter.
+
+<p align="center"> <img src="https://box.psnc.pl/f/d22449a580/?raw=1" width="300"> </p>
+<div align="center"> Figure 33: RO Metrics filter  </div>
