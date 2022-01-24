@@ -18,7 +18,7 @@ nav_order: 3
 The ROHub users can access a research object either by the keyword search or from the "Explore" section. From the list of ROs in the explore page the user can access any specific RO and its subsequent metadata on clicking “Read more” on the right hand side of the adjacent RO. The metadata of a specific research object in the ROHub platform can be categorised in various subsections as described below.
 
 ## Overview
-The overview section of the research object displays the essential information/metadata and enables the manipulation of the research object. It consists the following subsections:
+The overview subsection of the Research Object displays the essential information/metadata of the RO. It consists the following components:
 * The main metadata includes the title, description, research areas, research object type, creation mode, creation date, last modification date, creator’s identity and relevant sketch associated with the research object.
 * Some especially relevant metadata elements might include the geospatial information associated with the research object that can be displayed in a map popup window, and the annotations added automatically by the semantic enrichment service.
 * The overview page also gives a summary of the contents encapsulated within the research object inspite of having a separate section for contents in the research object. The content subsection within the overview page shows the relevant contents and enables the user to navigate through them.
@@ -38,7 +38,7 @@ The overview section of the research object displays the essential information/m
 The figure below depicts a basic overview page of a research object in the ROHub platform.
 
 
-<p align="center"> <img src="https://box.psnc.pl/f/8a10c49df7/?raw=1"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/346273556b/?raw=1"> </p>
 <div align="center"> Figure 12: Research Object overview page </div>
 
 
