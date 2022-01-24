@@ -6,6 +6,7 @@ grand_parent: ROHub navigation
 nav_order: 1
 ---
 
+# Overview
 
 # Table of contents
 {: .no_toc .text-delta }
@@ -14,7 +15,7 @@ nav_order: 1
 {:toc}
 
 ---
-# Overview
+
 The overview subsection of the Research Object displays the essential information/metadata of the RO. The overview divides the metadata of a research object into various readable segments. These segments are described in the below mentioned sections.
 
 ## Main RO Overview metadata segments

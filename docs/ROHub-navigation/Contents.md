@@ -6,6 +6,7 @@ grand_parent: ROHub navigation
 nav_order: 2
 ---
 
+# Contents
 
 # Table of contents
 {: .no_toc .text-delta }
@@ -14,7 +15,7 @@ nav_order: 2
 {:toc}
 
 ---
-# Contents
+
 
 The “Content” section shows the aggregated resources in a research object where the user is enabled to browse and navigate through the resources. The resources can also include folders and subfolders. When the user selects a resource, its metadata information (e.g. name, description, creation date and time, modification date and time, creators’ name etc.) is displayed at the end of the page along with the annotations added in the ROHub platform for that particular resource. From the Content page the user can also create new resources or edit/modify resources and aggregate them to the RO.
 
@@ -23,7 +24,7 @@ The main section lists the RO contents in a tabular format with the name of the 
 
 
 <p align="center"> <img src="https://box.psnc.pl/f/3b9bfcf411/?raw=1" width="700"> </p>
-<div align="center"> Figure 13: Content navigation list </div>
+<div align="center"> Figure 13: Content page in ROHub portal </div>
 
 <p align="center"> <img src="https://box.psnc.pl/f/ff5dd2833b/?raw=1" width="700"> </p>
 <div align="center"> Figure 14: Resource metadata and action bar in Content Section </div>
