@@ -38,9 +38,14 @@ On clicking the “Create new folder” icon an new window pops up for the user.
 On clicking the second icon  a window pops up to “Create new resource”. The user can upload a file from his local device on clicking the “Choose file” and selecting a file/resource internally. Upon filling the “Title” and “description” fields the user has to select a “Resource type” from the list of type displayed on clicking the field of resource type to denote the type of the uploaded resource.
 
 
-<p align="center"> <img src="https://box.psnc.pl/f/62fceecebe/?raw=1" width="700"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/38a262127c/?raw=1" width="700"> </p>
 <div align="center"> Figure 3: Creating new internal resource in ROHub </div>
 
 ### Create new resource from external source
+
+
+
+<p align="center"> <img src="https://box.psnc.pl/f/15dd963493/?raw=1" width="700"> </p>
+<div align="center"> Figure 3: Creating new internal resource in ROHub </div>
 
 ## Modifying existing resources
