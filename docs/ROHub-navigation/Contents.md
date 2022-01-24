@@ -27,8 +27,13 @@ The main section lists the RO contents in a tabular format with the name of the 
 <div align="center"> Figure 1: Content page in ROHub portal </div>
 
 ## Creating new resources
-From the content page the user can create new resources from the  create icons present at the top of the resources list. There are three icons for creating folders and adding/uploading files as resources in the RO content.  
+From the content page the user can create new resources from the  create icons present at the top of the resources list. There are three functionalities added to the ROHUb portal for creating folders and adding/uploading files as resources in the RO content.  
 ### Create new folder
+On clicking the “Create new folder” icon an new window pops up for the user. Here the user can create a new folder by typing the title, description and can also choose the parent folder from the list of the existing folders in the content of the RO if the user wants to enlist in any of them.  Otherwise simply keeping this field empty will create a new folder in the home of the content section. The figure below shows the creation of the folder in the RO content page.
+
+<p align="center"> <img src="https://box.psnc.pl/f/14dc1db3dd/?raw=1" width="700"> </p>
+<div align="center"> Figure 2: Creating new folder in ROHub </div>
+
 ### Create new resource from internal source
 ### Create new resource from external source
 
