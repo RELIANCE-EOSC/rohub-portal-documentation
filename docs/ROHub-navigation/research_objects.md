@@ -42,7 +42,6 @@ The overview subsection of the Research Object displays the essential informatio
 The figure below depicts a basic overview page of a research object in the ROHub platform.
 
 
-
 <p align="center"> <img src="https://box.psnc.pl/f/346273556b/?raw=1"> </p>
 <div align="center"> Figure 1: Research Object overview page </div>
 
