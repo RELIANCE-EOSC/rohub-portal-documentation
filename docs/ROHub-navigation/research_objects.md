@@ -8,7 +8,8 @@ nav_order: 2
 ---
 
 # Research objects
-{: .no_toc }
+<!--{: .no_toc }
+--->
 
 # Table of contents
 {: .no_toc .text-delta }
