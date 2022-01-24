@@ -33,11 +33,3 @@ From the content page the user can create new resources from the  create icons p
 ### Create new resource from external source
 
 ## Modifying existing resources
-
-
-<p align="center"> <img src="https://box.psnc.pl/f/ff5dd2833b/?raw=1" width="700"> </p>
-<div align="center"> Figure 14: Resource metadata and action bar in Content Section </div>
-
-
-<p align="center"> <img src="https://box.psnc.pl/f/8be0e6696c/?raw=1" width="700"> </p>
-<div align="center"> Figure 15: Resource metadata and annotations in Content section </div>
