@@ -5,7 +5,7 @@ parent: Main sections
 grand_parent: ROHub navigation
 nav_order: 2
 ---
-
+# People
 # Table of contents
 {: .no_toc .text-delta }
 
@@ -13,7 +13,7 @@ nav_order: 2
 {:toc}
 
 ---
-# People
+
 This section of the ROHub platform can be accessed from the main topmost menu bar located  in the main landing page of the portal on clicking the “People”.  Once a user is in this section three distinct subsections are visible. A search box for searching the ROHub users by name or surname, a taskbar with alphabets in order to browse the users alphabetically on clicking on each alphabets and finally the list of users fetched as per the search of the user. By default this list provides a global list of all the ROHub users. The subsections can be described as below:
    * The search box for ROHub users allows the users to search for any ROHub user simply by providing their name and/or surname and the results will be provided in the list below. From the list the user can navigate to the user profile of the specific user on clicking “Read more”.
    * The alphabetical browsing of the ROHub users allows users to navigate and fetch results of the users starting their names from A to Z. Once the user clicks on an alphabet, all the users with their names starting with that alphabet get listed from where the user profile of any user can be accessed to get more user specific information about the ROHub user.
