@@ -5,7 +5,7 @@ parent: Main sections
 grand_parent: ROHub navigation
 nav_order: 2
 ---
-
+# My ROs
 # Table of contents
 {: .no_toc .text-delta }
 
@@ -13,7 +13,7 @@ nav_order: 2
 {:toc}
 
 ---
-# My ROs
+
 This section in the ROHub platform enables an authenticated user to create a research object directly from the user interface of the portal. When a user signs into the portal and on clicking the “My ROs” from the top menu bar gets into the page where he can create new research objects from scratch, see his own created ROs as well as the ROs he is allowed to edit in the platform. The users can also delete any unwanted RO from this page. The subsections of “My ROs” are described briefly below.
 
 ## The entry page of “My RO” section
