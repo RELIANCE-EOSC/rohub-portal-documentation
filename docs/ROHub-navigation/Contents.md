@@ -27,6 +27,10 @@ The main section lists the RO contents in a tabular format with the name of the 
 <div align="center"> Figure 1: Content page in ROHub portal </div>
 
 ## Creating new resources
+From the content page the user can create new resources from the  create icons present at the top of the resources list. There are three icons for creating folders and adding/uploading files as resources in the RO content.  
+### Create new folder
+### Create new resource from internal source
+### Create new resource from external source
 
 ## Modifying existing resources
 
