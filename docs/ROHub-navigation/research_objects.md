@@ -36,7 +36,9 @@ The overview subsection of the Research Object displays the essential informatio
    * “SHARE” allows the user to share the RO over social media e.g. Twitter, Facebook etc (still under integration) or by directly creating and copying shareable link.
    * “Cite As” segment shows the citations used in the RO (if any)
    * “LICENSE” segment shows the associated license of the RO (if any). The user can view the license by directly clicking on it. On clicking the user will be redirected to the webpage describing the license.
-   * “GRANTS” segment allows the user to see the funding body supporting the research. A clickable link will redirect the user to directly access more information of the finding boldly from its official webpage.
+   * “GRANTS” segment allows the user to see the funding body supporting the research. A clickable link will redirect the user to directly access more information of the funding body/organization from its official webpage.
+* At the very end of the overview page lies the comment section where the user can provide their comments and post them.  
+
 The figure below depicts a basic overview page of a research object in the ROHub platform.
 
 
