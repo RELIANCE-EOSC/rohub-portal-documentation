@@ -2,7 +2,9 @@
 layout: default
 title: Research objects
 parent: ROHub navigation
-nav_order: 3
+has_children: true
+nav_order: 2
+
 ---
 
 # Research objects

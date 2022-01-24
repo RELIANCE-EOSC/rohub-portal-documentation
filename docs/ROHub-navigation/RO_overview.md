@@ -3,7 +3,7 @@ layout: default
 title: Overview
 parent: Research objects
 grand_parent: ROHub navigation
-nav_order: 3
+nav_order: 1
 ---
 
 
