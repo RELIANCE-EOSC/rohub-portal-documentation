@@ -5,7 +5,7 @@ parent: Main sections
 grand_parent: ROHub navigation
 nav_order: 2
 ---
-
+# "About" Section of ROhub Portal
 # Table of contents
 {: .no_toc .text-delta }
 
@@ -13,7 +13,7 @@ nav_order: 2
 {:toc}
 
 ---
-# "About" Section of ROhub Portal
+
 This section of the ROHub platform provides the user with the most basic information about the ROHub platform. The various sections of the about page can be navigated by the user from the left side panel of the “About” page. Each subsection opens a separate page once the user clicks on the sidebar options.The subsections are as follows:
 
 ## What is ROHub?
