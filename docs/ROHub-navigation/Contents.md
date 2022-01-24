@@ -26,6 +26,11 @@ The main section lists the RO contents in a tabular format with the name of the 
 <p align="center"> <img src="https://box.psnc.pl/f/3b9bfcf411/?raw=1" width="700"> </p>
 <div align="center"> Figure 13: Content page in ROHub portal </div>
 
+## Creating new resources
+
+## Modifying existing resources
+
+
 <p align="center"> <img src="https://box.psnc.pl/f/ff5dd2833b/?raw=1" width="700"> </p>
 <div align="center"> Figure 14: Resource metadata and action bar in Content Section </div>
 
