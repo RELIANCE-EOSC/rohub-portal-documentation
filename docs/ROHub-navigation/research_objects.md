@@ -8,7 +8,7 @@ nav_order: 3
 # Research objects
 {: .no_toc }
 
-## Table of contents
+# Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -17,10 +17,9 @@ nav_order: 3
 ---
 
 ## Overview
-{: .d-inline-block }
+
 
 
 ## Content
 
 ## Activity
-
