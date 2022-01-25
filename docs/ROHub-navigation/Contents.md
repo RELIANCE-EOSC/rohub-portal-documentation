@@ -74,3 +74,11 @@ The user can move a resource from one folder to another in the portal. The user 
 <div align="center"> Figure 6: Moving a resource in ROHub portal </div>
 
 ### Deleting a resource
+Deleting a resource is also easy. Selecting a resource and clicking the delete icon from the content page pops up the “Delete folder” or “Delete resource” window. By clicking the “Delete” button the resource could be deleted by the user. The figures below depicts the deletion of resources in ROHub portal.
+
+<p align="center"> <img src="https://box.psnc.pl/f/580b608cb0/?raw=1" width="500"> </p>
+<div align="center"> Figure 7: Deleting a folder in ROHub portal </div>
+
+
+<p align="center"> <img src="https://box.psnc.pl/f/b4a0b689a4/?raw=1" width="500"> </p>
+<div align="center"> Figure 8: Deleting a resource in ROHub portal </div>
