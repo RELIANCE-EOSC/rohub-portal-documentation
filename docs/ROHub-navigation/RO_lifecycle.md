@@ -31,4 +31,4 @@ On the top right side of the page the user can see “Show full activity history
 
 
 <p align="center"> <img src="https://box.psnc.pl/f/48df95336a/?raw=1" width="700"> </p>
-<div align="center"> Figure 1: RO Activity in ROHub portal </div>
+<div align="center"> Figure 1: RO Lifecycle in ROHub portal </div>
