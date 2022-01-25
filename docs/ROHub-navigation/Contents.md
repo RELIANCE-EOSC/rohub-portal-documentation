@@ -60,3 +60,8 @@ In case the selected resource is a folder the user can rename it from the “Ren
 
 <p align="center"> <img src="https://box.psnc.pl/f/0d3ed13f99/?raw=1" width="700"> </p>
 <div align="center"> Figure 5: Renaming a resource in ROHub portal </div>
+
+
+### Moving a resource
+
+### Deleting a resource
