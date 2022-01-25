@@ -31,3 +31,7 @@ From this segment the user can choose the number of results to be displayed per 
 
 ## Results
 Here the user can see the total number of the available results in a particular research object.
+
+
+<p align="center"> <img src="https://box.psnc.pl/f/9c84d29b8f/?raw=1" width="500"> </p>
+<div align="center"> Figure 1: RO Activity in ROHub portal </div>
