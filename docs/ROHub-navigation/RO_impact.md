@@ -12,4 +12,4 @@ Though this section of the RO is under construction This section presently has t
 
 
 <p align="center"> <img src="https://box.psnc.pl/f/2fdbca0502/?raw=1" width="700"> </p>
-<div align="center"> Figure 19: Impact of the research object </div>
+<div align="center"> Figure 1: Impact of the research object </div>
