@@ -20,7 +20,7 @@ nav_order: 2
 The “Content” section shows the aggregated resources in a research object where the user is enabled to browse and navigate through the resources. The resources can also include folders and subfolders. When the user selects a resource, its metadata information (e.g. name, description, creation date and time, modification date and time, creators’ name etc.) is displayed at the end of the page along with the annotations added in the ROHub platform for that particular resource. From the Content page the user can also create new resources or edit/modify resources and aggregate them to the RO.
 
 ## Content home
-The main section lists the RO contents in a tabular format with the name of the content, details (e.g. denoting number of entries in a folder), creation time and date and creator’s name. Additional to the drag and drop functionality, from this page the user can also add additional resources to the RO using the three on-screen functionalities (described in the later section).The home page of the content section also has a drag and drop segment for directly adding resources to the RO.
+The main section lists the RO contents in a tabular format with the name of the content, details (e.g. denoting number of entries in a folder), creation time and date and creator’s name. Additional to the drag and drop functionality, from this page the user can also add additional resources to the RO using the three on-screen functionalities (described in the later section).The home page of the content section also has a drag and drop segment for directly adding resources to the RO. Additionally from this page the user has the possibility to navigate through the resources in the RO content.
 
 
 <p align="center"> <img src="https://box.psnc.pl/f/3b9bfcf411/?raw=1" width="700"> </p>
@@ -48,3 +48,15 @@ On clicking the third icon another window pops up to “Create new resource”. 
 <div align="center"> Figure 3: Creating new internal resource in ROHub </div>
 
 ## Modifying existing resources
+The user can modify or edit any resource of choice from the RO content list. The resource edit, move and delete functionalities activate when the user selects any resource from the list. Moreover on selecting a resource its metadata is also displayed as mentioned in the content home section.
+
+### Renaming a resource
+In case the selected resource is a folder the user can rename it from the “Rename folder” window that pops up when the user clicks on the edit icon present in the main content page. From this window the user can rename the title and description of the folder. Similarly for renaming internal or external resources, the user has to select the particular resource and on clicking the edit mode the “Rename resource” window appears. In this window the user can update the fields relevant to the resource type. In both cases clicking “Rename” will update the resources. The following figures depicts the renaming functionality of the RO resources.
+
+
+<p align="center"> <img src="https://box.psnc.pl/f/2d22549949/?raw=1" width="700"> </p>
+<div align="center"> Figure 4: Renaming a folder in ROHub portal </div>
+
+
+<p align="center"> <img src="https://box.psnc.pl/f/0d3ed13f99/?raw=1" width="700"> </p>
+<div align="center"> Figure 5: Renaming a resource in ROHub portal </div>
