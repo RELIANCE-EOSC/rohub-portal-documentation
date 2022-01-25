@@ -6,7 +6,7 @@ grand_parent: ROHub navigation
 nav_order: 2
 ---
 
-# Contents
+# Reserach Object Contents
 
 # Table of contents
 {: .no_toc .text-delta }
