@@ -15,7 +15,7 @@ nav_order: 1
 {:toc}
 
 ---
-
+## Landing page of ROHub
 The homepage or landing page provides a general overview of the ROhub platform which includes a keyword search component from which the user can directly start finding research objects and creator information, a section for the featured research object where selective research objects (golden examples) can be featured based on their completeness and impact factor. The landing page also includes a section for the key statistics of the ROHub and a section with the recent activities showing the latest changes or events on the ROHub platform. The figure below depicts the partial view of the homepage of ROhub portal. The following subsections describes few of the basic components of the homepage of the ROhub portal.
 
 <p align="center"> <img src="https://box.psnc.pl/f/ba4203fefc/?raw=1" width="700"> </p>
