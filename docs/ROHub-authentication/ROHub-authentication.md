@@ -24,3 +24,17 @@ On clicking any of the "Sign in" or "Sign up" the user is navigated to the authe
 ### Registering the new User
 
 ## Account Settings
+
+### Edit Account
+
+### Change password
+
+### Authenticator
+
+### Federated identities
+
+### Sessions
+
+### Applications
+
+### Log
