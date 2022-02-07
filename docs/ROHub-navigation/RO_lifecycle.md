@@ -7,8 +7,8 @@ nav_order: 5
 ---
 
 # Research Object Lifecycle
-
-# Table of contents
+{: .no_toc }
+## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC

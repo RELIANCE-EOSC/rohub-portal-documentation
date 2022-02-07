@@ -7,8 +7,8 @@ nav_order: 2
 ---
 
 # Reserach Object Contents
-
-# Table of contents
+{: .no_toc }
+## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
