@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Login section
+title: Login Section
 parent: ROHub authentication
 has_children: true
 nav_order: 1
