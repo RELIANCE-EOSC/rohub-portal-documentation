@@ -6,7 +6,8 @@ grand_parent: ROHub navigation
 nav_order: 2
 ---
 # "About" Section of ROhub Portal
-# Table of contents
+{: .no_toc }
+## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
