@@ -6,7 +6,6 @@ has_children: true
 permalink: /docs/ROHub-authentication
 ---
 
-# ROHub authentication
 # Table of contents
 {: .no_toc .text-delta }
 
