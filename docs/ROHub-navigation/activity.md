@@ -5,8 +5,9 @@ parent: Main sections
 grand_parent: ROHub navigation
 nav_order: 2
 ---
-# Activity 
-# Table of contents
+# Activity
+{: .no_toc }
+## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
