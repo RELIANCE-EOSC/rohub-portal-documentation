@@ -20,3 +20,5 @@ The login (Sign in/Sign up) is available on the menu bar of the homepage. The ke
 On clicking any of the "Sign in" or "Sign up" the user is navigated to the authentication page.
 
 ## Registering the new User
+
+# Account Settings
