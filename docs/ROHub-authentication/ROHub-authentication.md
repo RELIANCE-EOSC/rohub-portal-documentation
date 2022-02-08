@@ -19,7 +19,7 @@ permalink: /docs/ROHub-authentication
 The login (Sign in/Sign up) is available on the menu bar of the homepage. The keycloak authentication system allows the users to login either with existing EGI credentials or users can register themselves with their own login and password. Once registered the authentication system allows the registered users to sign in to the ROhub portal. The sections below briefly describe the login and sign up functionalities of the ROhub portal.
 
 ### Signing into the ROHub Account
-On clicking any of the "Sign in" or "Sign up" the user is navigated to the authentication page.
+On clicking any of the "Sign in '' or "Sign up" the user is navigated to the authentication page. From here the user can sign in either through the EGI Check-in on clicking the "Login with EGI Check-in". On clicking the user is redirected to the EGI authentication system and on completion the user gets signed into the ROHub Portal via the EGI check in process. The user can also sign in from this page with his registered credentials for ROHUb portal. 
 
 ### Registering the new User
 
