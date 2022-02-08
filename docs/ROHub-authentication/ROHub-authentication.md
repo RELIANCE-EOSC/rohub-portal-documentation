@@ -73,17 +73,17 @@ This section shows the user identity in EGI check-in, if any, which is essential
 ### Sessions
 In this section the current session for the user account is shown. The session record consists of information like the user IP address, session start date and time, session end date and time, the date and time of the last access by the user and the name of the clients logged in. On clicking “Log out all sessions” the user gets logged out from the displayed session in this section.
 
-<p align="center"> <img src="https://box.psnc.pl/f/465d2ce838/?raw=1" width="500"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/465d2ce838/?raw=1" width="700"> </p>
 <div align="center"> Figure 9: User session in ROHub portal </div>
 
 ### Applications
 This section shows the user a table that contains the name of  the applications and his available roles from the logged in account. The user can see the granted permission for him in the table. Some of the applications can be accessed from this list of the applications in the table on clicking the link provided.
 
-<p align="center"> <img src="https://box.psnc.pl/f/31390bee06/?raw=1" width="500"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/31390bee06/?raw=1" width="700"> </p>
 <div align="center"> Figure 10: Applications in Account Settings </div>
 
 ### Log
 The log section holds all the records of all available actions from the user side. The log table contains the “Date”, name of the “Event”, “IP” of the user and name of the used “Client”. In the “Details” the description of the action is provided.
 
-<p align="center"> <img src="https://box.psnc.pl/f/36892a7123/?raw=1" width="500"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/36892a7123/?raw=1" width="700"> </p>
 <div align="center"> Figure 11: Account Logs in ROHub </div>
