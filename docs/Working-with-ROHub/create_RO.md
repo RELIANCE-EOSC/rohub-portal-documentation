@@ -31,6 +31,11 @@ Filling the basic information is sufficient to create a RO in the ROHub platform
 
 
 ### People & organizations
+On clicking the "Create and Continue" in the RO creation page the user moves from the basic information form to a new form. This form allows the user to provide information about the people and organization associated with the research object. The functionalities can be discussed as below:
+#### Add existing user from list
+#### Add existing organizations from list
+#### Add new user
+#### Add new organization
 
 ### Tags
 
