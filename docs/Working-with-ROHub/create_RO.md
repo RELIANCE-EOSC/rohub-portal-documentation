@@ -30,7 +30,16 @@ The first form in creation of a RO is “Basic information” that allows the us
 Filling the basic information is sufficient to create a RO in the ROHub platform, but the user can continue enriching the RO with other metadata or simply create the basic RO and exit by clicking "Create and Exit" . On clicking “Create and Continue” preset at the bottom right of this page the user can create the RO and also simultaneously navigate through other forms to add the various relevant metadata in order to enrich the research object. The user can always come back again later to modify the metadata of the newly created RO listed in the My ROs section. "Reset form" allows the user to reset the basic information form and provide inputs again.
 
 
+### People & organizations
 
+### Tags
 
+### Sketches gallery
 
-###
+### Resources
+
+### Related locations
+
+### License & Funding
+
+### Advanced metadata
