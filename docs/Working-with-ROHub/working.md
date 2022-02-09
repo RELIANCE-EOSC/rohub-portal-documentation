@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Working with ROHub
-parent: Working-with-ROHub
+title: Create new ROs
+parent: Working with ROHub
 nav_order: 1
 ---
 
@@ -15,7 +15,3 @@ nav_order: 1
 {:toc}
 
 ---
-
-## Create a new research object
-{: .d-inline-block }
-
