@@ -5,7 +5,7 @@ parent: Working with ROHub
 nav_order: 1
 ---
 
-# Working with ROHub
+# Create new ROs
 {: .no_toc }
 
 ## Table of contents
