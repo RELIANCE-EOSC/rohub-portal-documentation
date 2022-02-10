@@ -45,7 +45,15 @@ If the RO creator wants to add a person not present in the existing list of the 
 On providing the above information and clicking the blue icon of “Add new user” the new user is added in the ROHub portal. Hereafter the new user can be found in the list of the existing users from there the RO creator can add and assign roles for the user.
 
 ### Add existing organizations from list
+The process of adding an existing organization to a RO is similar to adding an existing member. The user has to select the “Add existing organization from list” option. From the search box the drop down list containing all the existing organization the user can select any one of them and assign a role (e.g. Publisher, Copyright Holder) to the selected organization. The same step can be repeated in order to add another organization and to assign roles to it. The added organization and the role can be removed on clicking the “x” alongside the name of the user. Removing one organization also removes its role/s.
 ### Add new organization
+If the RO creator wants to add an organization that is not present in the existing list of the ROHub organizations, he can create a new organization by selecting the “Add new organization” option. A new form appears where the creator can provide the information of the new organization. The fields are:
+* “Display name” the name of the organization that will be displayed in the ROHub platform. This information is compulsory.
+* “RORID” or the profile of the organization if available on Research Organization Registry Community (https://ror.org/).
+* “Email” id of the new organization is also a compulsory information to be provided. If there is no email id, alternatively RORID has to be provided.
+* “URL” of the organization website can also be provided.
+On providing the above information and clicking the blue icon of “Add new organization” the new organization is added in the ROHub portal. Hereafter the new organization can be found in the list of the existing organizations from there the RO creator can add and assign roles for the organization.
+The user can continue creating/editing the metadata of the RO in the next form by clicking "Update and continue", or "Skip" to skip this part or "Back" to move to the previous segment of the RO creation.
 
 ## Tags
 
