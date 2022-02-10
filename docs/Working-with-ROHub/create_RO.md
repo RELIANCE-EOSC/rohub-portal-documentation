@@ -17,7 +17,7 @@ nav_order: 1
 ---
 Once logged in and authenticated in the ROHub portal, the user can create a research object on clicking the “Create new RO” from the “My ROs” page. The user is navigated to a form and can provide the necessary information as metadata of the research object he wants to create. The following subsections describe the various parts of the “Create new Research Object” form in the process of creating a new research object.
 
-### Basic Information
+## Basic Information
 The first form in creation of a RO is “Basic information” that allows the user to add the key information of a RO in such as:
 * Title: In this field the user provides the title of the created Research Object. This is a required field and must be filled.
 * Description: The description box allows the user to type in the description of a RO. It's compulsory for a user to fill the description of a RO.
@@ -29,21 +29,21 @@ The first form in creation of a RO is “Basic information” that allows the us
 Filling the basic information is sufficient to create a RO in the ROHub platform, but the user can continue enriching the RO with other metadata or simply create the basic RO and exit by clicking "Create and Exit" . On clicking “Create and Continue” preset at the bottom right of this page the user can create the RO and also simultaneously navigate through other forms to add the various relevant metadata in order to enrich the research object. The user can always come back again later to modify the metadata of the newly created RO listed in the My ROs section. "Reset form" allows the user to reset the basic information form and provide inputs again.
 
 
-### People & organizations
+## People & organizations
 On clicking the "Create and Continue" in the RO creation page the user moves from the basic information form to a new form. This form allows the user to provide information about the people and organization associated with the research object. The functionalities can be discussed as below:
-#### Add existing user from list
-#### Add existing organizations from list
-#### Add new user
-#### Add new organization
+### Add existing user from list
+### Add existing organizations from list
+### Add new user
+### Add new organization
 
-### Tags
+## Tags
 
-### Sketches gallery
+## Sketches gallery
 
-### Resources
+## Resources
 
-### Related locations
+## Related locations
 
-### License & Funding
+## License & Funding
 
-### Advanced metadata
+## Advanced metadata
