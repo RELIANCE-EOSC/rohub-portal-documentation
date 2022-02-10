@@ -28,7 +28,7 @@ The first form in creation of a RO is “Basic information” that allows the us
 * Research object type: From this field the user can denote the type of the RO. By default the RO holds “Basic Research Object” in this field. The user can change it if required by clicking the field and selecting any one of the types of RO from the drop down list.
 Filling the basic information is sufficient to create a RO in the ROHub platform, but the user can continue enriching the RO with other metadata or simply create the basic RO and exit by clicking "Create and Exit" . On clicking “Create and Continue” preset at the bottom right of this page the user can create the RO and also simultaneously navigate through other forms to add the various relevant metadata in order to enrich the research object. The user can always come back again later to modify the metadata of the newly created RO listed in the My ROs section. "Reset form" allows the user to reset the basic information form and provide inputs again.
 
-<p align="center"> <img src="https://box.psnc.pl/f/9aef85eb2e/?raw=1" width="500"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/9aef85eb2e/?raw=1" width="700"> </p>
 <div align="center"> Figure 1: Basic Information in RO creation </div>
 
 ## People & organizations
