@@ -55,6 +55,11 @@ If the RO creator wants to add an organization that is not present in the existi
 On providing the above information and clicking the blue icon of “Add new organization” the new organization is added in the ROHub portal. Hereafter the new organization can be found in the list of the existing organizations from there the RO creator can add and assign roles for the organization.
 The user can continue creating/editing the metadata of the RO in the next form by clicking "Update and continue", or "Skip" to skip this part or "Back" to move to the previous segment of the RO creation.
 
+<p align="center"> <img src="https://box.psnc.pl/f/692ed6c0d2/?raw=1" width="500"> </p>
+<div align="center"> Figure 2: Add People and Organization in RO creation </div>
+
+
+
 ## Tags
 
 ## Sketches gallery
