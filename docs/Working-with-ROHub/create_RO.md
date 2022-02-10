@@ -15,7 +15,7 @@ nav_order: 1
 {:toc}
 
 ---
-Once logged in and authenticated in the ROHub portal, the user can create a research object on clicking the “Create new RO” from the “My ROs” page. The user is navigated to a form and can provide the necessary information as metadata of the research object he wants to create. The following subsections describe the various parts of the “Create new Research Object” form in the process of creating a new research object.
+Once logged in and authenticated in the ROHub portal, the user can create a research object on clicking the “Create new RO” from the “My ROs” page. The user is navigated to various forms and can provide the necessary information as metadata of the research object he wants to create. The following subsections describe the various parts of the “Create new Research Object” form in the process of creating a new research object.
 
 ## Basic Information
 The first form in creation of a RO is “Basic information” that allows the user to add the key information of a RO in such as:
