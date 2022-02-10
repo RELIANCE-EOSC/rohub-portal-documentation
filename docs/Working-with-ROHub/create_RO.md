@@ -39,7 +39,7 @@ In order to add an existing user to the RO, i user needs to select the option �
 ### Add new user
 If the RO creator wants to add a person not present in the existing list of the ROHub users, he can create a new user. In order to create a new user one has to select the “Add new user” option. A new form appears where the creator can provide the credentials of the new user. The fields are:
 * “Display name” the name of the user that will be displayed in the ROHub platform. This information is compulsory.
-* “ORCID” if available for the new user.
+* “ORCID” if available for the new user. ORCID is the profile of the user on https://orcid.org/.
 * “Email” id of the new user is also a compulsory information to be provided. If there is no email id, alternatively ORCID has to be provided.
 * “Affiliation” of the user or the name of the organization to which he is affiliated.
 On providing the above information and clicking the blue icon of “Add new user” the new user is added in the ROHub portal. Hereafter the new user can be found in the list of the existing users from there the RO creator can add and assign roles for the user.
