@@ -28,7 +28,7 @@ The first form in creation of a RO is “Basic information” that allows the us
 * Research object type: From this field the user can denote the type of the RO. By default the RO holds “Basic Research Object” in this field. The user can change it if required by clicking the field and selecting any one of the types of RO from the drop down list.
 Filling the basic information is sufficient to create a RO in the ROHub platform, but the user can continue enriching the RO with other metadata or simply create the basic RO and exit by clicking "Create and Exit" . On clicking “Create and Continue” preset at the bottom right of this page the user can create the RO and also simultaneously navigate through other forms to add the various relevant metadata in order to enrich the research object. The user can always come back again later to modify the metadata of the newly created RO listed in the My ROs section. "Reset form" allows the user to reset the basic information form and provide inputs again.
 
-<p align="center"> <img src="https://box.psnc.pl/f/9aef85eb2e/?raw=1" width="700"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/9aef85eb2e/?raw=1" width="600"> </p>
 <div align="center"> Figure 1: Basic Information in RO creation </div>
 
 ## People & organizations
@@ -37,7 +37,7 @@ On clicking the "Create and Continue" in the RO creation page the user moves fro
 In order to add an existing user to the RO, i user needs to select the option “Add existing user from list” and on clicking or simply starting to type in the search box reading “Start typing to find user”. The list of the existing users drops down and a user can be selected from the list. Once an user is selected another box appears alongside on the right side where the role of the selected user can be designated. The list of the roles (e.g. Author, Contributor, publisher or Copyright holder) drops down in a list once the user clicks on the second box. Multiple roles can be assigned for a single user. The same step can be repeated in order to add another user and to assign roles. The added user and the role can be removed on clicking the “x” alongside the name of the user. Removing one user also removes his role/s.
 ### Add existing organizations from list
 The process of adding an existing organization to a RO is similar to adding an existing member. The user has to select the “Add existing organization from list” option. From the search box the drop down list containing all the existing organization the user can select any one of them and assign a role (e.g. Publisher, Copyright Holder) to the selected organization. The same step can be repeated in order to add another organization and to assign roles to it. The added organization and the role can be removed on clicking the “x” alongside the name of the user. Removing one organization also removes its role/s.
-<p align="center"> <img src="https://box.psnc.pl/f/692ed6c0d2/?raw=1" width="500"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/692ed6c0d2/?raw=1" width="600"> </p>
 <div align="center"> Figure 2: Add People and Organization in RO creation </div>
 
 ### Add new user
@@ -48,7 +48,7 @@ If the RO creator wants to add a person not present in the existing list of the 
 * “Affiliation” of the user or the name of the organization to which he is affiliated.
 On providing the above information and clicking the blue icon of “Add new user” the new user is added in the ROHub portal. Hereafter the new user can be found in the list of the existing users from there the RO creator can add and assign roles for the user.
 
-<p align="center"> <img src="https://box.psnc.pl/f/c6281a0766/?raw=1" width="500"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/c6281a0766/?raw=1" width="600"> </p>
 <div align="center"> Figure 3: Add new User in RO creation </div>
 
 ### Add new organization
@@ -60,7 +60,7 @@ If the RO creator wants to add an organization that is not present in the existi
 On providing the above information and clicking the blue icon of “Add new organization” the new organization is added in the ROHub portal. Hereafter the new organization can be found in the list of the existing organizations from there the RO creator can add and assign roles for the organization.
 The user can continue creating/editing the metadata of the RO in the next form by clicking "Update and continue", or "Skip" to skip this part or "Back" to move to the previous segment of the RO creation.
 
-<p align="center"> <img src="https://box.psnc.pl/f/470364085c/?raw=1" width="500"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/470364085c/?raw=1" width="600"> </p>
 <div align="center"> Figure 4: Add new Organization in RO creation </div>
 
 
