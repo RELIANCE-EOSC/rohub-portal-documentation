@@ -35,8 +35,16 @@ Filling the basic information is sufficient to create a RO in the ROHub platform
 On clicking the "Create and Continue" in the RO creation page the user moves from the basic information form to a new form. This form allows the user to provide information about the people and organization associated with the research object. The functionalities can be discussed as below:
 ### Add existing user from list
 In order to add an existing user to the RO, i user needs to select the option “Add existing user from list” and on clicking or simply starting to type in the search box reading “Start typing to find user”. The list of the existing users drops down and a user can be selected from the list. Once an user is selected another box appears alongside on the right side where the role of the selected user can be designated. The list of the roles (e.g. Author, Contributor, publisher or Copyright holder) drops down in a list once the user clicks on the second box. Multiple roles can be assigned for a single user. The same step can be repeated in order to add another user and to assign roles. The added user and the role can be removed on clicking the “x” alongside the name of the user. Removing one user also removes his role/s.
-### Add existing organizations from list
+
 ### Add new user
+If the RO creator wants to add a person not present in the existing list of the ROHub users, he can create a new user. In order to create a new user one has to select the “Add new user” option. A new form appears where the creator can provide the credentials of the new user. The fields are:
+* “Display name” the name of the user that will be displayed in the ROHub platform. This information is compulsory.
+* “ORCID” if available for the new user.
+* “Email” id of the new user is also a compulsory information to be provided. If there is no email id, alternatively ORCID has to be provided.
+* “Affiliation” of the user or the name of the organization to which he is affiliated.
+On providing the above information and clicking the blue icon of “Add new user” the new user is added in the ROHub portal. Hereafter the new user can be found in the list of the existing users from there the RO creator can add and assign roles for the user.
+
+### Add existing organizations from list
 ### Add new organization
 
 ## Tags
