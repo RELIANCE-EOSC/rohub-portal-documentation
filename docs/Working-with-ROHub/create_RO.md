@@ -62,17 +62,29 @@ On providing the above information and clicking the blue icon of “Add new orga
 <p align="center"> <img src="https://box.psnc.pl/f/470364085c/?raw=1" width="600"> </p>
 <div align="center"> Figure 4: Add new Organization in RO creation </div>
 
-The user can continue creating/editing the metadata of the RO in the next form by clicking "Update and continue", or "Skip" to skip this part or "Back" to move to the previous segment of the RO creation.
+The user can continue creating/editing the metadata of the RO in the next form by clicking "Update and continue", or "Skip" to skip this part and move to the next segment or "Back" to move to the previous segment of the RO creation.
 
 
 ## Tags
-This section allows the user to add additional metadata to the RO. In order to add a keyword the user clicks inside the box under the “Keywords” saying “Type to add” a list of existing keywords drops down. The user can select one or multiple keywords from the list. In case of new keywords which in any case are not present in the existing list of keywords, a create option appears allowing the user to create a new keyword. The user can create multiple new keywords and later add them to the RO from the list. Secondly the user can add what's the main entity of the RO (e.g.CLI, dataset, document etc.). The user can select the most suitable entity for the RO depending on its type of contents and the main idea of the RO. In case the user wants to make the RO appear in the homepage of the ROHub portal in the golden examples, he can turn on the  “Golden” option in this segment. From “Community” the user can select the communities directly or indirectly associated with the RO. The user can continue creating/editing the metadata of the RO in the next form by clicking "Update and continue", or "Skip" to skip this part or "Back" to move to the previous segment of the RO creation.
+This section allows the user to add additional metadata to the RO. In order to add a keyword the user clicks inside the box under the “Keywords” saying “Type to add” a list of existing keywords drops down. The user can select one or multiple keywords from the list. In case of new keywords which in any case are not present in the existing list of keywords, a create option appears allowing the user to create a new keyword. The user can create multiple new keywords and later add them to the RO from the list. Secondly the user can add what's the main entity of the RO (e.g.CLI, dataset, document etc.). The user can select the most suitable entity for the RO depending on its type of contents and the main idea of the RO. In case the user wants to make the RO appear in the homepage of the ROHub portal in the golden examples, he can turn on the  “Golden” option in this segment. From “Community” the user can select the communities directly or indirectly associated with the RO. The user can continue creating/editing the metadata of the RO in the next form by clicking "Update and continue", or "Skip" to skip this part and move to the next segment or "Back" to move to the previous segment of the RO creation.
 
 <p align="center"> <img src="https://box.psnc.pl/f/de9daa8734/?raw=1" width="600"> </p>
 <div align="center"> Figure 5: Tags in RO creation </div>
 
 
 ## Sketches gallery
+The user can add sketches to a RO from this segment of the RO creation form. There are two ways the user can add images to a RO using the sketch gallery.
+* Uploading images locally from the user’s computer by clicking the “Upload” box and selecting the images, or simply by dragging and dropping files inside the upload box.
+<p align="center"> <img src="https://box.psnc.pl/f/e5c9ef2d7d/?raw=1" width="600"> </p>
+<div align="center"> Figure 6: Internal uploading Sketch in RO creation </div>
+* Users can also upload images externally by typing or pasting URLs. Once the “Add external image” window appears the user can type or paste the URL of the image and click the green button saying “Add external image.”
+<p align="center"> <img src="https://box.psnc.pl/f/9801d3117b/?raw=1" width="600"> </p>
+<div align="center"> Figure 7: External uploading Sketch in RO creation </div>
+The images once uploaded are visible in the sketches gallery from where the user has also the possibility to remove any of the uploaded images.
+The user can continue creating/editing the metadata of the RO in the next form by clicking "Update and continue", or "Skip" to skip this part and move to the next segment or "Back" to move to the previous segment of the RO creation.
+
+
+
 
 ## Resources
 
