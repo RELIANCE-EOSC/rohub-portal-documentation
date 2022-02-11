@@ -23,5 +23,5 @@ The “Content” section shows the aggregated resources in a research object wh
 The main section lists the RO contents in a tabular format with the name of the content, details (e.g. denoting number of entries in a folder), creation time and date and creator’s name. Additional to the drag and drop functionality, from this page the user can also add additional resources to the RO using the three on-screen functionalities (described in the later section).The home page of the content section also has a drag and drop segment for directly adding resources to the RO. Additionally from this page the user has the possibility to navigate through the resources in the RO content.
 
 
-<p align="center"> <img src="https://box.psnc.pl/f/c676d78739/?raw=1" width="500"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/c676d78739/?raw=1" width="700"> </p>
 <div align="center"> Figure 1: Content page in ROHub portal </div>
