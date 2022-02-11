@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Create new ROs
+title: Create and Edit ROs
 parent: Working with ROHub
 nav_order: 1
 ---
 
-# Create new ROs
+# Create and Edit ROs
 {: .no_toc }
 
 ## Table of contents
