@@ -19,7 +19,6 @@ nav_order: 2
 
 The “Content” section shows the aggregated resources in a research object where the user is enabled to browse and navigate through the resources. The resources can also include folders and subfolders. When the user selects a resource, its metadata information (e.g. name, description, creation date and time, modification date and time, creators’ name etc.) is displayed at the end of the page along with the annotations added in the ROHub platform for that particular resource. From the Content page the user can also create new resources or edit/modify resources and aggregate them to the RO.
 
-## Content home
 The main section lists the RO contents in a tabular format with the name of the content, details (e.g. denoting number of entries in a folder), creation time and date and creator’s name. Additional to the drag and drop functionality, from this page the user can also add additional resources to the RO using the three on-screen functionalities (described in the later section).The home page of the content section also has a drag and drop segment for directly adding resources to the RO. Additionally from this page the user has the possibility to navigate through the resources in the RO content.
 
 
