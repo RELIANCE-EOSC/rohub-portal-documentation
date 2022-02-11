@@ -86,6 +86,7 @@ The user can continue creating/editing the metadata of the RO in the next form b
 
 ## Resources
 
+
 ## Related locations
 
 ## License & Funding
