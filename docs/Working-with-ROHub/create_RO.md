@@ -84,8 +84,6 @@ The images once uploaded are visible in the sketches gallery from where the user
 The user can continue creating/editing the metadata of the RO in the next form by clicking "Update and continue", or "Skip" to skip this part and move to the next segment or "Back" to move to the previous segment of the RO creation.
 
 
-
-
 ## Resources
 
 ## Related locations
