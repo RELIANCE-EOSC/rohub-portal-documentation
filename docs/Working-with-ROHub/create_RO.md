@@ -93,14 +93,14 @@ On clicking the “Create new folder” icon an new window pops up for the user.
 <div align="center"> Figure 2: Creating new folder in ROHub </div>
 
 ### Create new resource from internal source
-On clicking the second icon  a window pops up to “Create new resource”. The user can upload a file from his local device on clicking the “Choose file” and selecting a file/resource internally. Upon filling the “Title” and “description” fields the user has to select a “Resource type” from the list of type displayed on clicking the field of resource type to denote the type of the uploaded resource. On clicking “Create”  the resource is added in the RO content. Another way to create new resources is to add selected files directly by draggind and dropping in the upload segment saying "Drag and drop files here..." and providing the title, description and the resource type. 
+On clicking the second icon  a window pops up to “Create new resource”. The user can upload a file from his local device on clicking the “Choose file” and selecting a file/resource internally. Upon filling the “Title” and “description” fields the user has to select a “Resource type” from the list of type displayed on clicking the field of resource type to denote the type of the uploaded resource. On clicking “Create”  the resource is added in the RO content. Another way to create new resources is to add selected files directly by draggind and dropping in the upload segment saying "Drag and drop files here..." and providing the title, description and the resource type.
 
 
 <p align="center"> <img src="https://box.psnc.pl/f/38a262127c/?raw=1" width="500"> </p>
 <div align="center"> Figure 3: Creating new internal resource in ROHub </div>
 
 ### Create new resource from external source
-On clicking the third icon another window pops up to “Create new resource”. The user can provide the URL of an external resource in the field saying “External URL”. Upon filling the “Title” and “description” fields the user has to select a “Resource type” from the list of type displayed on clicking the field of resource type to denote the type of the  resource. On clicking “Create” the resource is added in the RO content.
+On clicking the third icon another window pops up to “Create new resource”. The user can provide the URL of an external resource in the field saying “External URL”. Upon filling the “Title” and “description” fields the user has to select a “Resource type” from the list of type displayed on clicking the field of "Resource type" to denote the type of the  resource. On clicking “Create” the resource is added in the RO content.
 
 <p align="center"> <img src="https://box.psnc.pl/f/15dd963493/?raw=1" width="500"> </p>
 <div align="center"> Figure 3: Creating new internal resource in ROHub </div>
