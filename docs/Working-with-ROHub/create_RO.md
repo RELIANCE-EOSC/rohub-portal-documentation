@@ -84,7 +84,8 @@ The user can continue creating/editing the metadata of the RO in the next form b
 
 
 ## Resources
-From the content page the user can create new resources from the  create icons present at the top of the resources list. There are three functionalities added to the ROHUb portal for creating folders and adding/uploading files as resources in the RO content.  
+From the content page the user can create new resources from the  create icons present at the top of the resources list. There are three functionalities added to the ROHUb portal for creating folders and adding/uploading files as resources in the RO content.
+
 ### Create new folder
 On clicking the “Create new folder” icon an new window pops up for the user. Here the user can create a new folder by typing the title, description and can also choose the parent folder from the dropped down list of the existing folders in the RO content if the user wants to enlist it in any of them.  Otherwise simply keeping this field empty will create a new folder in the home of the content section. On clicking the “Create” the user creates a new folder which will be visible in the content list of the RO. The figure below shows the creation of the folder in the RO content page.
 
@@ -92,7 +93,7 @@ On clicking the “Create new folder” icon an new window pops up for the user.
 <div align="center"> Figure 2: Creating new folder in ROHub </div>
 
 ### Create new resource from internal source
-On clicking the second icon  a window pops up to “Create new resource”. The user can upload a file from his local device on clicking the “Choose file” and selecting a file/resource internally. Upon filling the “Title” and “description” fields the user has to select a “Resource type” from the list of type displayed on clicking the field of resource type to denote the type of the uploaded resource. On clicking “Create”  the resource is added in the RO content.
+On clicking the second icon  a window pops up to “Create new resource”. The user can upload a file from his local device on clicking the “Choose file” and selecting a file/resource internally. Upon filling the “Title” and “description” fields the user has to select a “Resource type” from the list of type displayed on clicking the field of resource type to denote the type of the uploaded resource. On clicking “Create”  the resource is added in the RO content. Another way to add selected files as resources is to directly drag and drop in the upload segment saying "Drag and drop files here...". and providing the title, description and the resource type. 
 
 
 <p align="center"> <img src="https://box.psnc.pl/f/38a262127c/?raw=1" width="500"> </p>
