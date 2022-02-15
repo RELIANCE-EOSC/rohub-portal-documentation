@@ -160,9 +160,15 @@ The various function to add geometry to the map layer are as follows:
 
 ### Editing and Deleting Layers
 A particular RO can have a variety of locations named as Area or Point depending on the geometry. The ROHUB platform also allows the user to edit or delete the added locations. Once a user clicks on a location it opens in the map layer and the user can see options like “Edit Layers” and “Delete Layers”.
-* Edit Layers: Once the user opens a location in the map layer the edit layers function allows the user to edit the location or area of the geometry. While editing a location the pointer guides the user displaying “Drag handles or markers to edit features”. On completion the user can save or cancel the changes by clicking “Save” or “Cancel”
-* Delete Layers: The user can delete a location from the RO by opening it and clicking the delete option. On clicking delete the user needs to select “Clear all” to delete  all the layers from that location.
+* Edit Layers: Once the user opens a location in the map layer the edit layers function allows the user to edit the location or area of the geometry. While editing a location the pointer guides the user displaying “Drag handles or markers to edit features”. On completion the user can save or cancel the changes by clicking “Save” or “Cancel”.
 
+<p align="center"> <img src="https://box.psnc.pl/f/0113420d01/?raw=1" width="500"> </p>
+<div align="center"> Figure 21: Editing Location in a RO </div>
+
+* Delete Layers: The user can delete a location from the RO by opening it and clicking the delete option. On clicking delete the user needs to select “Clear all” to delete  all the layers from that location or follow the pointer saying "Click on a feature to remove".
+
+<p align="center"> <img src="https://box.psnc.pl/f/e0e1261757/?raw=1" width="500"> </p>
+<div align="center"> Figure 22: Deleting Location in a RO </div>
 
 
 ## License & Funding
