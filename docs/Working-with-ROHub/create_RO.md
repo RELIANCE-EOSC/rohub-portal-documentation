@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Create and Edit ROs
+title: Create new RO
 parent: Working with ROHub
 nav_order: 1
 ---
