@@ -15,7 +15,7 @@ nav_order: 2
 {:toc}
 
 ---
-Once the RO is created with the basic information the newly created RO can be accessed from the Explore page of the ROHub also. The user can continue to add additional metadata during the creation process or edit the RO later by clicking the edit option from the RO toolbox from the RO Overview page. The below mentioned sections are the additional metadata the user can add to enrich a basic RO.
+Once the RO is created with the basic information the newly created RO can be accessed from the Explore page of the ROHub or from the "My Ro" sections also. The user can continue to add additional metadata during the creation process or edit the RO later by clicking the edit option from the RO toolbox from the RO Overview page. The below mentioned sections are the additional metadata the user can add to enrich a basic RO.
 ## People & organizations
 This form allows the user to provide information about the people and organization associated with the research object. The functionalities can be discussed as below:
 ### Add existing user from list
