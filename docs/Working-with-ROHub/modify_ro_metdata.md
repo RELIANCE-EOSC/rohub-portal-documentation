@@ -47,11 +47,11 @@ On providing the above information and clicking the blue icon of “Add new orga
 <p align="center"> <img src="https://box.psnc.pl/f/470364085c/?raw=1" width="600"> </p>
 <div align="center"> Figure 3: Add new Organization in RO creation </div>
 
-The user can continue creating/editing the metadata of the RO in the next form by clicking "Update and continue", or "Skip" to skip this part and move to the next segment or "Back" to move to the previous segment of the RO creation.
+The user can continue creating/editing the metadata of the RO in the next form by clicking "Update and continue", or "Skip" to skip this part and move to the next segment or "Back" to move to the previous segment of the RO editing.
 
 
 ## Tags
-This section allows the user to add additional metadata to the RO. In order to add a keyword the user clicks inside the box under the “Keywords” saying “Type to add” a list of existing keywords drops down. The user can select one or multiple keywords from the list. In case of new keywords which in any case are not present in the existing list of keywords, a create option appears allowing the user to create a new keyword. The user can create multiple new keywords and later add them to the RO from the list. Secondly the user can add what's the main entity of the RO (e.g.CLI, dataset, document etc.). The user can select the most suitable entity for the RO depending on its type of contents and the main idea of the RO. In case the user wants to make the RO appear in the homepage of the ROHub portal in the golden examples, he can turn on the  “Golden” option in this segment. From “Community” the user can select the communities directly or indirectly associated with the RO. The user can continue creating/editing the metadata of the RO in the next form by clicking "Update and continue", or "Skip" to skip this part and move to the next segment or "Back" to move to the previous segment of the RO creation.
+This section allows the user to add additional metadata to the RO. In order to add a keyword the user clicks inside the box under the “Keywords” saying “Type to add” a list of existing keywords drops down. The user can select one or multiple keywords from the list. In case of new keywords which in any case are not present in the existing list of keywords, a create option appears allowing the user to create a new keyword. The user can create multiple new keywords and later add them to the RO from the list. Secondly the user can add what's the main entity of the RO (e.g.CLI, dataset, document etc.). The user can select the most suitable entity for the RO depending on its type of contents and the main idea of the RO. In case the user wants to make the RO appear in the homepage of the ROHub portal in the golden examples, he can turn on the  “Golden” option in this segment. From “Community” the user can select the communities directly or indirectly associated with the RO. The user can continue creating/editing the metadata of the RO in the next form by clicking "Update and continue", or "Skip" to skip this part and move to the next segment or "Back" to move to the previous segment of the RO editing.
 
 <p align="center"> <img src="https://box.psnc.pl/f/de9daa8734/?raw=1" width="600"> </p>
 <div align="center"> Figure 4: Tags in RO creation </div>
@@ -68,7 +68,7 @@ Users can also upload images externally by typing or pasting URLs. Once the “A
 <p align="center"> <img src="https://box.psnc.pl/f/b08ea48ab0/?raw=1" width="600"> </p>
 <div align="center"> Figure 6: External uploading Sketch in RO creation </div>
 The images once uploaded are visible in the sketches gallery from where the user has also the possibility to remove any of the uploaded images.
-The user can continue creating/editing the metadata of the RO in the next form by clicking "Update and continue", or "Skip" to skip this part and move to the next segment or "Back" to move to the previous segment of the RO creation.
+The user can continue creating/editing the metadata of the RO in the next form by clicking "Update and continue", or "Skip" to skip this part and move to the next segment or "Back" to move to the previous segment of the RO editing.
 
 
 ## Resources
@@ -134,7 +134,7 @@ Once a resource is created the annotation of the resource is also created in the
 <p align="center"> <img src="https://box.psnc.pl/f/2890557cca/?raw=1" width="700"> </p>
 <div align="center"> Figure 16: Adding an annotation to a resource in ROHub portal </div>
 
-The user can continue creating/editing the metadata of the RO in the next form by clicking "Update and continue", or "Skip" to skip this part and move to the next segment or "Back" to move to the previous segment of the RO creation.
+The user can continue creating/editing the metadata of the RO in the next form by clicking "Update and continue", or "Skip" to skip this part and move to the next segment or "Back" to move to the previous segment of the RO editing.
 
 ## Related locations
 From this segment the user can add geolocation to any relevant RO. Clicking the icon of  “Add location” a new window with a map layer opens up. In the map layer on the top left side there are zooming and un-zooming options, the center of the maplayer by default shows a point on Poznan, on the right hand side there are various functional icons to draw geometry on the map layer and also functionalities to edit/delete geometry layers.
@@ -170,6 +170,7 @@ A particular RO can have a variety of locations named as Area or Point depending
 <p align="center"> <img src="https://box.psnc.pl/f/e0e1261757/?raw=1" width="500"> </p>
 <div align="center"> Figure 22: Deleting Location in a RO </div>
 
+The user can continue creating/editing the metadata of the RO in the next form by clicking "Update and continue", or "Skip" to skip this part and move to the next segment or "Back" to move to the previous segment of the RO editing.
 
 ## License & Funding
 
