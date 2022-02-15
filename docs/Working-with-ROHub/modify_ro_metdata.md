@@ -59,10 +59,12 @@ This section allows the user to add additional metadata to the RO. In order to a
 
 ## Sketches gallery
 The user can add sketches to a RO from this segment of the RO creation form. There are two ways the user can add images to a RO using the sketch gallery.
-* Uploading images locally from the user’s computer by clicking the “Upload” box and selecting the images, or simply by dragging and dropping files inside the upload box.
+### Uploading images locally
+Uploading images locally from the user’s computer by clicking the “Upload” box and selecting the images, or simply by dragging and dropping files inside the upload box.
 <p align="center"> <img src="https://box.psnc.pl/f/a83f2d6c85/?raw=1" width="600"> </p>
 <div align="center"> Figure 5: Internal uploading Sketch in RO creation </div>
-* Users can also upload images externally by typing or pasting URLs. Once the “Add external image” window appears the user can type or paste the URL of the image and click the green button saying “Add external image.”
+### Uploading images externally
+Users can also upload images externally by typing or pasting URLs. Once the “Add external image” window appears the user can type or paste the URL of the image and click the green button saying “Add external image.”
 <p align="center"> <img src="https://box.psnc.pl/f/b08ea48ab0/?raw=1" width="600"> </p>
 <div align="center"> Figure 6: External uploading Sketch in RO creation </div>
 The images once uploaded are visible in the sketches gallery from where the user has also the possibility to remove any of the uploaded images.
