@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Modify RO metadata
+title: Editing RO metadata
 parent: Working with ROHub
 nav_order: 2
 ---
 
-# Modify RO metadata
+# Editing RO metadata
 {: .no_toc }
 
 ## Table of contents
