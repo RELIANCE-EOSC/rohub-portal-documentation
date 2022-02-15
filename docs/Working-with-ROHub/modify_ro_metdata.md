@@ -15,7 +15,7 @@ nav_order: 2
 {:toc}
 
 ---
-Once the RO is created with the basic information the newly created RO can be accessed from the Explore page of the ROHub also. The user can continue to add additional metadata during the creation process or edit the RO later by clicking the edit option from the RO toolbox from the RO Overview page. The below mentioned sections are the additional metadata the user can add to enrich a RO.
+Once the RO is created with the basic information the newly created RO can be accessed from the Explore page of the ROHub also. The user can continue to add additional metadata during the creation process or edit the RO later by clicking the edit option from the RO toolbox from the RO Overview page. The below mentioned sections are the additional metadata the user can add to enrich a basic RO.
 ## People & organizations
 This form allows the user to provide information about the people and organization associated with the research object. The functionalities can be discussed as below:
 ### Add existing user from list
@@ -23,7 +23,7 @@ In order to add an existing user to the RO, i user needs to select the option �
 ### Add existing organizations from list
 The process of adding an existing organization to a RO is similar to adding an existing member. The user has to select the “Add existing organization from list” option. From the search box the drop down list containing all the existing organization the user can select any one of them and assign a role (e.g. Publisher, Copyright Holder) to the selected organization. The same step can be repeated in order to add another organization and to assign roles to it. The added organization and the role can be removed on clicking the “x” alongside the name of the user. Removing one organization also removes its role/s.
 <p align="center"> <img src="https://box.psnc.pl/f/692ed6c0d2/?raw=1" width="600"> </p>
-<div align="center"> Figure 2: Add People and Organization in RO creation </div>
+<div align="center"> Figure 1: Add People and Organization in RO creation </div>
 
 ### Add new user
 If the RO creator wants to add a person not present in the existing list of the ROHub users, he can create a new user. In order to create a new user one has to select the “Add new user” option. A new form appears where the creator can provide the credentials of the new user. The fields are:
@@ -34,7 +34,7 @@ If the RO creator wants to add a person not present in the existing list of the 
 On providing the above information and clicking the blue icon of “Add new user” the new user is added in the ROHub portal. Hereafter the new user can be found in the list of the existing users from there the RO creator can add and assign roles for the user.
 
 <p align="center"> <img src="https://box.psnc.pl/f/c6281a0766/?raw=1" width="600"> </p>
-<div align="center"> Figure 3: Add new User in RO creation </div>
+<div align="center"> Figure 2: Add new User in RO creation </div>
 
 ### Add new organization
 If the RO creator wants to add an organization that is not present in the existing list of the ROHub organizations, he can create a new organization by selecting the “Add new organization” option. A new form appears where the creator can provide the information of the new organization. The fields are:
@@ -45,7 +45,7 @@ If the RO creator wants to add an organization that is not present in the existi
 On providing the above information and clicking the blue icon of “Add new organization” the new organization is added in the ROHub portal. Hereafter the new organization can be found in the list of the existing organizations from there the RO creator can add and assign roles for the organization.
 
 <p align="center"> <img src="https://box.psnc.pl/f/470364085c/?raw=1" width="600"> </p>
-<div align="center"> Figure 4: Add new Organization in RO creation </div>
+<div align="center"> Figure 3: Add new Organization in RO creation </div>
 
 The user can continue creating/editing the metadata of the RO in the next form by clicking "Update and continue", or "Skip" to skip this part and move to the next segment or "Back" to move to the previous segment of the RO creation.
 
@@ -54,17 +54,17 @@ The user can continue creating/editing the metadata of the RO in the next form b
 This section allows the user to add additional metadata to the RO. In order to add a keyword the user clicks inside the box under the “Keywords” saying “Type to add” a list of existing keywords drops down. The user can select one or multiple keywords from the list. In case of new keywords which in any case are not present in the existing list of keywords, a create option appears allowing the user to create a new keyword. The user can create multiple new keywords and later add them to the RO from the list. Secondly the user can add what's the main entity of the RO (e.g.CLI, dataset, document etc.). The user can select the most suitable entity for the RO depending on its type of contents and the main idea of the RO. In case the user wants to make the RO appear in the homepage of the ROHub portal in the golden examples, he can turn on the  “Golden” option in this segment. From “Community” the user can select the communities directly or indirectly associated with the RO. The user can continue creating/editing the metadata of the RO in the next form by clicking "Update and continue", or "Skip" to skip this part and move to the next segment or "Back" to move to the previous segment of the RO creation.
 
 <p align="center"> <img src="https://box.psnc.pl/f/de9daa8734/?raw=1" width="600"> </p>
-<div align="center"> Figure 5: Tags in RO creation </div>
+<div align="center"> Figure 4: Tags in RO creation </div>
 
 
 ## Sketches gallery
 The user can add sketches to a RO from this segment of the RO creation form. There are two ways the user can add images to a RO using the sketch gallery.
 * Uploading images locally from the user’s computer by clicking the “Upload” box and selecting the images, or simply by dragging and dropping files inside the upload box.
 <p align="center"> <img src="https://box.psnc.pl/f/a83f2d6c85/?raw=1" width="600"> </p>
-<div align="center"> Figure 6: Internal uploading Sketch in RO creation </div>
+<div align="center"> Figure 5: Internal uploading Sketch in RO creation </div>
 * Users can also upload images externally by typing or pasting URLs. Once the “Add external image” window appears the user can type or paste the URL of the image and click the green button saying “Add external image.”
 <p align="center"> <img src="https://box.psnc.pl/f/b08ea48ab0/?raw=1" width="600"> </p>
-<div align="center"> Figure 7: External uploading Sketch in RO creation </div>
+<div align="center"> Figure 6: External uploading Sketch in RO creation </div>
 The images once uploaded are visible in the sketches gallery from where the user has also the possibility to remove any of the uploaded images.
 The user can continue creating/editing the metadata of the RO in the next form by clicking "Update and continue", or "Skip" to skip this part and move to the next segment or "Back" to move to the previous segment of the RO creation.
 
@@ -76,20 +76,20 @@ From the content page the user can create new resources from the  create icons p
 On clicking the “Create new folder” icon an new window pops up for the user. Here the user can create a new folder by typing the title, description and can also choose the parent folder from the dropped down list of the existing folders in the RO content if the user wants to enlist it in any of them.  Otherwise simply keeping this field empty will create a new folder in the home of the content section. On clicking the “Create” the user creates a new folder which will be visible in the content list of the RO. The figure below shows the creation of the folder in the RO content page.
 
 <p align="center"> <img src="https://box.psnc.pl/f/14dc1db3dd/?raw=1" width="500"> </p>
-<div align="center"> Figure 2: Creating new folder in ROHub </div>
+<div align="center"> Figure 7: Creating new folder in ROHub </div>
 
 ### Create new resource from internal source
 On clicking the second icon  a window pops up to “Create new resource”. The user can upload a file from his local device on clicking the “Choose file” and selecting a file/resource internally. Upon filling the “Title” and “description” fields the user has to select a “Resource type” from the list of type displayed on clicking the field of resource type to denote the type of the uploaded resource. On clicking “Create”  the resource is added in the RO content. Another way to create new resources is to add selected files directly by draggind and dropping in the upload segment saying "Drag and drop files here..." and providing the title, description and the resource type.
 
 
 <p align="center"> <img src="https://box.psnc.pl/f/38a262127c/?raw=1" width="500"> </p>
-<div align="center"> Figure 3: Creating new internal resource in ROHub </div>
+<div align="center"> Figure 8: Creating new internal resource in ROHub </div>
 
 ### Create new resource from external source
 On clicking the third icon another window pops up to “Create new resource”. The user can provide the URL of an external resource in the field saying “External URL”. Upon filling the “Title” and “description” fields the user has to select a “Resource type” from the list of type displayed on clicking the field of "Resource type" to denote the type of the  resource. On clicking “Create” the resource is added in the RO content.
 
 <p align="center"> <img src="https://box.psnc.pl/f/15dd963493/?raw=1" width="500"> </p>
-<div align="center"> Figure 3: Creating new internal resource in ROHub </div>
+<div align="center"> Figure 9: Creating new internal resource in ROHub </div>
 
 The user can modify or edit any resource of choice from the resource list. The resource edit, move and delete functionalities activate when the user selects any resource from the list. Moreover on selecting a resource its metadata is also displayed as mentioned in the content home section.
 
@@ -98,11 +98,11 @@ In case the selected resource is a folder the user can rename it from the “Ren
 
 
 <p align="center"> <img src="https://box.psnc.pl/f/2d22549949/?raw=1" width="500"> </p>
-<div align="center"> Figure 4: Renaming a folder in ROHub portal </div>
+<div align="center"> Figure 10: Renaming a folder in ROHub portal </div>
 
 
 <p align="center"> <img src="https://box.psnc.pl/f/0d3ed13f99/?raw=1" width="500"> </p>
-<div align="center"> Figure 5: Renaming a resource in ROHub portal </div>
+<div align="center"> Figure 11: Renaming a resource in ROHub portal </div>
 
 
 ### Moving a resource
@@ -110,27 +110,27 @@ The user can move a resource from one folder to another in the portal. The user 
 
 
 <p align="center"> <img src="https://box.psnc.pl/f/2555a22929/?raw=1" width="500"> </p>
-<div align="center"> Figure 5: Moving a folder in ROHub portal </div>
+<div align="center"> Figure 12: Moving a folder in ROHub portal </div>
 
 
 <p align="center"> <img src="https://box.psnc.pl/f/5623c15e45/?raw=1" width="500"> </p>
-<div align="center"> Figure 6: Moving a resource in ROHub portal </div>
+<div align="center"> Figure 13: Moving a resource in ROHub portal </div>
 
 ### Deleting a resource
 Deleting a resource is also easy. Selecting a resource and clicking the delete icon from the content page pops up the “Delete folder” or “Delete resource” window. By clicking the “Delete” button the resource could be deleted by the user. The figures below depicts the deletion of resources in ROHub portal.
 
 <p align="center"> <img src="https://box.psnc.pl/f/580b608cb0/?raw=1" width="500"> </p>
-<div align="center"> Figure 7: Deleting a folder in ROHub portal </div>
+<div align="center"> Figure 14: Deleting a folder in ROHub portal </div>
 
 
 <p align="center"> <img src="https://box.psnc.pl/f/b4a0b689a4/?raw=1" width="500"> </p>
-<div align="center"> Figure 8: Deleting a resource in ROHub portal </div>
+<div align="center"> Figure 15: Deleting a resource in ROHub portal </div>
 
 ### Adding Annotation to a resource
 Once a resource is created the annotation of the resource is also created in the content section. After selecting the resource the user can also see the added annotation associated with the resource by clicking the “Show All Annotations”. An advanced user can also create additional annotations to a resource by providing the semantic property and value in the boxes saying “Type property..” and “Type value..”. The property should be a fully qualified name (URL), otherwise the ROHub namespace will be prepended, whereas the value can be of any type (e.g. URL, text, numeric). Thereafter clicking “Add” will add the annotation with the selected resource and will be visible in the annotation list. On clicking any of the annotations from the list the user can see the annotation metadata like the annotation id, subject, property and value.
 
 <p align="center"> <img src="https://box.psnc.pl/f/2890557cca/?raw=1" width="500"> </p>
-<div align="center"> Figure 9: Adding an annotation to a resource in ROHub portal </div>
+<div align="center"> Figure 16: Adding an annotation to a resource in ROHub portal </div>
 
 The user can continue creating/editing the metadata of the RO in the next form by clicking "Update and continue", or "Skip" to skip this part and move to the next segment or "Back" to move to the previous segment of the RO creation.
 
