@@ -63,7 +63,7 @@ Similar to the owner and creator the user can filter the ROs based on the inform
 ### Created
 From this filter the user can fetch the ROs within a time period defined by the user. The user has to provide the start date in the box saying "Date from" and the end date in the box saying "Date to" and then click on "OK", the portal then shows the list of ROs created on that specific date range.
 
-<p align="center"> <img src="https://box.psnc.pl/f/4e4bf9a27d/?raw=1" width="300"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/eb7477d9ff/?raw=1" width="300"> </p>
 <div align="center"> Figure 7: Creation date filter </div>
 
 ### Quality
@@ -131,4 +131,4 @@ This is the filter for selecting research objects based on the quantitative valu
 The figure below shows the whole Metrics filter.
 
 <p align="center"> <img src="https://box.psnc.pl/f/d22449a580/?raw=1" width="300"> </p>
-<div align="center"> Figure 13: RO Metrics filter  </div>
+<div align="center"> Figure 15: RO Metrics filter  </div>
