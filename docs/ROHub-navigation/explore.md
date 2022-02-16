@@ -76,7 +76,7 @@ By using this filter the user can fetch the ROs according to their quality as pe
 ### Modified
 With the help of this filter the user can select and filter the ROs modified on a desired date range provided by the user. The user can provide the range by selecting a date from the calendar to set a "Date from" and a “Date to” and by clicking “OK” the portal shows the list of ROs modified on that specific date range.
 
-<p align="center"> <img src="https://box.psnc.pl/f/0b8d76360a/?raw=1" width="300"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/59ee7d769f/?raw=1" width="300"> </p>
 <div align="center"> Figure 9: Modification date filter </div>
 
 
