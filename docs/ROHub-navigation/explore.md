@@ -27,7 +27,7 @@ In the Faceted serach section the user can search for keyword specific research 
 ## Filter search
 The filter search allows the user to further filter the results of the fetched ROs according to various criteria. The figure below shows the filter section present in the left side of the explore page. On clicking the green drop-down icon the user can select the options from each filter section and also can reset all the filters from this section. There is also a "Reset filter" to reset all the filter values.
 
-<p align="center"> <img src="https://box.psnc.pl/f/29df959479/?raw=1" width="300"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/630919619f/?raw=1" width="300"> </p>
 <div align="center"> Figure 2: Filter section of the explore page </div>
 
 Each filter section has various options to choose so that the user can filter through the most desired results of the research object. The subsections and their figures are as follows:
