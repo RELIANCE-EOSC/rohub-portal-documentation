@@ -84,7 +84,7 @@ With the help of this filter the user can select and filter the ROs modified on 
 The type filter can be used to choose the relevant research object types available on the ROHub platform. In this filter by default the number of ROs of each type is displayed alongside. On checking one or multiple RO types the user can fetch the list of ROs on the left side of the page.
 
 
-<p align="center"> <img src="https://box.psnc.pl/f/d83f376113/?raw=1" width="300"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/ab6123b1f6/?raw=1" width="300"> </p>
 <div align="center"> Figure 10: RO type filter </div>
 
 ### Status
