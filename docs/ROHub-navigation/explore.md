@@ -95,9 +95,9 @@ This filter can be used for filtering the research objects based on their status
 <div align="center"> Figure 11: RO status filter </div>
 
 ### Access mode
-By using this filter the user can select the ROs published with accessmode as public or private. SImilar to the above-mentioned filter sections the number of public and private ROs are displayed by default.
+By using this filter the user can select the ROs published with access mode as public, private or open. Similar to the above-mentioned filter sections the number of public, private or open ROs are displayed by default.
 
-<p align="center"> <img src="https://box.psnc.pl/f/1199b4dbda/?raw=1" width="300"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/af5c546945/?raw=1" width="300"> </p>
 <div align="center"> Figure 12: RO Access mode filter </div>
 
 ### Rating
@@ -108,6 +108,10 @@ The "Rating" filter allows the user to select the research objects from the rang
 <div align="center"> Figure 13: RO rating filter </div>
 
 ### Creation Mode
+By using this filter the user can select the ROs based on the creation mode of the RO (e.g. imported or manual). The number of ROS in each creation modes  are displayed in by default and the user can select each mode to fetch all the ROs of a particular creation mode.
+
+<p align="center"> <img src="https://box.psnc.pl/f/33d59b95d1/?raw=1" width="300"> </p>
+<div align="center"> Figure 14: RO creation mode filter </div>
 
 ### Metrics
 This is the filter for selecting research objects based on the quantitative values of its metadata elements like folders, resources, annotation, aggregations as well as other portal specific elements like number of views, downloads, likes, dislikes, snapshots, forks, archives and ratings. Once the user clicks the drop down arrow alongside the “Metrics” another list opens including the number of the below-mentioned items. The number range of items for each ROs are set to be <50, 50-100 and >100. The user can choose the number of each item and fetch the RO results comprising of those metrics on clicking on each items of the Metrics as follows:
