@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Editing RO metadata
+title: Research Object editing
 parent: Working with ROHub
 nav_order: 2
 ---
 
-# Editing RO metadata
+# Research Object editing
 {: .no_toc }
 
 ## Table of contents
