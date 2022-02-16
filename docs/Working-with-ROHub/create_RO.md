@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Create new Research Object
+title: Create Research Object
 parent: Working with ROHub
 nav_order: 1
 ---
 
-# Create new Research Object
+# Create Research Object
 {: .no_toc }
 
 ## Table of contents

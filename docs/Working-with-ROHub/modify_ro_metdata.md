@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Research Object editing
+title: Edit Research Object
 parent: Working with ROHub
 nav_order: 2
 ---
