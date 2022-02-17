@@ -10,7 +10,17 @@ Once the user is logged in to the ROHUB platform he is ready to create his own r
 <p align="center"> <img src="https://box.psnc.pl/f/c36f3dd981/?raw=1" width="500"> </p>
 <div align="center"> Figure 1: Create new RO from MY ROS section </div>
 
-On the right hand side of this page there is a red button “Create new RO”. Once the user clicks a new page called “Create new Research Object” opens. This page holds the RO create wizard having various segments. The first and the most important segment of the wizard is called the “Basic Information” holding fields like title, description, access mode etc. for the user to fill and create the basic structure of a new Research Object. The user can click on “Reset form” present at the bottom of the form to reset the information in the basin information form. Once the user fills up the basic information he can click on “Create & Exit” to create the RO with only the basic information and exit the wizard or click on “Create & Continue” to continue enriching the RO metadata by navigating over the next segments of the RO create wizard.
+On the right hand side of this page there is a red button “Create new RO”. Once the user clicks a new page called “Create new Research Object” opens. This page holds the RO create wizard having various segments which are discussed separately in this document. The segments of the wizard are as follows:
+* Basic information
+* People & organizations
+* Tags
+* Sketches gallery
+* Resources
+* Related locations
+* License & Funding
+* Advanced metadata
+
+The first and the most important segment of the wizard is called the “Basic Information” holding fields like title, description, access mode etc. for the user to fill and create the basic structure of a new Research Object. The user can click on “Reset form” present at the bottom of the form to reset the information in the basin information form. Once the user fills up the basic information he can click on “Create & Exit” to create the RO with only the basic information and exit the wizard or click on “Create & Continue” to continue enriching the RO metadata by navigating over the next segments of the RO create wizard.
 
 <p align="center"> <img src="https://box.psnc.pl/f/6ef29c7fd9/?raw=1" width="600"> </p>
 <div align="center"> Figure 2: RO create wizard and basic information of a RO </div>
