@@ -6,7 +6,16 @@ grand_parent: Working with ROHub
 nav_order: 1
 ---
 
+---
 # Basic Information
+{: .no_toc }
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 The first form in creation of a RO is “Basic information” that allows the user to add the key information of a RO in such as:
 * Title: In this field the user provides the title of the created Research Object. This is a required field and must be filled.
