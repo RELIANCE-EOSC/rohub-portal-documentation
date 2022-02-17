@@ -21,5 +21,5 @@ On clicking "Edit this RO" from the RO overview page a new page opens called the
 * License & Funding: The user can change or add new licenses to the RO and also update the funding information from this segment. The user has option to “Update & Continue”, “Back” or “Skip” for this segment.  
 * Advanced metadata: This segment is meant for advanced users and from here the annotations of the RO can be modified. The advanced users can either add new semantic annotations or delete existing ones from this segment. From here the user can click “Finish & go to Overview” and complete the RO modification or can click “Back” to move back and review any of the above-mentioned segments.
 
-<p align="center"> <img src="https://box.psnc.pl/f/b7358172b6/?raw=1" width="600"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/b7358172b6/?raw=1" width="700"> </p>
 <div align="center"> Figure 2: Research object editing </div>
