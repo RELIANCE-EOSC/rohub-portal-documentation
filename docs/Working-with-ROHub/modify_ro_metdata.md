@@ -5,7 +5,7 @@ parent: Working with ROHub
 nav_order: 2
 ---
 
-# Research Object Editing
+# Edit Research Object
 Once the user creates a Research Object with the basic information the newly created RO can be accessed from the Explore page of the ROHub or from the "My RO" sections. The user can continue to add additional metadata during the creation process or edit the RO later by clicking the edit option (saying "Edit this RO" on hovering) from the RO toolbox present on the left hand side of the RO Overview page. The figure below shows the edit option in the toolbox of a RO overview.
 
 <p align="center"> <img src="https://box.psnc.pl/f/7003793f10/?raw=1" width="700"> </p>
