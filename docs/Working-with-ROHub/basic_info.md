@@ -7,7 +7,8 @@ nav_order: 1
 ---
 
 ---
-# Basic Information
+## Basic Information
+<!--
 {: .no_toc }
 ## Table of contents
 {: .no_toc .text-delta }
@@ -15,7 +16,7 @@ nav_order: 1
 1. TOC
 {:toc}
 
----
+--->
 
 The first segment in RO create wizard is called the “Basic information”. It consists of fields that allows the user to add the key information required to create any Research Object such as:
 * Title: In this field the user provides the title of the created Research Object. This is a required field and must be filled.
