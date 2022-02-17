@@ -14,7 +14,7 @@ nav_order: 2
 1. TOC
 {:toc}
 ---------
-This form allows the user to provide information about the people and organization associated with the research object. The functionalities can be discussed as below:
+This segment of the wizard allows the user to provide information about the people and organization associated with the research object. The functionalities can be discussed as below:
 ### Add existing user from list
 In order to add an existing user to the RO, i user needs to select the option “Add existing user from list” and on clicking or simply starting to type in the search box reading “Start typing to find user”. The list of the existing users drops down and a user can be selected from the list. Once an user is selected another box appears alongside on the right side where the role of the selected user can be designated. The list of the roles (e.g. Author, Contributor, publisher or Copyright holder) drops down in a list once the user clicks on the second box. Multiple roles can be assigned for a single user. The same step can be repeated in order to add another user and to assign roles. The added user and the role can be removed on clicking the “x” alongside the name of the user. Removing one user also removes the corresponding role/s.
 ### Add existing organizations from list
