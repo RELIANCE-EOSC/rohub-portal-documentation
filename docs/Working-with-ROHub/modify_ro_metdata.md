@@ -18,7 +18,7 @@ nav_order: 2
 Once the user creates a Research Object with the basic information the newly created RO can be accessed from the Explore page of the ROHub or from the "My RO" sections. The user can continue to add additional metadata during the creation process or edit the RO later by clicking the edit option (saying "Edit this RO" on hovering) from the RO toolbox present on the left hand side of the RO Overview page. The figure below shows the edit option in the toolbox of a RO overview.
 
 <p align="center"> <img src="https://box.psnc.pl/f/7003793f10/?raw=1" width="600"> </p>
-<div align="center"> Figure 2: Edit option from RO Overview Toolbox </div>
+<div align="center"> Figure 1: Edit option from RO Overview Toolbox </div>
 
 On clicking "Edit this RO" from the RO overview page a new page opens called the "Research Object Editing" page containing the various segments of RO creation/editing wizard. The wizard is the same in both creation and editing except in case of RO editing some segments can already hold metadata. The RO creation/editing wizard is the same as mentioned in the previous segment and has the following segments.
 * Basic Information:  The fields in this page always have data as this is the basic part of a RO, the user can change the title, description, access mode , owner's name, editor's name, research areas, RO type etc. The user has options to “Update & Exit”, “Reset form” , “Update & Continue” or “Skip”.
