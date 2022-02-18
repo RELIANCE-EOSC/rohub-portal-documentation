@@ -36,6 +36,7 @@ On clicking the second of the three icons a window pops up to “Create new reso
 * Description: In the field under description the user can optionally provide a short description for the resource that's being uploaded.
 * Resource type: The user must provide the resource type from the list of types appearing on clicking the box under the resource type field. Some examples are e.g. Bibliographic  resource, Command Line Tool etc.
 * Licenses: The user can also optionally select a license from the list of licenses under the field of “Licenses. These licenses are the existing list of licenses available in the ROHUB portal
+
 On clicking “Create”  the resource is added to the RO. The figure below depicts the upload of a resource using a local file.
 
 
@@ -50,6 +51,7 @@ On clicking the third of the three icons a window pops up to “Create new resou
 * Description: Description field is also optional and the user can add a short description of the resource from this field.
 * Resource type:  The user must select a resource type from the list of the existing types from the list that drops down once the user clicks or starts to type in the box beneath  the resource type.
 * Licenses: The user can optionally select a license from the list of licenses under the field of “Licenses. These licenses are the existing list of licenses available in the ROHUB portal
+
 On clicking “Create”  the resource is added to the RO. The figure below depicts the upload of an external resource to a RO.
 
 <p align="center"> <img src="https://box.psnc.pl/f/d19ac04b27/?raw=1" width="500"> </p>
