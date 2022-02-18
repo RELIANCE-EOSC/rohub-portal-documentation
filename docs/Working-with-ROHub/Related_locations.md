@@ -33,16 +33,14 @@ The user can add point geometry on clicking the “Draw a marker” and a pointe
 <div align="center"> Figure 3: Adding point as Location </div>
 
 
-### Editing and Deleting Layers
-A particular RO can have a variety of locations named as Area or Point depending on the geometry. The ROHUB platform also allows the user to edit or delete the added locations. Once a user clicks on a location it opens in the map layer and the user can see options like “Edit Layers” and “Delete Layers”.
-* Edit Layers: Once the user opens a location in the map layer the edit layers function allows the user to edit the location or area of the geometry. While editing a location the pointer guides the user displaying “Drag handles or markers to edit features”. On completion the user can save or cancel the changes by clicking “Save” or “Cancel”.
+## Edit location
+A particular RO can have a variety of locations named as “Area” or “Point” depending on the geometry type. All the added locations appear in the box of the related location segment. Once the user clicks and opens a location in the map layer the edit layers function allows the user to edit the location or area of the geometry. While editing a location the pointer guides the user displaying “Drag handles or markers to edit features”. On completion the user can save or cancel the changes by clicking “Save” or “Cancel”.
 
 <p align="center"> <img src="https://box.psnc.pl/f/0113420d01/?raw=1" width="500"> </p>
-<div align="center"> Figure 21: Editing Location in a RO </div>
+<div align="center"> Figure 4: Editing Location in a RO </div>
 
-* Delete Layers: The user can delete a location from the RO by opening it and clicking the delete option. On clicking delete the user needs to select “Clear all” to delete  all the layers from that location or follow the pointer saying "Click on a feature to remove".
+## Delete Layers
+The user can delete a location from the RO by clicking and opening it on the map layer and choosing the delete option. On clicking delete the user needs to select “Clear all” to delete all the layers and exit automatically from that location or follow the pointer saying "Click on a feature to remove" and click “Save”. The user can also cancel the delete on clicking “Cancel” from the options available.
 
 <p align="center"> <img src="https://box.psnc.pl/f/e0e1261757/?raw=1" width="500"> </p>
-<div align="center"> Figure 22: Deleting Location in a RO </div>
-
-The user can continue creating/editing the metadata of the RO in the next form by clicking "Update and continue", or "Skip" to skip this part and move to the next segment or "Back" to move to the previous segment of the RO editing.
+<div align="center"> Figure 5: Deleting Location of a RO </div>
