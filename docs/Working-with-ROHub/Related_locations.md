@@ -7,6 +7,13 @@ nav_order: 6
 ---
 
 ## Related locations
+{: .no_toc }
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+---------
 From this segment the user can add geolocation to any relevant RO. Clicking the icon of  “Add location” a new window with a map layer opens up. In the map layer on the top left side there are zooming and un-zooming options, the center of the maplayer by default shows a point on Poznan, on the right hand side there are various functional icons to draw geometry on the map layer and also functionalities to edit/delete geometry layers.
 
 <p align="center"> <img src="https://box.psnc.pl/f/9520dac0a4/?raw=1" width="700"> </p>
