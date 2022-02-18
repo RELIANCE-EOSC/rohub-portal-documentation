@@ -84,6 +84,9 @@ The user has to navigate to the specific resource that is to be edited and selec
   * Generate DOI: The user can generate a random DOI for the resource on selecting this option.
 
 Once done the user can click “Edit” to update the selected resource. The following figure depicts the edit functionality of an internal resource.
+https://box.psnc.pl/f/3d4dc03ff3/?raw=1
+<p align="center"> <img src="https://box.psnc.pl/f/c728ea80b7/?raw=1" width="500"> </p>
+<div align="center"> Figure 5: Editing an internal resource </div>
 
 #### Editing an external resource
 
