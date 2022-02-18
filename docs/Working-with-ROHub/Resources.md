@@ -30,7 +30,7 @@ On clicking the “Create” the user creates a new folder which will be visible
 <div align="center"> Figure 1: Creating new folder in ROHub </div>
 
 ### Create new resource from internal source
-On clicking the second of the three icons a window pops up to “Create new resource” or alternatively by dragging and dropping a resource from the user's computer. The user can upload a file from his local device form this window. The various fields of this window are as follows:
+On clicking the second of the three icons a window pops up to “Create new resource” or alternatively by dragging and dropping a resource in the resource upload section saying "Drag and drop files here..." from the user's computer. The user can upload a file from his local device form this window. The various fields of this window are as follows:
 * Local file: Once the file is chosen the name of the file will be displayed in this field.
 * Title: In the field under title the user has to provide a title for the resource that's being uploaded.
 * Description: In the field under description the user can optionally provide a short description for the resource that's being uploaded.
