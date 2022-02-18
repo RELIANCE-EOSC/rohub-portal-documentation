@@ -126,7 +126,7 @@ Deleting a resource is also easy. Selecting a resource and clicking the delete i
 <div align="center"> Figure 14: Deleting a folder in ROHub portal </div>
 
 
-<p align="center"> <img src="https://box.psnc.pl/f/b4a0b689a4/?raw=1" width="500"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/a84b7163aa/?raw=1" width="500"> </p>
 <div align="center"> Figure 15: Deleting a resource in ROHub portal </div>
 
 ### Adding annotation to a resource
