@@ -30,8 +30,8 @@ On clicking the “Create” the user creates a new folder which will be visible
 <div align="center"> Figure 1: Creating new folder in ROHub </div>
 
 ### Create new resource from internal source
-On clicking the second of the three icons a window pops up to “Create new resource”. The user can upload a file from his local device. The various fields of this window are as follows:
-* Local file: The user can choose a file from the local system on clicking “Choose file”. Once the file is chosen the name of the file will be displayed in this field.
+On clicking the second of the three icons a window pops up to “Create new resource” or alternatively by dragging and dropping a resource from the user's computer. The user can upload a file from his local device form this window. The various fields of this window are as follows:
+* Local file: Once the file is chosen the name of the file will be displayed in this field.
 * Title: In the field under title the user has to provide a title for the resource that's being uploaded.
 * Description: In the field under description the user can optionally provide a short description for the resource that's being uploaded.
 * Resource type: The user must provide the resource type from the list of types appearing on clicking the box under the resource type field. Some examples are e.g. Bibliographic  resource, Command Line Tool etc.
@@ -112,12 +112,12 @@ Once done the user can click “Edit” to update the selected resource. The fol
 The user can move a resource from one folder to another within the resource homepage. The user has to select a resource from the list and then click the move icon, a window pops up displaying either “Move folder” (for moving a folder) or “Move Resource” (for moving a resource) from where the user can specify the parent folder. Once the user clicks on the field beneath “Parent folder”, a list of all the existing folders drops down. From the list the user can specify the folder where he wants to move the resource. Clicking “Move” ends the action and moves the resource from one folder to another.
 
 
-<p align="center"> <img src="https://box.psnc.pl/f/2555a22929/?raw=1" width="500"> </p>
-<div align="center"> Figure 12: Moving a folder in ROHub portal </div>
+<p align="center"> <img src="https://box.psnc.pl/f/fda65d5613/?raw=1" width="500"> </p>
+<div align="center"> Figure 7: Moving a folder in ROHub portal </div>
 
 
-<p align="center"> <img src="https://box.psnc.pl/f/5623c15e45/?raw=1" width="500"> </p>
-<div align="center"> Figure 13: Moving a resource in ROHub portal </div>
+<p align="center"> <img src="https://box.psnc.pl/f/2585f426c7/?raw=1" width="500"> </p>
+<div align="center"> Figure 8: Moving a resource in ROHub portal </div>
 
 ### Deleting a resource
 Deleting a resource is also easy. Selecting a resource and clicking the delete icon from the content page pops up the “Delete folder” or “Delete resource” window. By clicking the “Delete” button the resource could be deleted by the user. The figures below depicts the deletion of resources in ROHub portal.
