@@ -103,18 +103,13 @@ The user has to navigate to the specific resource that is to be edited and selec
 
 Once done the user can click “Edit” to update the selected resource. The following figure depicts the edit functionality of an external resource.
 
+<p align="center"> <img src="https://box.psnc.pl/f/48ce437077/?raw=1" width="500"> </p>
+<div align="center"> Figure 6: Editing an external resource </div>
 
-
-<p align="center"> <img src="https://box.psnc.pl/f/2d22549949/?raw=1" width="500"> </p>
-<div align="center"> Figure 10: Renaming a folder in ROHub portal </div>
-
-
-<p align="center"> <img src="https://box.psnc.pl/f/0d3ed13f99/?raw=1" width="500"> </p>
-<div align="center"> Figure 11: Renaming a resource in ROHub portal </div>
 
 
 ### Moving a resource
-The user can move a resource from one folder to another in the portal. The user has to select a resource from the content list and then click the move icon, a window pops up displaying either “Move folder” (for moving a folder) or “Move resource” (for moving a resource) where the user can specify the “parent folder”. Once the user clicks on the field saying parent folder, a list of all the existing folders of the content appears. From the list the user can easily specify the folder where he wants to move the resource. Clicking “Move” ends the action and moves the resource from one folder to another.
+The user can move a resource from one folder to another within the resource homepage. The user has to select a resource from the list and then click the move icon, a window pops up displaying either “Move folder” (for moving a folder) or “Move Resource” (for moving a resource) from where the user can specify the parent folder. Once the user clicks on the field beneath “Parent folder”, a list of all the existing folders drops down. From the list the user can specify the folder where he wants to move the resource. Clicking “Move” ends the action and moves the resource from one folder to another.
 
 
 <p align="center"> <img src="https://box.psnc.pl/f/2555a22929/?raw=1" width="500"> </p>
