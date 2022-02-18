@@ -6,7 +6,7 @@ grand_parent: Working with ROHub
 nav_order: 5
 ---
 
-## Resources
+# Resources
 {: .no_toc }
 ## Table of contents
 {: .no_toc .text-delta }
@@ -16,6 +16,7 @@ nav_order: 5
 ---------
 From the "Resource" segment of the RO create/edit wizard the user can create new resources and add them to the RO, navigate through the resources and also remove them if required. The functionalities of the "Resource" segment are discussed briefly.
 
+## Creating new Resources
 ### Create new folder
 On clicking the first of  the three black icons (representing a folder) a new window called “Create new folder” pops up for the user. The various fields in this windows are:
 * Title:  In the title field the user has to provide the name of the folder. Without providing the title the user is unable to create a folder. The title must contain a minimum of five characters.
@@ -53,7 +54,7 @@ On clicking “Create”  the resource is added to the RO. The figure below depi
 <p align="center"> <img src="https://box.psnc.pl/f/d19ac04b27/?raw=1" width="500"> </p>
 <div align="center"> Figure 3: Creating new external resource in ROHub </div>
 
-
+## Editing uploaded Resources
 The user can modify or edit any resource of choice from the resource list. The resource edit, move and delete functionalities activate when the user selects any resource from the list. Moreover on selecting a resource its metadata is also displayed as mentioned in the content home section.
 
 ### Renaming a resource
