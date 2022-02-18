@@ -123,16 +123,14 @@ The user can move a resource from one folder to another within the resource home
 Deleting a resource is also easy. Selecting a resource and clicking the delete icon from the content page pops up the “Delete folder” or “Delete resource” window. By clicking the “Delete” button the resource could be deleted by the user. The figures below depicts the deletion of resources in ROHub portal.
 
 <p align="center"> <img src="https://box.psnc.pl/f/580b608cb0/?raw=1" width="500"> </p>
-<div align="center"> Figure 14: Deleting a folder in ROHub portal </div>
+<div align="center"> Figure 9: Deleting a folder  </div>
 
 
 <p align="center"> <img src="https://box.psnc.pl/f/a84b7163aa/?raw=1" width="500"> </p>
-<div align="center"> Figure 15: Deleting a resource in ROHub portal </div>
+<div align="center"> Figure 10: Deleting a resource  </div>
 
 ### Adding annotation to a resource
-Once a resource is created the annotation of the resource is also created in the content section. After selecting the resource the user can also see the added annotation associated with the resource by clicking the “Show All Annotations”. An advanced user can also create additional annotations to a resource by providing the semantic property and value in the boxes saying “Type property..” and “Type value..”. The property should be a fully qualified name (URL), otherwise the ROHub namespace will be prepended, whereas the value can be of any type (e.g. URL, text, numeric). Thereafter clicking “Add” will add the annotation with the selected resource and will be visible in the annotation list. On clicking any of the annotations from the list the user can see the annotation metadata like the annotation id, subject, property and value.
+Once a resource is created the annotation of the resource is also created automatically in the resource segment. After selecting the resource the user can also see the added annotation associated with the resource by clicking the “Show All Annotations”. An advanced user can also create additional annotations to a resource by providing the semantic property and value in the boxes saying “Type property..” and “Type value..”. The property should be a fully qualified name (URL), otherwise the ROHub namespace will be prepended, whereas the value can be of any type (e.g. URL, text, numeric). Thereafter clicking “Add” will add the annotation with the selected resource and will be visible in the annotation list. On clicking any of the annotations from the list the user can see the annotation metadata like the annotation id, subject, property and value.
 
 <p align="center"> <img src="https://box.psnc.pl/f/2890557cca/?raw=1" width="700"> </p>
-<div align="center"> Figure 16: Adding an annotation to a resource in ROHub portal </div>
-
-The user can continue creating/editing the metadata of the RO in the next form by clicking "Update and continue", or "Skip" to skip this part and move to the next segment or "Back" to move to the previous segment of the RO editing.
+<div align="center"> Figure 11: Adding an annotation to a resource </div>
