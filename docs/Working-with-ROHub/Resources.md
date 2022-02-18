@@ -14,9 +14,7 @@ nav_order: 5
 1. TOC
 {:toc}
 ---------
-From the "Resource "content page"" the user can create new resources from the  create icons present at the top of the resources list. There are three functionalities added to the ROHUb portal for creating folders and adding/uploading files as resources in the RO content.
-
-From the "Resource" segment of the RO create/edit wizard the user can create new resources and add them to the RO. The user can upload resources in the following ways:
+From the "Resource" segment of the RO create/edit wizard the user can create new resources and add them to the RO, navigate through the resources and also remove them if required. The functionalities of the "Resource" segment are discussed briefly.
 
 ### Create new folder
 On clicking the first of  the three black icons (representing a folder) a new window called “Create new folder” pops up for the user. The various fields in this windows are:
