@@ -14,9 +14,10 @@ nav_order: 5
 1. TOC
 {:toc}
 ---------
-From the "Resource" segment of the RO create/edit wizard the user can create new resources and add them to the RO, navigate through the resources and also remove them if required. The functionalities of the "Resource" segment are discussed briefly.
+
 
 ## Creating new Resources
+From the "Resource" segment of the RO create/edit wizard the user can create new resources and add them to the RO, navigate through the resources and also remove them if required. The resource creation functionalities of this segment are discussed briefly.
 ### Create new folder
 On clicking the first of  the three black icons (representing a folder) a new window called “Create new folder” pops up for the user. The various fields in this windows are:
 * Title:  In the title field the user has to provide the name of the folder. Without providing the title the user is unable to create a folder. The title must contain a minimum of five characters.
