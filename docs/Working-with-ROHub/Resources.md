@@ -14,7 +14,7 @@ nav_order: 5
 1. TOC
 {:toc}
 ---------
-In the Resource segment the user can add resources, browse the uploaded resources, edit/modify the uploaded resources and view the annotations created with respect to the added resources. The various functions are discussed in below.
+In the Resource segment the user can add resources, browse the uploaded resources from the list of resources in the "Home" (resources listed with name, details, creation date and time and creator's name), edit/modify the uploaded resources and view the annotations created with respect to the added resources. The various functions are discussed below.
 
 ## Creating new Resources
 From the "Resource" segment of the RO create/edit wizard the user can create new resources and add them to the RO, navigate through the resources and also remove them if required. The resource creation functionalities of this segment are discussed briefly.
@@ -58,9 +58,35 @@ On clicking “Create”  the resource is added to the RO. The figure below depi
 <div align="center"> Figure 3: Creating new external resource in ROHub </div>
 
 ## Modifying uploaded Resources
-The user can modify or edit any resource of choice from the resource list. The resource edit, move and delete functionalities activate when the user selects any resource from the list. Moreover on selecting a resource its metadata is also displayed as mentioned in the content home section.
+The user can modify or edit any of the resources added to the RO. The resource edit, move and delete functionalities are activated when the user selects any resource from the homepage or within a folder. In case of internally uploaded resources the users can also download it upon selection.
 
-### Renaming a resource
+### Editing a resource
+#### Editing a folder
+The user has to navigate to the folder and select it from the list by checking the checkbox. Upon clicking the edit option a new window called “Edit folder” appears. It has the following fields:
+* Title: Here in this field the name of the folder is already visible, the user can rename it.
+* Description: The user can change the description or add if not available.
+* DOI: The generation or adding a DOI is not applicable in case of folder.
+Once done the user can click “Edit” to update the folder. The following figure depicts the edit functionality of a RO folder.
+
+<p align="center"> <img src="https://box.psnc.pl/f/c728ea80b7/?raw=1" width="500"> </p>
+<div align="center"> Figure 4: Editing a folder </div>
+
+#### Editing an internal resource
+The user has to navigate to the specific resource that is to be edited and select it from the list by checking the checkbox. Upon clicking the edit option a new window called “Edit resource” appears. It has the following fields:
+* Selected file:  This field is unchangeable as it shows the name of the selected file.
+* Title: This field shows the resource title and its unchangeable.
+* Description:  The description field is editable and the user can add a description to the resource or update if already there is a description for the resource.
+* Resource type: The user can change the already existing resource type from the list of the resource types that will appear once the user  clicks on the box beneath resource type.
+* Licenses:  The user can also optionally edit the type of the licenses attached with the resource.
+* DOI:  The DOI section unfolds on clicking the down arrow alongside. In this section the user can select the following options:
+  * Not applicable DOI: The user selects this and declares that the resource is not having any DOI.
+  * Add existing DOI: The user selects this and adds an existing DOI of the resource (if any) in the field called “Current DOI”.
+  * Generate DOI: The user can generate a random DOI for the resource on selecting this option.
+
+Once done the user can click “Edit” to update the selected resource. The following figure depicts the edit functionality of an internal resource.
+
+#### Editing an external resource
+
 In case the selected resource is a folder the user can rename it from the “Rename folder” window that pops up when the user clicks on the edit icon present in the main content page. From this window the user can rename the title and description of the folder. Similarly for renaming internal or external resources, the user has to select the particular resource and on clicking the edit mode the “Rename resource” window appears. In this window the user can update the fields relevant to the resource type. In both cases clicking “Rename” will update the resources. The following figures depicts the renaming functionality of the RO resources.
 
 
