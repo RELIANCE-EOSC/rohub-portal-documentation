@@ -132,5 +132,5 @@ Deleting a resource is also easy. Selecting a resource and clicking the delete i
 ## Adding annotation to a resource
 Once a resource is created the annotation of the resource is also created automatically in the resource segment. After selecting the resource the user can also see the added annotation associated with the resource by clicking the “Show All Annotations”. An advanced user can also create additional annotations to a resource by providing the semantic property and value in the boxes saying “Type property..” and “Type value..”. The property should be a fully qualified name (URL), otherwise the ROHub namespace will be prepended, whereas the value can be of any type (e.g. URL, text, numeric). Thereafter clicking “Add” will add the annotation with the selected resource and will be visible in the annotation list. On clicking any of the annotations from the list the user can see the annotation metadata like the annotation id, subject, property and value.
 
-<p align="center"> <img src="https://box.psnc.pl/f/2890557cca/?raw=1" width="700"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/70aef225e3/?raw=1" width="700"> </p>
 <div align="center"> Figure 11: Adding an annotation to a resource </div>
