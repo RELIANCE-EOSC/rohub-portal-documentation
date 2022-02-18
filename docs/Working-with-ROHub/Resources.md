@@ -14,7 +14,7 @@ nav_order: 5
 1. TOC
 {:toc}
 ---------
-
+In the Resource segment the user can add resources, browse the uploaded resources, edit/modify the uploaded resources and view the annotations created with respect to the added resources. The various functions are discussed in below.
 
 ## Creating new Resources
 From the "Resource" segment of the RO create/edit wizard the user can create new resources and add them to the RO, navigate through the resources and also remove them if required. The resource creation functionalities of this segment are discussed briefly.
