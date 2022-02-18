@@ -25,7 +25,7 @@ On clicking the first of  the three black icons (representing a folder) a new wi
 On clicking the “Create” the user creates a new folder which will be visible in the content list of the RO. The figure below shows the creation of the folder in the RO content page.
 
 <p align="center"> <img src="https://box.psnc.pl/f/14dc1db3dd/?raw=1" width="500"> </p>
-<div align="center"> Figure 7: Creating new folder in ROHub </div>
+<div align="center"> Figure 1: Creating new folder in ROHub </div>
 
 ### Create new resource from internal source
 On clicking the second of the three icons a window pops up to “Create new resource”. The user can upload a file from his local device. The various fields of this window are as follows:
@@ -38,7 +38,7 @@ On clicking “Create”  the resource is added to the RO. The figure below depi
 
 
 <p align="center"> <img src="https://box.psnc.pl/f/38a262127c/?raw=1" width="500"> </p>
-<div align="center"> Figure 8: Creating new internal resource in ROHub </div>
+<div align="center"> Figure 2: Creating new internal resource in ROHub </div>
 
 
 ### Create new resource from external source
