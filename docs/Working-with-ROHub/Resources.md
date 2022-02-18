@@ -90,7 +90,19 @@ https://box.psnc.pl/f/3d4dc03ff3/?raw=1
 
 #### Editing an external resource
 
-In case the selected resource is a folder the user can rename it from the “Rename folder” window that pops up when the user clicks on the edit icon present in the main content page. From this window the user can rename the title and description of the folder. Similarly for renaming internal or external resources, the user has to select the particular resource and on clicking the edit mode the “Rename resource” window appears. In this window the user can update the fields relevant to the resource type. In both cases clicking “Rename” will update the resources. The following figures depicts the renaming functionality of the RO resources.
+The user has to navigate to the specific resource that is to be edited and select it from the list by checking the checkbox. Upon clicking the edit option a new window called “Edit resource” appears. It has the following fields:
+* External URL:  This field allows the user to edit the URL of the external resource. The field initially shows the URL of the current resource.
+* Title: This field shows the resource title and the user can edit it.
+* Description:  The description field is editable and the user can add a description to the resource or update if already there is a description for the resource.
+* Resource type: The user can change the already existing resource type from the list of the resource types that will appear once the user  clicks on the box beneath resource type.
+* Licenses:  The user can also optionally edit the type of the licenses attached with the resource.
+* DOI:  The DOI section unfolds on clicking the down arrow alongside. In this section the user can select the following options:
+  * Not applicable DOI: The user selects this and declares that the resource is not having any DOI.
+  * Add existing DOI: The user selects this and adds an existing DOI of the resource (if any) in the field called “Current DOI”.
+  * Generate DOI: The user can generate a random DOI for the resource on selecting this option.
+
+Once done the user can click “Edit” to update the selected resource. The following figure depicts the edit functionality of an external resource.
+
 
 
 <p align="center"> <img src="https://box.psnc.pl/f/2d22549949/?raw=1" width="500"> </p>
