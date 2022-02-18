@@ -37,15 +37,22 @@ On clicking the second of the three icons a window pops up to “Create new reso
 On clicking “Create”  the resource is added to the RO. The figure below depicts the upload of a resource using a local file.
 
 
-<p align="center"> <img src="https://box.psnc.pl/f/38a262127c/?raw=1" width="500"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/008528b576/?raw=1" width="500"> </p>
 <div align="center"> Figure 2: Creating new internal resource in ROHub </div>
 
 
 ### Create new resource from external source
-On clicking the third icon another window pops up to “Create new resource”. The user can provide the URL of an external resource in the field saying “External URL”. Upon filling the “Title” and “description” fields the user has to select a “Resource type” from the list of type displayed on clicking the field of "Resource type" to denote the type of the  resource. On clicking “Create” the resource is added in the RO content.
+On clicking the third of the three icons a window pops up to “Create new resource”. The user can upload a resource from some external source. The various fields of this window are as follows:
+* External URL:  The user is required to provide the URL of an external resource that needs to be added to the RO.
+* Title: The title field is optional and here the user can provide a name to the resource that's to be added to the RO.
+* Description: Description field is also optional and the user can add a short description of the resource from this field.
+* Resource type:  The user must select a resource type from the list of the existing types from the list that drops down once the user clicks or starts to type in the box beneath  the resource type.
+* Licenses: The user can optionally select a license from the list of licenses under the field of “Licenses. These licenses are the existing list of licenses available in the ROHUB portal
+On clicking “Create”  the resource is added to the RO. The figure below depicts the upload of an external resource to a RO.
 
-<p align="center"> <img src="https://box.psnc.pl/f/15dd963493/?raw=1" width="500"> </p>
-<div align="center"> Figure 9: Creating new internal resource in ROHub </div>
+<p align="center"> <img src="https://box.psnc.pl/f/d19ac04b27/?raw=1" width="500"> </p>
+<div align="center"> Figure 3: Creating new external resource in ROHub </div>
+
 
 The user can modify or edit any resource of choice from the resource list. The resource edit, move and delete functionalities activate when the user selects any resource from the list. Moreover on selecting a resource its metadata is also displayed as mentioned in the content home section.
 
