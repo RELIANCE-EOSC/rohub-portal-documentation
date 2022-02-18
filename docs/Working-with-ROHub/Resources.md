@@ -55,7 +55,7 @@ On clicking “Create”  the resource is added to the RO. The figure below depi
 <p align="center"> <img src="https://box.psnc.pl/f/d19ac04b27/?raw=1" width="500"> </p>
 <div align="center"> Figure 3: Creating new external resource in ROHub </div>
 
-## Editing uploaded Resources
+## Modifying uploaded Resources
 The user can modify or edit any resource of choice from the resource list. The resource edit, move and delete functionalities activate when the user selects any resource from the list. Moreover on selecting a resource its metadata is also displayed as mentioned in the content home section.
 
 ### Renaming a resource
