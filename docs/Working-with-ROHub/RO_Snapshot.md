@@ -17,5 +17,5 @@ To snapshot a RO the user has to start from the “Basic information” segment 
 * “Publication services”: This allows the user to choose from publication services like B2SHARE or ZENODO. If the user can also chooses “No needed” then the RO snapshot will be published on ROHUB.
 * “Create DOI”:  On selecting this option a DOI will be generated for the RO snapshot automatically.The user can complete the process of snapshotting the RO on clicking “Snapshot & Exit” or “Snapshot & Go to overview”. “Reset from'' undo any changes in the form. During the snapshotting process a status bar appears and shows the user the status of the whole process. On completion the user is navigated to the Overview page of the snapshotted RO by default. The snapshotted RO is also visible in the ROHUB Explore page and in the MY ROS section.
 
-<p align="center"> <img src="https://box.psnc.pl/f/267cea898c/?raw=1" width="500"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/267cea898c/?raw=1" width="600"> </p>
 <div align="center"> Figure 2: Snapshotting a RO </div>

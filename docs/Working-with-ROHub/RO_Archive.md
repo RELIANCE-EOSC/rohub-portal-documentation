@@ -16,5 +16,5 @@ To archive a RO the user has to start from the “Basic information” segment i
 * “Publication services”: This allows the user to choose from publication services like B2SHARE or ZENODO. If the user can also chooses “No needed” then the RO archive will be published on ROHUB.
 * “Create DOI”:  On selecting this option a DOI will be generated for the RO archive automatically.The user can complete the process of archiving the RO on clicking “Archive & Exit” or “Archive & Go to overview”. “Reset from'' undo any changes in the form. During the archiving process a status bar appears and shows the user the status of the whole process. On completion the user is navigated to the Overview page of the archived RO by default. The archived RO is also visible in the ROHUB Explore page and in the MY ROS section.
 
-<p align="center"> <img src="https://box.psnc.pl/f/a2f0a5e1a0/?raw=1" width="500"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/a2f0a5e1a0/?raw=1" width="600"> </p>
 <div align="center"> Figure 2: Archiving a RO </div>
