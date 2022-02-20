@@ -15,7 +15,7 @@ nav_order: 1
 {:toc}
 ---------
 
-To form a RO the user has to access the evolution wizard from the toolbox in RO overview page. On clicking the “Evolution” the option to fork the RO is available to the user. On clicking the “Fork” option the user is transferred to the RO editing wizard. The figure below shows how to access the forking option from the evolution wizard in RO Overview.
+To fork a RO the user has to access the evolution wizard from the toolbox in RO overview page. On clicking the “Evolution” the option to fork the RO is available to the user. On clicking the “Fork” option the user is transferred to the RO editing wizard. The figure below shows how to access the forking option from the evolution wizard in RO Overview.
 <p align="center"> <img src="https://box.psnc.pl/f/4c9422badc/?raw=1" width="700"> </p>
 <div align="center"> Figure 1: Navigating to the evolution wizard of a RO </div>
 
