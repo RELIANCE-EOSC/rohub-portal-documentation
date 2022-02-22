@@ -16,3 +16,4 @@ On clicking "Edit this RO" from the RO overview page a new page opens called the
 <!---
 <p align="center"> <img src="https://box.psnc.pl/f/b7358172b6/?raw=1" width="700"> </p>
 <div align="center"> Figure 2: Research object editing </div>
+--->
