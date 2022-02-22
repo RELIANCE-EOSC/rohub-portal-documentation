@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tags
-parent: Create/Edit Wizard
+parent: RO Edition Wizard
 grand_parent: Working with ROHub
 nav_order: 3
 ---

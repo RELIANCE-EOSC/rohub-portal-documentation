@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sketches gallery
-parent: Create/Edit Wizard
+parent: RO Edition Wizard
 grand_parent: Working with ROHub
 nav_order: 4
 ---
