@@ -1,9 +1,9 @@
 ---
 layout: default
-title: RO edition wizard
+title: RO Edition Wizard
 parent: Working with ROHub
 has_children: true
 nav_order: 3
 ---
 
-# RO edition wizard
+# RO Edition Wizard
