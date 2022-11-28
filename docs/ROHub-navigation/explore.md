@@ -58,6 +58,7 @@ From this filter the user can fetch the ROs created or modified within a time pe
 <div align="center"> Figure 6: Date filter </div>
 
 #### Tags
+From the Tag filter the user can fetch a list of ROs based on the associated tags of the ROs. A research object hold a variety of tags for the purpose of accesibility and discoverablity. In the list of available tags in this filer search the user can type in or choose from the list of available tags in each subsections. The screenshot below shows the tag filters.
 
 <p align="center"> <img src="https://box.psnc.pl/f/aa671659ff/?raw=1" width="300"> </p>
 <div align="center"> Figure 7: Tag filter </div>
