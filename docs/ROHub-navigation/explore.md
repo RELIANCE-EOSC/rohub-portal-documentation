@@ -59,7 +59,7 @@ From this filter the user can fetch the ROs created or modified within a time pe
 
 #### Tags
 
-<p align="center"> <img src="https://box.psnc.pl/f/aa671659ff/?raw=1" width="900"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/aa671659ff/?raw=1" width="500"> </p>
 <div align="center"> Figure 7: Tag filter </div>
 
 <!--
