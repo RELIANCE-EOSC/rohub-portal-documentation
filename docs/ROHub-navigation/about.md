@@ -61,9 +61,9 @@ The publication sections show the information of the available publication regar
 ## Team
 This section holds the list of the current and the previous team members who worked on ROhub development as shown in the figure below.
 
-<p align="center"> <img src="https://box.psnc.pl/f/c599244b26/?raw=1" width="700"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/aee4ee48ce/?raw=1" width="700"> </p>
 <div align="center"> Figure 6: Team of ROHub platform </div>
 ## Contact
 Contact section where the user can find the contact details such as email id and telephone for support and also the address of the affiliated institution Poznan Supercomputing and Networking Center.
-<p align="center"> <img src="https://box.psnc.pl/f/9f0a2567cb/?raw=1" width="700"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/a284cff078/?raw=1" width="700"> </p>
 <div align="center"> Figure 7: Contact details for ROHub support </div>
