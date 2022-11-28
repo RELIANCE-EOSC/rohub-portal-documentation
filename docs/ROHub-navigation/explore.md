@@ -77,6 +77,20 @@ The "Rating" filter allows the user to select the research objects from the rang
 <p align="center"> <img src="https://box.psnc.pl/f/fa64f3bd85/?raw=1" width="300"> </p>
 <div align="center"> Figure 9: RO rating filter </div>
 
+#### Access mode
+By using this filter the user can select the ROs published with access mode as public, private or open. Similar to the above-mentioned filter sections the number of public, private or open ROs are displayed by default.
+
+<p align="center"> <img src="https://box.psnc.pl/f/8e4abdc96e/?raw=1" width="300"> </p>
+<div align="center"> Figure 10: RO Access mode filter </div>
+
+#### Creation Mode
+By using this filter the user can select the ROs based on the creation mode of the RO (e.g. imported, dmp, automatic or manual). The number of ROS in each creation modes  are displayed in by default and the user can select each mode to fetch all the ROs of a particular creation mode.
+
+<p align="center"> <img src="https://box.psnc.pl/f/6538188c83/?raw=1" width="300"> </p>
+<div align="center"> Figure 14: RO creation mode filter </div>
+
+
+
 <!--
 #### Creator
 The ROHub platform allows the user to filter the research objects from the platform based on the identity of the creators. The user can provide the names of single or multiple creators (from the signed up users of ROHub) to see the results of the research objects created by them. Once the user starts to type in the search field or simply click on it the list of the existing users of the ROHub portal drops down and the user can select one or multiple users from the list. There is also possibility to delete any of the entered value by clicking the "x" icon alongside the provided value.
