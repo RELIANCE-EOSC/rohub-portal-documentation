@@ -58,11 +58,17 @@ From this filter the user can fetch the ROs created or modified within a time pe
 <div align="center"> Figure 6: Date filter </div>
 
 #### Tags
-From the Tag filter the user can fetch a list of ROs based on the associated tags of the ROs. A research object hold a variety of tags for the purpose of accesibility and discoverablity. In the list of available tags in this filer search the user can type in or choose from the list of available tags in each subsections. The screenshot below shows the tag filters.
+From the Tag filter the user can fetch a list of ROs based on the associated tags of the ROs. A research object hold a variety of tags for the purpose of accesibility and discoverablity. In the list of available options in this filer search the user can type in or choose from the list of available tags in each subsections. The screenshot below shows the tag filters.
 
 <p align="center"> <img src="https://box.psnc.pl/f/aa671659ff/?raw=1" width="300"> </p>
 <div align="center"> Figure 7: Tag filter </div>
 
+#### Status
+This filter can be used for filtering the research objects based on their status (e.g. live, archived, forked or snapshot). By default the number of each status type is shown alongside. On clicking each type the respective RO list can be fetched by the user.
+
+
+<p align="center"> <img src="https://box.psnc.pl/f/6e2ec3f78c/?raw=1" width="300"> </p>
+<div align="center"> Figure 8: RO status filter </div>
 <!--
 #### Creator
 The ROHub platform allows the user to filter the research objects from the platform based on the identity of the creators. The user can provide the names of single or multiple creators (from the signed up users of ROHub) to see the results of the research objects created by them. Once the user starts to type in the search field or simply click on it the list of the existing users of the ROHub portal drops down and the user can select one or multiple users from the list. There is also possibility to delete any of the entered value by clicking the "x" icon alongside the provided value.
@@ -109,12 +115,7 @@ The type filter can be used to choose the relevant research object types availab
 <p align="center"> <img src="https://box.psnc.pl/f/ab6123b1f6/?raw=1" width="300"> </p>
 <div align="center"> Figure 10: RO type filter </div>
 
-#### Status
-This filter can be used for filtering the research objects based on their status (e.g. live, archived, forked or snapshot). By default the number of each status type is shown alongside. Multiple filter criteria can be applied by the user to fetch the results.
 
-
-<p align="center"> <img src="https://box.psnc.pl/f/a567e3f133/?raw=1" width="300"> </p>
-<div align="center"> Figure 11: RO status filter </div>
 
 #### Access mode
 By using this filter the user can select the ROs published with access mode as public, private or open. Similar to the above-mentioned filter sections the number of public, private or open ROs are displayed by default.
