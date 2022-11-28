@@ -33,7 +33,7 @@ This component enables users to find research objects by keywords, looking throu
 <div align="center"> Figure 2: Keyword search component </div>
 
 ## Key ROHub statistics
-This section of the landing page shows the key statistics of the ROHub platform consisting of the number of research objects created with all the resources, total number of annotations, total number of users in the portal.
+This section of the landing page shows the key statistics of the ROHub platform consisting of the number of research objects created with all the resources, total number of annotations, total number of users in the portal and the total number of resources in the portal.
 
 
 <p align="center"> <img src="https://box.psnc.pl/f/cafd6328c6/?raw=1" width="700" > </p>
@@ -46,7 +46,7 @@ This section presents the list of ROs that are promoted because of their quality
 <div align="center"> Figure 4: Featured research objects component </div>
 
 ## Recent activity
-This section presents the latest three ROs that were created most recently, resources added to research objects, snapshots or archives or any recent activities on the ROs. By clicking on the “Read more” the user can go to the main RO overview page for detailed representation.
+This section presents the latest three ROs that were created most recently, resources added to research objects, snapshots or archives or any recent activities on the ROs. By clicking on the “View” the user can go to the main RO overview page for detailed representation.
 
 <p align="center"> <img src="https://box.psnc.pl/f/e4de9be20e/?raw=1" width="700"> </p>
 <div align="center">Figure 5: Recent activity component </div>
