@@ -69,6 +69,8 @@ This filter can be used for filtering the research objects based on their status
 
 <p align="center"> <img src="https://box.psnc.pl/f/6e2ec3f78c/?raw=1" width="300"> </p>
 <div align="center"> Figure 8: RO status filter </div>
+
+
 <!--
 #### Creator
 The ROHub platform allows the user to filter the research objects from the platform based on the identity of the creators. The user can provide the names of single or multiple creators (from the signed up users of ROHub) to see the results of the research objects created by them. Once the user starts to type in the search field or simply click on it the list of the existing users of the ROHub portal drops down and the user can select one or multiple users from the list. There is also possibility to delete any of the entered value by clicking the "x" icon alongside the provided value.
