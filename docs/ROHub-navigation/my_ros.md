@@ -24,7 +24,9 @@ This page has the list of ROs owned by the logged in user. The “My owned resea
 <p align="center"> <img src="https://box.psnc.pl/f/1f33a303a6/?raw=1" width="700"> </p>
 <div align="center"> Figure 1: Entry page of the My ROs section </div>
 
-## Editable RO
+### My RO
+
+### Editable RO
 This page within the “MY RO” section lists the ROs which the user can edit. From here the user can update the metadata, resources etc. of a specific RO in the edit mode and update the RO as a whole.
 
 
@@ -32,11 +34,11 @@ This page within the “MY RO” section lists the ROs which the user can edit. 
 <div align="center"> Figure 2: Editable RO subsection of the My ROs section </div>
 
 
-## Create new RO
+### Create new RO
 
-## Import RO
+### Import RO
 
-## Import DMP
+### Import DMP
 
 
-## Filters
+### Filters
