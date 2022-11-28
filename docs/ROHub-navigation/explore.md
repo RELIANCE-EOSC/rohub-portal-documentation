@@ -36,11 +36,12 @@ The filter search allows the user to further filter the results of the fetched R
 
 ### Research Object Filter search
 Each filter section has various options to choose so that the user can filter through the most desired results of the research object. The subsections and their figures are as follows:
+
 #### Research Areas
-In the filter the user can select the from a vast range of research areas (broadly in applied sciences, earth sciences, life sciences, physical sciences and space science) available in the ROhub platform to fetch the results from those specific research areas.
+In the filter the user can select the from a vast range of research areas (broadly in applied sciences, earth sciences, life sciences, physical sciences and space science) available in the ROhub platform to fetch the results from those specific research areas. The user can choose multiple research areas to fetch the available list of ROs based on the chosen areas as shown in the screenshot below.
 
 
-<p align="center"> <img src="https://box.psnc.pl/f/388bdf0feb/?raw=1" width="300"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/3fac054ee3/?raw=1" width="300"> </p>
 <div align="center"> Figure 3: Research area filter options </div>
 
 #### Creator
