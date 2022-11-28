@@ -20,7 +20,7 @@ This section of the ROHub platform provides the user with the most basic informa
 ## What is ROHub?
 This page includes a short introduction to the ROHub and the technical components of the portal backend and  their orchestration. Here the user can read and understand the basic working principles of ROHub in an easy way targeted for all categories of users. The figure below shows the above-mentioned page.
 
-<p align="center"> <img src="https://box.psnc.pl/f/feb470f85d/?raw=1" width="900"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/f68e9d5f1f/?raw=1" width="900"> </p>
 <div align="center"> Figure 1: ROHub details  </div>
 
 ## What is Research Object?
