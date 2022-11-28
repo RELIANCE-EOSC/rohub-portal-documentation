@@ -34,22 +34,23 @@ The filter search allows the user to further filter the results of the fetched R
 <p align="center"> <img src="https://box.psnc.pl/f/fe7c331846/?raw=1" width="300"> </p>
 <div align="center"> Figure 3: Resources Filter section </div>
 
+### Research Object Filter search
 Each filter section has various options to choose so that the user can filter through the most desired results of the research object. The subsections and their figures are as follows:
-### Research Areas
+#### Research Areas
 In the filter the user can select the from a vast range of research areas (broadly in applied sciences, earth sciences, life sciences, physical sciences and space science) available in the ROhub platform to fetch the results from those specific research areas.
 
 
 <p align="center"> <img src="https://box.psnc.pl/f/388bdf0feb/?raw=1" width="300"> </p>
 <div align="center"> Figure 3: Research area filter options </div>
 
-### Creator
+#### Creator
 The ROHub platform allows the user to filter the research objects from the platform based on the identity of the creators. The user can provide the names of single or multiple creators (from the signed up users of ROHub) to see the results of the research objects created by them. Once the user starts to type in the search field or simply click on it the list of the existing users of the ROHub portal drops down and the user can select one or multiple users from the list. There is also possibility to delete any of the entered value by clicking the "x" icon alongside the provided value.
 
 
 <p align="center"> <img src="https://box.psnc.pl/f/363811a765/?raw=1" width="300"> </p>
 <div align="center"> Figure 4: Filter options for RO Creator</div>With the help of this filter the user can select and filter the ROs modified on a desired date range provided by the user. The user can provide the range by selecting a date from the calendar to set a "Date from" and a “Date to” and by clicking “OK” the portal shows the list of ROs modified on that specific date range.
 
-### Owner
+#### Owner
 
 On providing the names of owner/s the user can filter the research objects based on the information provided.The user can provide the names of single or multiple RO owners (from the signed up users of ROHub) to see the results of the research objects owned by them. Once the user starts to type in the search field or simply click on it the list of the existing users of the ROHub portal drops down and the user can select one or multiple users from the list. There is also possibility to delete any of the entered value by clicking the "x" icon alongside the provided value.
 
@@ -57,67 +58,67 @@ On providing the names of owner/s the user can filter the research objects based
 <p align="center"> <img src="https://box.psnc.pl/f/fca9cf7bf5/?raw=1" width="300"> </p>
 <div align="center"> Figure 5: Filter options for RO Owners</div>
 
-### Modificator
+#### Modificator
 Similar to the owner and creator the user can filter the ROs based on the information of the users who are designated as the modificators of specific research objects. The filter procedure is same as owner and creator as mentioned above.
 
 
 <p align="center"> <img src="https://box.psnc.pl/f/6a3c1ab00f/?raw=1" width="300"> </p>
 <div align="center"> Figure 6: Filter options for RO Owners</div>
 
-### Created
+#### Created
 From this filter the user can fetch the ROs within a time period defined by the user. The user has to provide the start date in the box saying "Date from" and the end date in the box saying "Date to" and then click on "OK", the portal then shows the list of ROs created on that specific date range.
 
 <p align="center"> <img src="https://box.psnc.pl/f/eb7477d9ff/?raw=1" width="300"> </p>
 <div align="center"> Figure 7: Creation date filter </div>
 
-### Quality
+#### Quality
 By using this filter the user can fetch the ROs according to their quality as per the level of completeness. The slider for "Minimum Quality" in the quality level bar can be adjusted from 0 to 100.
 
 
 <p align="center"> <img src="https://box.psnc.pl/f/259935e028/?raw=1" width="300"> </p>
 <div align="center"> Figure 8: Filter for RO Quality </div>
 
-### Modified
+#### Modified
 With the help of this filter the user can select and filter the ROs modified on a desired date range provided by the user. The user can provide the range by selecting a date from the calendar to set a "Date from" and a “Date to” and by clicking “OK” the portal shows the list of ROs modified on that specific date range.
 
 <p align="center"> <img src="https://box.psnc.pl/f/59ee7d769f/?raw=1" width="300"> </p>
 <div align="center"> Figure 9: Modification date filter </div>
 
 
-### Type
+#### Type
 The type filter can be used to choose the relevant research object types available on the ROHub platform. In this filter by default the number of ROs of each type is displayed alongside. On checking one or multiple RO types the user can fetch the list of ROs on the left side of the page.
 
 
 <p align="center"> <img src="https://box.psnc.pl/f/ab6123b1f6/?raw=1" width="300"> </p>
 <div align="center"> Figure 10: RO type filter </div>
 
-### Status
+#### Status
 This filter can be used for filtering the research objects based on their status (e.g. live, archived, forked or snapshot). By default the number of each status type is shown alongside. Multiple filter criteria can be applied by the user to fetch the results.
 
 
 <p align="center"> <img src="https://box.psnc.pl/f/a567e3f133/?raw=1" width="300"> </p>
 <div align="center"> Figure 11: RO status filter </div>
 
-### Access mode
+#### Access mode
 By using this filter the user can select the ROs published with access mode as public, private or open. Similar to the above-mentioned filter sections the number of public, private or open ROs are displayed by default.
 
 <p align="center"> <img src="https://box.psnc.pl/f/af5c546945/?raw=1" width="300"> </p>
 <div align="center"> Figure 12: RO Access mode filter </div>
 
-### Rating
+#### Rating
 The "Rating" filter allows the user to select the research objects from the range of ratings from <1 to >4.
 
 
 <p align="center"> <img src="https://box.psnc.pl/f/f99293eddf/?raw=1" width="300"> </p>
 <div align="center"> Figure 13: RO rating filter </div>
 
-### Creation Mode
+#### Creation Mode
 By using this filter the user can select the ROs based on the creation mode of the RO (e.g. imported or manual). The number of ROS in each creation modes  are displayed in by default and the user can select each mode to fetch all the ROs of a particular creation mode.
 
 <p align="center"> <img src="https://box.psnc.pl/f/33d59b95d1/?raw=1" width="300"> </p>
 <div align="center"> Figure 14: RO creation mode filter </div>
 
-### Metrics
+#### Metrics
 This is the filter for selecting research objects based on the quantitative values of its metadata elements like folders, resources, annotation, aggregations as well as other portal specific elements like number of views, downloads, likes, dislikes, snapshots, forks, archives and ratings. Once the user clicks the drop down arrow alongside the “Metrics” another list opens including the number of the below-mentioned items. The number range of items for each ROs are set to be <50, 50-100 and >100. The user can choose the number of each item and fetch the RO results comprising of those metrics on clicking on each items of the Metrics as follows:
 * Folders: From here the user can select the ROs with a definite number of folders.
 * Resources: Using this filter the user can choose the ROs with the number of resources for his choice as per the range of items.
