@@ -26,7 +26,7 @@ This page includes a short introduction to the ROHub and the technical component
 ## What is Research Object?
 This page provides information about the basic idea behind the concept of Research Object and its implementation in the ROHub platform. This page provides the schematic diagrams of the workflows associated in a research environment and its aggregation as a research object.
 
-<p align="center"> <img src="https://box.psnc.pl/f/21c6b60363/?raw=1" width="800"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/dc70618500/?raw=1" width="800"> </p>
 <div align="center"> Figure 2: Research object information </div>
 
 ## Privacy Policy
