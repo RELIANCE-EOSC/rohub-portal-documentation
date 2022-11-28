@@ -137,3 +137,16 @@ The figure below shows the whole Metrics filter.
 
 <p align="center"> <img src="https://box.psnc.pl/f/d22449a580/?raw=1" width="300"> </p>
 <div align="center"> Figure 15: RO Metrics filter  </div>
+
+### Resource Filter search
+
+#### Search
+
+
+#### Type
+
+#### RO's Title
+
+#### Creator
+
+#### Source
