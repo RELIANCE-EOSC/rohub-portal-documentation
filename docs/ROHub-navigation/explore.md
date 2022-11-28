@@ -111,6 +111,7 @@ The figure below shows the whole Metrics filter.
 <div align="center"> Figure 12: RO Metrics filter  </div>
 
 ### Resource Filter search
+Each filter section has various options to choose so that the user can filter through the most desired results of the resources in the ROhub Portal. The subsections and their figures are as follows:
 
 #### Search
 
