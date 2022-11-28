@@ -29,16 +29,22 @@ This page provides information about the basic idea behind the concept of Resear
 <p align="center"> <img src="https://box.psnc.pl/f/dc70618500/?raw=1" width="800"> </p>
 <div align="center"> Figure 2: Research object information </div>
 
-## Privacy Policy
-This section allows the user to know about the data protection policies followed in the ROHub platform to protect the user and also to ensure that the user gets the most reliable content available. The privacy plocy page is depicted in the figure below.
+## Why using Research Object?
+This section describes the basic idea behind using the Reserach Object approach in the ROhub portal. The figure describes the users more about the usage of the Research Objects.
 
-<p align="center"> <img src="https://box.psnc.pl/f/c7834be28d/?raw=1" width="700"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/b00025aa52/?raw=1" width="700"> </p>
+<div align="center"> Figure 2: Research object information </div>
+
+## Privacy Policy
+This section allows the user to know about the data protection policies followed in the ROHub platform to protect the user and also to ensure that the user gets the most reliable content available. The privacy policy page is depicted in the figure below.
+
+<p align="center"> <img src="https://box.psnc.pl/f/15b817a1ac/?raw=1" width="700"> </p>
 <div align="center"> Figure 3: Privacy policy of ROHub </div>
 
 ## Terms of service
 This page explains the user and the stakeholders about the terms of service they should abide by while using the ROHub platform and its digital resources. The figure below shows the page of terms of service in ROHub portal.
 
-<p align="center"> <img src="https://box.psnc.pl/f/f9803032e1/?raw=1" width="700"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/f248978480/?raw=1" width="700"> </p>
 <div align="center"> Figure 4: Terms and Services for ROHub users </div>
 
 ## News
