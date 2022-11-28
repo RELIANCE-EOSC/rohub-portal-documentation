@@ -70,6 +70,12 @@ This filter can be used for filtering the research objects based on their status
 <p align="center"> <img src="https://box.psnc.pl/f/6e2ec3f78c/?raw=1" width="300"> </p>
 <div align="center"> Figure 8: RO status filter </div>
 
+#### Rating
+The "Rating" filter allows the user to select the research objects from the range of ratings. There are  five stars present and the user can select on each stars to see the ROs based on the number of stars (1-5).
+
+
+<p align="center"> <img src="https://box.psnc.pl/f/fa64f3bd85/?raw=1" width="300"> </p>
+<div align="center"> Figure 9: RO rating filter </div>
 
 <!--
 #### Creator
