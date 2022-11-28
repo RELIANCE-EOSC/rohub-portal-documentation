@@ -21,7 +21,7 @@ The Explore page can be accessed by the user on clicking “EXPLORE” from the 
 ## Faceted search and Research Object list
 In the Faceted serach section the user can search for keyword specific research objects from the keyword search box present at the top of the explore page. This fetches the list of Research Objects according to the keywords used for the search. The view is made by default in list view and another option of image icon (wherever available) for each RO is available. In both cases the same information about ROs is presented. Each research object in the list contains the key metadata like title, description, RO type, research areas, creation date and time, level of completeness, number of aggregated resources etc. as depicted in the figure below. On clicking the “View” the user can enter into the research object with its respective sections. The list is sortable on the basis of the date of creation of a RO.
 
-<p align="center"> <img src="https://box.psnc.pl/f/e072d06f34/?raw=1" width="1200"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/33d2f296e0/?raw=1" width="800"> </p>
 <div align="center"> Figure 1: Faceted search results of ROs </div>
 
 ## Filter search
