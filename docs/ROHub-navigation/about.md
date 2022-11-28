@@ -47,13 +47,15 @@ This page explains the user and the stakeholders about the terms of service they
 <p align="center"> <img src="https://box.psnc.pl/f/f248978480/?raw=1" width="700"> </p>
 <div align="center"> Figure 4: Terms and Services for ROHub users </div>
 
+<!---
 ## News
 (still under construction)
 ## Showcase
 (still under construction)
+--->
 ## Publications
 The publication sections show the information of the available publication regarding ROhub in well known platforms or conferences.
-<p align="center"> <img src="https://box.psnc.pl/f/63823e60cb/?raw=1" width="700"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/b9421705d6/?raw=1" width="700"> </p>
 <div align="center"> Figure 5: Publications on ROHub platform </div>
 
 ## Team
