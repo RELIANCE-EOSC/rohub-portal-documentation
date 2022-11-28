@@ -75,10 +75,10 @@ In this filter the user can fetch the list if ROs based on the names of the crea
 <p align="center"> <img src="https://box.psnc.pl/f/0ab51cceff/?raw=1" width="300"> </p>
 <div align="center"> Figure 5: Filter options for People </div>
 
-#### Created
-From this filter the user can fetch the ROs within a time period defined by the user. The user has to provide the start date in the box saying "Date from" and the end date in the box saying "Date to" and then click on "OK", the portal then shows the list of ROs created on that specific date range.
+#### Dates
+From this filter the user can fetch the ROs created or modified within a time period defined by the user. Upon choosing the option of "Created" or "Modified", the user has to provide the start date in the box saying "From" and the end date in the box saying "To" and then click on "OK", the portal then shows the list of ROs created or modified on that specific date range as provided by the user. A screenshot is given below.
 
-<p align="center"> <img src="https://box.psnc.pl/f/eb7477d9ff/?raw=1" width="300"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/f78db6969b/?raw=1" width="300"> </p>
 <div align="center"> Figure 7: Creation date filter </div>
 
 #### Quality
