@@ -90,6 +90,26 @@ By using this filter the user can select the ROs based on the creation mode of t
 <div align="center"> Figure 14: RO creation mode filter </div>
 
 
+#### Metrics
+This is the filter for selecting research objects based on the quantitative values of its metadata elements like folders, resources, annotation, aggregations as well as other portal specific elements like number of views, downloads, likes, dislikes, snapshots, forks, archives and ratings. Once the user clicks the drop down arrow alongside the “Metrics” another list opens including the number of the below-mentioned items. The number range of items for each ROs are set to be <50, 50-100 and >100. The user can choose the number of each item and fetch the RO results comprising of those metrics on clicking on each items of the Metrics as follows:
+* Folders: From here the user can select the ROs with a definite number of folders.
+* Resources: Using this filter the user can choose the ROs with the number of resources for his choice as per the range of items.
+* All aggregates: The user can choose the number of aggregation from this filter section and get the result of ROs.
+* Annotations: Fetches the ROs according to the number of annotations from this filter.
+* Downloads: The user can see the list of most downloaded to the least downloaded ROs depending on the number of downloads.
+* Views: The list of ROs with the maximum/minimum number of views can be obtained from this filter.
+* Snapshots: Fetches the list of the most and the least number of ROs snapshotted by the existing users.
+* Forks: Fetches the list of the most and the least number of ROs forked by the existing users.
+* Archives: Fetches the list of the most and the least number of ROs archived by the existing users.
+* Ratings: The user can see the ROs with the most till the least number of ratings.
+* Likes: The user can see the ROs with the most till the least number of likes.
+* Dislikes: The user can see the ROs with the most till the least number of dislikes.
+
+The figure below shows the whole Metrics filter.
+
+<p align="center"> <img src="https://box.psnc.pl/f/4cd4e6c214/?raw=1" width="300"> </p>
+<div align="center"> Figure 15: RO Metrics filter  </div>
+
 
 <!--
 #### Creator
