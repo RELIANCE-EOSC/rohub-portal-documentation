@@ -72,7 +72,7 @@ The users can filter out the ROs on the level of their completeness from this fi
 #### Type
 THe Type filter allows the users to fetch ROs based on the RO types. The user can choose one or more RO types to view the list of fetched ROs.
 
-<p align="center"> <img src="https://box.psnc.pl/f/e0c899297b/?raw=1" width="300"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/35b395e931/?raw=1" width="300"> </p>
 <div align="center"> Figure 9: RO Type filter </div>
 
 
@@ -80,7 +80,7 @@ THe Type filter allows the users to fetch ROs based on the RO types. The user ca
 This filter can be used for filtering the research objects based on their status (e.g. live, archived, forked or snapshot). By default the number of each status type is shown alongside. On clicking each type the respective RO list can be fetched by the user.
 
 
-<p align="center"> <img src="https://box.psnc.pl/f/35b395e931/?raw=1" width="300"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/6e2ec3f78c/?raw=1" width="300"> </p>
 <div align="center"> Figure 8: RO status filter </div>
 
 #### Rating
