@@ -42,16 +42,16 @@ From this section a user can import a DMP or data management plan. On clicking, 
 On the left side of the MY RO page the user can find 
 
 
-<p align="center"> <img src="https://box.psnc.pl/f/97635ca9c4/?raw=1" width="700"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/97635ca9c4/?raw=1" width="800"> </p>
 <div align="center"> Figure 1: Entry page of the My ROs section </div>
 
 
 
-<p align="center"> <img src="https://box.psnc.pl/f/d5f27a6af0/?raw=1" width="700"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/d5f27a6af0/?raw=1" width="300"> </p>
 <div align="center"> Figure 2: Import RO of the My ROs section </div>
 
 
 
-<p align="center"> <img src="https://box.psnc.pl/f/d33c6270f8/?raw=1" width="700"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/d33c6270f8/?raw=1" width="300"> </p>
 <div align="center"> Figure 3: Import DMP of the My ROs section </div>
 
