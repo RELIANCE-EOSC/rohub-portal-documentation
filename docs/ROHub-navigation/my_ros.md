@@ -39,7 +39,8 @@ From this section a user can import a ROs. On clikcing, a window pops up saying 
 From this section a user can import a DMP or data management plan. On clicking, a window pops up saying "Import DMP XML-file" and there a user can drag and drop xml files of resources to create DMP by import method.  
 
 ### Filters
-On the left side of the MY RO page the user can find 
+On the left side of the MY RO page the user can find the filter search with the following subsections:
+
 
 
 <p align="center"> <img src="https://box.psnc.pl/f/97635ca9c4/?raw=1" width="800"> </p>
