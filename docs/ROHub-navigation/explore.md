@@ -46,7 +46,7 @@ In the filter the user can select the from a vast range of research areas (broad
 
 
 #### People
-In this filter the user can fetch the list if ROs based on the names of the creator, owner or contributor of the ROs. On clicking the green icon of "Peopl" filter the user can either choose any of the options of "Creator", "Owner" or "Contributor" icons under this filter and start typing the name in the search box or simply by clicking and choosing the name of the ROhub user from the drop-down list. The search will return the list of the ROs based on the user's input. A screenshot is given below of the people search filter.
+In this filter the user can fetch the list if ROs based on the names of the creator, owner or contributor of the ROs. On clicking the green icon of "People" filter the user can either choose any of the options of "Creator", "Owner" or "Contributor" icons under this filter and start typing the name in the search box or simply by clicking and choosing the name of the ROhub user from the drop-down list. The search will return the list of the ROs based on the user's input. A screenshot is given below of the people search filter.
 
 <p align="center"> <img src="https://box.psnc.pl/f/0ab51cceff/?raw=1" width="300"> </p>
 <div align="center"> Figure 5: Filter options for People </div>
