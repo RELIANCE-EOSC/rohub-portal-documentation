@@ -54,8 +54,9 @@ On the left side of the MY RO page the user can find the filter search with the 
 
 #### Search
 This is a keyword search filter. In the serach box the user can type the keyword related to a RO or find a person associated with a RO. 
+
 <p align="center"> <img src="https://box.psnc.pl/f/74a3b576a6/?raw=1" width="300"> </p>
-<div align="center"> Figure 5: Keyword search options my ROs </div>
+<div align="center"> Figure 4: Keyword search options my ROs </div>
 
 
 #### People
@@ -68,20 +69,20 @@ In this filter the user can fetch the list if ROs based on the names of the crea
 From this filter the user can fetch the ROs created or modified within a time period defined by the user. Upon choosing the option of "Created" or "Modified", the user has to provide the start date in the box saying "From" and the end date in the box saying "To" and then click on "OK", the portal then shows the list of ROs created or modified on that specific date range as provided by the user. A screenshot is given below.
 
 <p align="center"> <img src="https://box.psnc.pl/f/f78db6969b/?raw=1" width="300"> </p>
-<div align="center"> Figure 4: Date filter of MY RO section </div>
+<div align="center"> Figure 6: Date filter of MY RO section </div>
 
 #### Completeness
 The users can filter out the ROs on the level of their completeness from this filter. The slide bar allows the user to choose from level of completeness from 0 to 100 and fetch the list of ROs. The screenshot is given below.
 
 <p align="center"> <img src="https://box.psnc.pl/f/e0c899297b/?raw=1" width="300"> </p>
-<div align="center"> Figure 5: Completeness filter </div>
+<div align="center"> Figure 7: Completeness filter </div>
 
 #### Rating
 The "Rating" filter allows the user to select the research objects from the range of ratings. There are  five stars present and the user can select on each stars to see the ROs based on the number of stars (1-5).
 
 
 <p align="center"> <img src="https://box.psnc.pl/f/fa64f3bd85/?raw=1" width="300"> </p>
-<div align="center"> Figure 6: MY RO rating filter </div>
+<div align="center"> Figure 8: MY RO rating filter </div>
 
 
 
