@@ -136,3 +136,7 @@ Each filter section has various options to choose so that the user can filter th
 #### Creator
 
 #### Source
+
+
+<p align="center"> <img src="https://box.psnc.pl/f/5a4ac7a486/?raw=1" width="300"> </p>
+<div align="center"> Figure 13: Resource search filter  </div>
