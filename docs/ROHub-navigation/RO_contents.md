@@ -24,7 +24,7 @@ The main page of the content is called the “Home” and contains the resources
 * Details: In case of folder the details denote the number of the contents within it and in case of a file it shows the size of the file.
 * Created: This is the date and time of creation of the resources.
 * Creator: It shows the name of the creator of the resource. On clicking the username the user profile can be accessed.  
-<p align="center"> <img src="https://box.psnc.pl/f/fc07aaa83f/?raw=1" width="700"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/fc07aaa83f/?raw=1" width="800"> </p>
 <div align="center"> Figure 1: Content page in ROHub portal </div>
 
 ## Browsing and Navigation of resources
