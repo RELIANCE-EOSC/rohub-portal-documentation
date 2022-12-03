@@ -27,5 +27,5 @@ nav_order: 4
 
 
 
-<p align="center"> <img src="https://box.psnc.pl/f/ec76f5b358/?raw=1"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/00246f01e5/?raw=1"> </p>
 <div align="center"> Figure 1: RO Completeness section in ROHub portal </div>
