@@ -17,13 +17,7 @@ nav_order: 4
 ---
 
 
-## RO completeness
 
-
-## Check list
-
-
-## Completeness checked List filter
 
 
 
