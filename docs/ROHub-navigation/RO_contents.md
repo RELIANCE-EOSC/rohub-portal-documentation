@@ -39,8 +39,12 @@ From the content section the user can visualize the metadata and the annotation 
 <p align="center"> <img src="https://box.psnc.pl/f/96ccc63c09/?raw=1" width="700"> </p>
 <div align="center"> Figure 4: Content Annotation in ROHub portal </div>
 
+
+<!--
 ## Creation of resource
 This content section also contains a segment where the user can create resources by uploading internally, simply by dragging and dropping resources or selecting from a local computer. While creating a new resource in this process the user has to provide title, description and Resource type along with the selected file. The resource gets created in the current directory where the user is present for example inside a folder or a subfolder.
 
 <p align="center"> <img src="https://box.psnc.pl/f/9d535788d1/?raw=1" width="500"> </p>
 <div align="center"> Figure 5: Creating resource from selected files in ROHub portal </div>
+
+--->
