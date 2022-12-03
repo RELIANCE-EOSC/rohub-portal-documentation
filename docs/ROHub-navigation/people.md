@@ -31,16 +31,16 @@ In the ROHub platform the “User profile” can be accessed from the “People�
 ### Overview section
 This Overview section shows personal details of the user such as professional description, the user’s affiliation and research areas of the user. On the right hand side of the page the name of the user along with an image icon is displayed. The user profile overview page also shows the number of ROs Live, archived, snapshotted or forked by the user. The figure below shows a general overview of a user profile page.
 
-<p align="center"> <img src="https://box.psnc.pl/f/278a038fe8/?raw=1" width="700"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/a576b90507/?raw=1" width="700"> </p>
 <div align="center"> Figure 2: Overview of a User Profile  </div>
 
 ### Contact
 The contact section in the user profile shows the contact details like the email id of the user and also the social media handle of the user if provided as shown in the figure below.
-<p align="center"> <img src="https://box.psnc.pl/f/c781f4183d/?raw=1" width="700"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/2246c48c39/?raw=1" width="700"> </p>
 <div align="center"> Figure 3: Contact details of a User Profile  </div>
 
 ### Research Objects
 This subsection shows the list of the ROs created by the user in the ROHub portal. If there is nothing to show this section will display "Selected user didn't have any publications yet".
 
-<p align="center"> <img src="https://box.psnc.pl/f/c55de5ac78/?raw=1" width="700"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/2cb6045ee6/?raw=1" width="700"> </p>
 <div align="center"> Figure 3: Research Objects enlisted in a User Profile  </div>
