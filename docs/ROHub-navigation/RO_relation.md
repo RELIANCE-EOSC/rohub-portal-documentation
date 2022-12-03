@@ -3,7 +3,7 @@ layout: default
 title: Relations
 parent: Research objects
 grand_parent: ROHub navigation
-nav_order: 6
+nav_order: 7
 ---
 
 # Research Object Relations
