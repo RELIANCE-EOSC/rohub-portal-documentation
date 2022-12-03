@@ -20,7 +20,7 @@ This section enable users to assess the quality of a research object according t
 ## RO completeness
 The RO completeness bar shows the quality of the RO on the basis of this completeness in percentage, with minimum value being 0% and maximum value of 100%. On complete working integration the user can also see the evolution of the RO quality with RO monitoring tool on clicking the “See quality history with RO Monitoring Tool”.
 
-## Check list:
+## Check list
 the user can also add more conditions in the checklidt for the purpose of completelness of a RO by clicking the "here" near the "Provide your own checklist". The user can supply the URL of the file where the checklist is availabe and then the text for the checklist purpose. 
 
 ## Completeness checked List filter
