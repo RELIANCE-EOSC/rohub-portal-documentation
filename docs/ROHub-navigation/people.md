@@ -21,7 +21,7 @@ This section of the ROHub platform can be accessed from the main topmost menu ba
    * By default the list of ROhub users contains all the available ROHub users registered in the portal and can be navigated page wise on clicking "Next" at the bottom of the page. An user can also sort the list alphabetically depending on the names on clicking "Sort by". From the users list the user profile can be accessed by clicking “Read more” for more information about the users and their associated activities on the platform.
 The figure below shows the people page of the ROHub platform showing the above-mentioned subsections.
 
-<p align="center"> <img src="https://box.psnc.pl/f/89c3b343dc/?raw=1" width="700"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/4ce886df6d/?raw=1" width="700"> </p>
 <div align="center"> Figure 1: People search in ROhub  </div>
 
 
