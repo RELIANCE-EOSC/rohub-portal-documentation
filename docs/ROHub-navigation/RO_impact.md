@@ -3,7 +3,7 @@ layout: default
 title: Impact
 parent: Research objects
 grand_parent: ROHub navigation
-nav_order: 7
+nav_order: 8
 ---
 
 # Research Object Impact (under construction)
