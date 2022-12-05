@@ -26,5 +26,5 @@ The Enrichment section of the RO represents the text mining and enrichment servi
 
 
 
-<p align="center"> <img src="https://box.psnc.pl/f/00246f01e5/?raw=1"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/00246f01e5/?raw=1" width="700"> </p>
 <div align="center"> Figure 1: RO Enrichment section in ROHub portal </div>
