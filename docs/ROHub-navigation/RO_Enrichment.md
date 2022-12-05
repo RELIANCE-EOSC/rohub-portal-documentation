@@ -23,8 +23,7 @@ On the right side of the page the user can see the description body of the RO. T
 
 ## Mode
 The user can use various modes of text minig and analysis using the available RO enrichemnt services such as:
-* Topics: This mode allows the user 
-
+* Topics: This mode allows the user to choose from the topic based text mining. The topics serach are based on knowledge graphs, IPTC Media Topics, field of reserach and NASA subjects and scope whcih the user can choose upon selecting the "Topic" mode. The list in the bottom will show the results of the mode as a visualization. 
 
 * Key Elements
 
