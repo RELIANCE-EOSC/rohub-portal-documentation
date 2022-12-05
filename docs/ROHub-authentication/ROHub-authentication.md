@@ -68,7 +68,7 @@ This section allows the user to have a second level authentication. This is done
 ### Federated identity
 This section shows the user identity in EGI check-in, if any, which is essentially the username of the user in the EGI system. The user can add/remove the identity on clicking the “+”/“-” icon alongside the box showing the federated identity. If the user is logged in on clicking the “+” icon the username of the EGI is added in the federated identity.
 
-<p align="center"> <img src="https://box.psnc.pl/f/5c7504546a/?raw=1" width="500"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/e1dc5c9fec/?raw=1" width="500"> </p>
 <div align="center"> Figure 8: Federated identity in ROHub </div>
 
 ### Sessions
