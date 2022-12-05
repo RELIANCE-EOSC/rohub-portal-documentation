@@ -22,7 +22,7 @@ The login (Sign in/Sign up) is available on the menu bar of the homepage. The ke
 On clicking any of the "Sign in '' or "Sign up" the user is navigated to the authentication page. From here the user can sign in either through the EGI Check-in on clicking the "Login with EGI Check-in". On clicking the user is redirected to the EGI authentication system and on completion the user gets signed into the ROHub Portal via the EGI check in process. The user can also sign in from this page with his registered credentials for ROHUb portal.
 
 
-<p align="center"> <img src="https://box.psnc.pl/f/e843ad5f37/?raw=1" width="500"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/97505de421/?raw=1" width="500"> </p>
 <div align="center"> Figure 1: Login page in ROHub portal </div>
 
 
