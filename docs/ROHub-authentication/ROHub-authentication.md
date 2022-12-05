@@ -55,14 +55,14 @@ Once into the account settings navigation pages, the user can access the “Edit
 ### Password
 From the “Password” section the user can change the existing password with a new one. From the account settings the user doesn't need to provide an email address. On clicking “Save” completes the password change.
 
-<p align="center"> <img src="https://box.psnc.pl/f/e0b22fa99c/?raw=1" width="500"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/284e31ee14/?raw=1" width="500"> </p>
 <div align="center"> Figure 6: Changing Password via account settings </div>
 
 
 ### Authenticator
 This section allows the user to have a second level authentication. This is done through third party authentication applications (e.g. FreeOTP, Google Authenticator). The applications scan the QR code provided in the user’s account and generate an One Time Password (OTP) to authenticate the user. This OTP along with the name of the users’ device can be saved in the user account settings of the ROHub from this section. If the user has a problem scanning the QR code, on clicking the “Unable to scan?” the user gets navigated to another similar page, where a 32 digit key appears along with some instructions for the user specific to the above mentioned third party applications. The user can alternatively use this 32 digit key to generate the OTP. Clicking “Scan barcode” brings the user back to the page of the QR code if he wishes to do so. The user can finally provide the OTP and an optional device name in the respective fields and click on “Save” to complete the whole process.
 
-<p align="center"> <img src="https://box.psnc.pl/f/4382c952a1/?raw=1" width="500"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/ce8320fbc7/?raw=1" width="500"> </p>
 <div align="center"> Figure 7: Third party authentication in ROHub </div>
 
 ### Federated identity
