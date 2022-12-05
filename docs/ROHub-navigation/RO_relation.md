@@ -34,5 +34,5 @@ The figure below shows the RO relation page  in the ROHub portal.
 
 
 
-<p align="center"> <img src="https://box.psnc.pl/f/4478dca558/?raw=1" width="700"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/08d09f58bf/?raw=1" width="700"> </p>
 <div align="center"> Figure 1: RO Relations </div>
