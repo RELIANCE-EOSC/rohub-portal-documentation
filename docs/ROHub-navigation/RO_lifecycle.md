@@ -30,5 +30,5 @@ This list displays the evolutionary actions or status of the RO and describes th
 On the top right side of the page the user can see “Show full activity history” ,on clicking that the user will be transferred to the RO activity page. 
 
 
-<p align="center"> <img src="https://box.psnc.pl/f/ea61fbf5a9/?raw=1" width="700"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/95836bcf09/?raw=1" width="700"> </p>
 <div align="center"> Figure 1: RO Lifecycle in ROHub portal </div>
