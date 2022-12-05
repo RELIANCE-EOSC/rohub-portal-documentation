@@ -19,8 +19,16 @@ nav_order: 4
 The Enrichment section of the RO represents the text mining and enrichment service of the ROhub platform. The service facilitates information extraction and semantic annotations, content-based retrieval and reccomendations and advanced analysis. This section takes the text from the description of the RO and performs some text mining and analysis. The RO enrichment can be described as below:
 
 ## Description text
+On the right side of the page the user can see the description body of the RO. The various modes of enrichment operations are to be done on this text.
 
 ## Mode
+The user can use various modes of text minig and analysis using the available RO enrichemnt services such as:
+* Topics
+
+
+* Key Elements
+
+* Entities
 
 
 
