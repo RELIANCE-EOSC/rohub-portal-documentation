@@ -23,7 +23,7 @@ On the right side of the page the user can see the description body of the RO. T
 
 ## Mode
 The user can use various modes of text minig and analysis using the available RO enrichemnt services such as:
-* Topics
+* Topics: This mode allows the user 
 
 
 * Key Elements
@@ -34,5 +34,5 @@ The user can use various modes of text minig and analysis using the available RO
 
 
 
-<p align="center"> <img src="https://box.psnc.pl/f/00246f01e5/?raw=1" width="900"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/203cce98cc/?raw=1" width="900"> </p>
 <div align="center"> Figure 1: RO Enrichment section in ROHub portal </div>
