@@ -35,7 +35,7 @@ The authentication page also allows the user to go for a resetting of password. 
 ### Registering the new User
 New users can be registered into the ROhub portal from the login page. Once the new user clicks “Register” the registration form opens. In the various fields of the form the user can provide registration details (e.g. first name, last name, email, and password). The registration procedure completes on clicking the “Register” at the end of the form and “Back to Login” navigates the user back to the login page.
 
-<p align="center"> <img src="https://box.psnc.pl/f/6366ddba27/?raw=1" width="500"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/ef8a6b0b57/?raw=1" width="700"> </p>
 <div align="center"> Figure 3: User registration in ROHub </div>
 
 
