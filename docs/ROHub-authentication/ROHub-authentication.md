@@ -86,5 +86,5 @@ This section shows the user a table that contains the name of  the applications 
 ### Log
 The log section holds all the records of all available actions from the user side. The log table contains the “Date”, name of the “Event”, “IP” of the user and name of the used “Client”. In the “Details” the description of the action is provided.
 
-<p align="center"> <img src="https://box.psnc.pl/f/36892a7123/?raw=1" width="700"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/7ea3b5a899/?raw=1" width="500"> </p>
 <div align="center"> Figure 11: Account Logs in ROHub </div>
