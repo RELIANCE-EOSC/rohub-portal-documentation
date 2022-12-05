@@ -46,7 +46,7 @@ After successfully logging in to the ROHUb portal, a user can access his “Acco
 <div align="center"> Figure 4: Account settings in ROHub </div>
 
 ### Account
-Once into the account settings navigation pages, the user can access the “Edit Account” form from the first “Account” section present on the list of sections on the left hand side of the account settings homepage. In the “Edit Account” form the user can update the user information in various fields provided such as “Email”, “Salutation”, “First name”, “Last name”, “Affiliation”, “Description”, “Area of interest”, “B2SHARE token”, “zenodo token” and “ORCID”. Out of all this information the required fields are marked with a red dot. On completion the user can click on “Save” to complete the update of the Account information.
+Once into the account settings navigation pages, the user can access the “Edit Account” form from the first “Account” section present on the list of sections on the left hand side of the account settings homepage. In the “Edit Account” form the user can update the user information in various fields provided such as “Email”, “Salutation”, “First name”, “Last name”, “Affiliation”, “Description”, “Area of interest”, “B2SHARE token”, “zenodo token”, “ORCID”, "Resources Storage" (Deafault or B2DROP), "B2DROP Username", "B2DROP Password" and "ADAM Platform Key". Out of all this information the required fields are marked with a red dot. On completion the user can click on “Save” to complete the update of the Account information.
 
 
 <p align="center"> <img src="https://box.psnc.pl/f/9d9e6ab27d/?raw=1" width="700"> </p>
