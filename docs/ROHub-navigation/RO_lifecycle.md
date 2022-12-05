@@ -27,7 +27,7 @@ This segment runs on the left side of the page and shows in a graphical form all
 This list displays the evolutionary actions or status of the RO and describes them briefly with metadata like the type of action (e.g. created, imported, forked, snapshotted etc.) performed on the RO. The metadata includes the data and time of the performance of the action and the name of the user involved. The name of the user is clickable and navigates to the user profile of the performer.
 
 ## Show full activity history
-On the top right side of the page the user can see “Show full activity history” ,on clicking that the user will be transferred to the RO activity page.
+On the top right side of the page the user can see “Show full activity history” ,on clicking that the user will be transferred to the RO activity page. 
 
 
 <p align="center"> <img src="https://box.psnc.pl/f/ea61fbf5a9/?raw=1" width="700"> </p>
