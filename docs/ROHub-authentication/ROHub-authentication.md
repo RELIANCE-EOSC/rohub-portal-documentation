@@ -42,7 +42,7 @@ New users can be registered into the ROhub portal from the login page. Once the 
 ## Account Settings
 After successfully logging in to the ROHUb portal, a user can access his “Account settings”  from the right side corner of the ROHub landing page. After clicking the drop down arrow beside the authentication section the user can see “Account settings” and “Log Out”. On clicking the Account settings the user gets navigated to various sections. In the account settings the user can access various forms and edit them  present in each section listed on the left hand side of the page. The various sections of the account settings are described below. On the top right hand side of the page there are options to change the language (English and Polish as of now). “Back to reliance.rohub.org” takes the user back to the homepage of the ROHub portal and “Sign Out” logs the user out and takes back to the login page.
 
-<p align="center"> <img src="https://box.psnc.pl/f/89815b5247/?raw=1" width="500"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/89815b5247/?raw=1" width="800"> </p>
 <div align="center"> Figure 4: Account settings in ROHub </div>
 
 ### Account
