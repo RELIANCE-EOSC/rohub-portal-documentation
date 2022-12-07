@@ -18,16 +18,21 @@ In the Resource segment the user can add resources, browse the uploaded resource
 
 ## Creating new Resources
 From the "Resource" segment of the RO create/edit wizard the user can create new resources and add them to the RO, navigate through the resources and also remove them if required. The resource creation functionalities of this segment are discussed briefly.
+
+<p align="center"> <img src="https://box.psnc.pl/f/a88463d836/?raw=1" width="500"> </p>
+<div align="center"> Figure 1: Creating Resource in ROHub </div>
+
 ### Create new folder
 On clicking the first of  the three black icons (representing a folder) a new window called “Create new folder” pops up for the user. The various fields in this windows are:
 * Title:  In the title field the user has to provide the name of the folder. Without providing the title the user is unable to create a folder. The title must contain a minimum of five characters.
 * Description:  The User can optionally provide a short description of the folder.
+* Keywords: The user can add some keyword if needed.
 * Parent folder:  From this field the user can choose a parent folder if the user wants to enclose the folder within any other folders.
 
 On clicking the “Create” the user creates a new folder which will be visible in the content list of the RO. The figure below shows the creation of the folder in the RO content page.
 
-<p align="center"> <img src="https://box.psnc.pl/f/14dc1db3dd/?raw=1" width="500"> </p>
-<div align="center"> Figure 1: Creating new folder in ROHub </div>
+<p align="center"> <img src="https://box.psnc.pl/f/e590fe28b6/?raw=1" width="600"> </p>
+<div align="center"> Figure 2: Creating new folder in ROHub </div>
 
 ### Create new resource from internal source
 On clicking the second of the three icons a window pops up to “Create new resource” or alternatively by dragging and dropping a resource in the resource upload section saying "Drag and drop files here..." from the user's computer. The user can upload a file from his local device form this window. The various fields of this window are as follows:
@@ -36,12 +41,13 @@ On clicking the second of the three icons a window pops up to “Create new reso
 * Description: In the field under description the user can optionally provide a short description for the resource that's being uploaded.
 * Resource type: The user must provide the resource type from the list of types appearing on clicking the box under the resource type field. Some examples are e.g. Bibliographic  resource, Command Line Tool etc.
 * Licenses: The user can also optionally select a license from the list of licenses under the field of “Licenses. These licenses are the existing list of licenses available in the ROHUB portal
+* Keywords: The user can add keywords to a resource
 
 On clicking “Create”  the resource is added to the RO. The figure below depicts the upload of a resource using a local file.
 
 
-<p align="center"> <img src="https://box.psnc.pl/f/008528b576/?raw=1" width="500"> </p>
-<div align="center"> Figure 2: Creating new internal resource in ROHub </div>
+<p align="center"> <img src="https://box.psnc.pl/f/81a929eb66/?raw=1" width="500"> </p>
+<div align="center"> Figure 3: Creating new internal resource in ROHub </div>
 
 
 ### Create new resource from external source
@@ -51,11 +57,12 @@ On clicking the third of the three icons a window pops up to “Create new resou
 * Description: Description field is also optional and the user can add a short description of the resource from this field.
 * Resource type:  The user must select a resource type from the list of the existing types from the list that drops down once the user clicks or starts to type in the box beneath  the resource type.
 * Licenses: The user can optionally select a license from the list of licenses under the field of “Licenses. These licenses are the existing list of licenses available in the ROHUB portal
+* Keywords: The user can add keywords to a resource
 
 On clicking “Create”  the resource is added to the RO. The figure below depicts the upload of an external resource to a RO.
 
-<p align="center"> <img src="https://box.psnc.pl/f/d19ac04b27/?raw=1" width="500"> </p>
-<div align="center"> Figure 3: Creating new external resource in ROHub </div>
+<p align="center"> <img src="https://box.psnc.pl/f/672a43ee71/?raw=1" width="500"> </p>
+<div align="center"> Figure 4: Creating new external resource in ROHub </div>
 
 ## Modifying uploaded Resources
 The user can modify or edit any of the resources added to the RO. The resource edit, move and delete functionalities are activated when the user selects any resource from the homepage or within a folder. In case of internally uploaded resources the users can also download it upon selection.
@@ -65,11 +72,11 @@ The user can modify or edit any of the resources added to the RO. The resource e
 The user has to navigate to the folder and select it from the list by checking the checkbox. Upon clicking the edit option a new window called “Edit folder” appears. It has the following fields:
 * Title: Here in this field the name of the folder is already visible, the user can rename it.
 * Description: The user can change the description or add if not available.
-* DOI: The generation or adding a DOI is not applicable in case of folder.
+* Keywords: The generation or adding/editing a keyword to a folder.
 Once done the user can click “Edit” to update the folder. The following figure depicts the edit functionality of a RO folder.
 
-<p align="center"> <img src="https://box.psnc.pl/f/c728ea80b7/?raw=1" width="500"> </p>
-<div align="center"> Figure 4: Editing a folder </div>
+<p align="center"> <img src="https://box.psnc.pl/f/a91c38ddbe/?raw=1" width="500"> </p>
+<div align="center"> Figure 5: Editing a folder </div>
 
 #### Editing an internal resource
 The user has to navigate to the specific resource that is to be edited and select it from the list by checking the checkbox. Upon clicking the edit option a new window called “Edit resource” appears. It has the following fields:
@@ -82,11 +89,12 @@ The user has to navigate to the specific resource that is to be edited and selec
   * Not applicable DOI: The user selects this and declares that the resource is not having any DOI.
   * Add existing DOI: The user selects this and adds an existing DOI of the resource (if any) in the field called “Current DOI”.
   * Generate DOI: The user can generate a random DOI for the resource on selecting this option.
+* Keywords: The generation or adding/editing a keyword to a resource.  
 
 Once done the user can click “Edit” to update the selected resource. The following figure depicts the edit functionality of an internal resource.
 https://box.psnc.pl/f/3d4dc03ff3/?raw=1
-<p align="center"> <img src="https://box.psnc.pl/f/c728ea80b7/?raw=1" width="500"> </p>
-<div align="center"> Figure 5: Editing an internal resource </div>
+<p align="center"> <img src="https://box.psnc.pl/f/dad7c3b0b6/?raw=1" width="500"> </p>
+<div align="center"> Figure 6: Editing an internal resource </div>
 
 #### Editing an external resource
 
