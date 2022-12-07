@@ -19,14 +19,15 @@ This segment of the RO create/edit wizard allows the user to add additional meta
 ## Keywords
 In order to add a keyword to the RO, the user clicks inside the box under the “Keywords” saying “Type to add” a list of existing keywords drops down. The user can select one or multiple keywords from the list. In case of new keywords which in any case are not present in the existing list of keywords, a create option appears once the user types in the new keyword allowing the user to create a new keyword. The user can create multiple new keywords and later add them to the RO from the list. The user can also remove any of the keywords from this box.
 
-<!--<p align="center"> <img src="https://box.psnc.pl/f/71c5f1dd00/?raw=1" width="600"> </p>
+<!--
+<p align="center"> <img src="https://box.psnc.pl/f/71c5f1dd00/?raw=1" width="600"> </p>
 <div align="center"> Figure 1: Add Keywords to a RO</div>
 -->
 
 ## Main Entity
 The user can select the main entity of the RO (e.g.CLI, dataset, document etc.) from a list of existing entities. Once the user clicks the box under the "Main Entity" a list of the existing entities available in the ROHUB portal drops down for the user to choose a suitable entity.
 
-<!-->
+<!--
 <p align="center"> <img src="https://box.psnc.pl/f/59c0bdf6de/?raw=1" width="600"> </p>
 <div align="center"> Figure 2: Main Entity Tag in RO creation </div>
 -->
