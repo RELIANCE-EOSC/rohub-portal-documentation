@@ -65,6 +65,11 @@ On clicking “Create”  the resource is added to the RO. The figure below depi
 <div align="center"> Figure 4: Creating new external resource in ROHub </div>
 
 ### Adding datacubes 
+The user can click the fourth icon nad a window pops up to “Create new resource”. The user can create a datacubeas a resource. The various fields of this window are as follows:
+* Data Cube collection: The user can select from the list of exisiting datacubes in ROhub portal and add it as a resources to a RO
+* Data Cube product: The name of the datacube product can be added
+* Licenses: The user can optionally select a license from the reccomended default licenses under the field of “Licenses. 
+* Keywords: The user can add keywords to a datacube
 
 
 <p align="center"> <img src="https://box.psnc.pl/f/bfc8e56186/?raw=1" width="500"> </p>
