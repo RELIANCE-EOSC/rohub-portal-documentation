@@ -64,6 +64,14 @@ On clicking “Create”  the resource is added to the RO. The figure below depi
 <p align="center"> <img src="https://box.psnc.pl/f/672a43ee71/?raw=1" width="500"> </p>
 <div align="center"> Figure 4: Creating new external resource in ROHub </div>
 
+### Adding datacubes 
+
+
+<p align="center"> <img src="https://box.psnc.pl/f/bfc8e56186/?raw=1" width="500"> </p>
+<div align="center"> Figure 5: Adding datacubes as a resource </div>
+
+
+
 ## Modifying uploaded Resources
 The user can modify or edit any of the resources added to the RO. The resource edit, move and delete functionalities are activated when the user selects any resource from the homepage or within a folder. In case of internally uploaded resources the users can also download it upon selection.
 
@@ -76,7 +84,7 @@ The user has to navigate to the folder and select it from the list by checking t
 Once done the user can click “Edit” to update the folder. The following figure depicts the edit functionality of a RO folder.
 
 <p align="center"> <img src="https://box.psnc.pl/f/a91c38ddbe/?raw=1" width="500"> </p>
-<div align="center"> Figure 5: Editing a folder </div>
+<div align="center"> Figure 6: Editing a folder </div>
 
 #### Editing an internal resource
 The user has to navigate to the specific resource that is to be edited and select it from the list by checking the checkbox. Upon clicking the edit option a new window called “Edit resource” appears. It has the following fields:
@@ -94,7 +102,7 @@ The user has to navigate to the specific resource that is to be edited and selec
 Once done the user can click “Edit” to update the selected resource. The following figure depicts the edit functionality of an internal resource.
 https://box.psnc.pl/f/3d4dc03ff3/?raw=1
 <p align="center"> <img src="https://box.psnc.pl/f/dad7c3b0b6/?raw=1" width="500"> </p>
-<div align="center"> Figure 6: Editing an internal resource </div>
+<div align="center"> Figure 7: Editing an internal resource </div>
 
 #### Editing an external resource
 
@@ -108,33 +116,34 @@ The user has to navigate to the specific resource that is to be edited and selec
   * Not applicable DOI: The user selects this and declares that the resource is not having any DOI.
   * Add existing DOI: The user selects this and adds an existing DOI of the resource (if any) in the field called “Current DOI”.
   * Generate DOI: The user can generate a random DOI for the resource on selecting this option.
+* Keywords: The generation or adding/editing a keyword to a resource.  
 
 Once done the user can click “Edit” to update the selected resource. The following figure depicts the edit functionality of an external resource.
 
-<p align="center"> <img src="https://box.psnc.pl/f/48ce437077/?raw=1" width="500"> </p>
-<div align="center"> Figure 6: Editing an external resource </div>
+<p align="center"> <img src=https://box.psnc.pl/f/ccc3e9dddd/?raw=1" width="500"> </p>
+<div align="center"> Figure 8: Editing an external resource </div>
 
 
 
 ### Moving a resource
-The user can move a resource from one folder to another within the resource homepage. The user has to select a resource from the list and then click the move icon, a window pops up displaying either “Move folder” (for moving a folder) or “Move Resource” (for moving a resource) from where the user can specify the parent folder. Once the user clicks on the field beneath “Parent folder”, a list of all the existing folders drops down. From the list the user can specify the folder where he wants to move the resource. Clicking “Move” ends the action and moves the resource from one folder to another.
+The user can move a resource from one folder to another within the resource homepage. The user has to select a resource from the list and then click the move icon, a window pops up displaying either “Move” (for moving a folder) or “Move Resource” (for moving a resource) from where the user can specify the parent folder. Once the user clicks on the field beneath “Parent folder”, a list of all the existing folders drops down. From the list the user can specify the folder where he wants to move the resource. Clicking “Move” ends the action and moves the resource from one folder to another.
 
 
-<p align="center"> <img src="https://box.psnc.pl/f/fda65d5613/?raw=1" width="500"> </p>
-<div align="center"> Figure 7: Moving a folder in ROHub portal </div>
+<p align="center"> <img src="https://box.psnc.pl/f/3dca86e72f/?raw=1" width="500"> </p>
+<div align="center"> Figure 9: Moving a folder in ROHub portal </div>
 
+<!--
 
 <p align="center"> <img src="https://box.psnc.pl/f/2585f426c7/?raw=1" width="500"> </p>
 <div align="center"> Figure 8: Moving a resource in ROHub portal </div>
 
+-->
+
 ### Deleting a resource
 Deleting a resource is also easy. Selecting a resource and clicking the delete icon from the content page pops up the “Delete folder” or “Delete resource” window. By clicking the “Delete” button the resource could be deleted by the user. The figures below depicts the deletion of resources in ROHub portal.
 
-<p align="center"> <img src="https://box.psnc.pl/f/580b608cb0/?raw=1" width="500"> </p>
-<div align="center"> Figure 9: Deleting a folder  </div>
 
-
-<p align="center"> <img src="https://box.psnc.pl/f/a84b7163aa/?raw=1" width="500"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/683c77557f/?raw=1" width="500"> </p>
 <div align="center"> Figure 10: Deleting a resource  </div>
 
 ## Adding annotation to a resource
