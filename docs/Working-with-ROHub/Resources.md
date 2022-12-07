@@ -31,7 +31,7 @@ On clicking the first of  the three black icons (representing a folder) a new wi
 
 On clicking the “Create” the user creates a new folder which will be visible in the content list of the RO. The figure below shows the creation of the folder in the RO content page.
 
-<p align="center"> <img src="https://box.psnc.pl/f/e590fe28b6/?raw=1" width="600"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/e590fe28b6/?raw=1" width="500"> </p>
 <div align="center"> Figure 2: Creating new folder in ROHub </div>
 
 ### Create new resource from internal source
