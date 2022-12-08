@@ -34,13 +34,13 @@ From the content home the user can browse the various resources and navigate to 
 
 ### Accessing EGI Jupyter notebook resources
 
-<p align="center"> <img src="https://box.psnc.pl/f/6489eaf0ea/?raw=1" width="800"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/6489eaf0ea/?raw=1" width="900"> </p>
 <div align="center"> Figure 3: Accessing EGI Jupyter notebook resources in ROHub portal </div>
 
 ### Accessing EGI Binder resources
 
 
-<p align="center"> <img src="https://box.psnc.pl/f/2aec31a4ed/?raw=1" width="800"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/2aec31a4ed/?raw=1" width="900"> </p>
 <div align="center"> Figure 4: Accessing EGI Binder resources in ROHub portal </div>
 
 ## Annotation and Metadata of a resource
