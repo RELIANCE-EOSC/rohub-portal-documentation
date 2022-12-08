@@ -15,6 +15,7 @@ nav_order: 4
 {:toc}
 ---------
 The sketch gallery segment of the RO create/edit wizard  allows the user to add/upload sketches to a RO and also holds the uploaded images as a resource. There are two ways the user can add images to a RO using the sketch gallery.
+
 ### Uploading images locally
 Uploading images locally from the user’s computer by clicking the “Upload” box and selecting the images, or simply by dragging and dropping files inside the upload box.
 
