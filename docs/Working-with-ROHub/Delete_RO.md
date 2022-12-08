@@ -10,6 +10,6 @@ A user can delete a Research Object created by him or if having edit permissions
 
 
 
-<p align="center"> <img src="https://box.psnc.pl/f/ace735cc42/?raw=1" width="700"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/ace735cc42/?raw=1" width="800"> </p>
 <p align="center"> <img src="https://box.psnc.pl/f/fdcc3a568a/?raw=1" width="700"> </p>
 <div align="center"> Figure 1: Deleting a RO in ROHUB platform </div>
