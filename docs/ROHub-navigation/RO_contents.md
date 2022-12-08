@@ -32,6 +32,8 @@ From the content home the user can browse the various resources and navigate to 
 <p align="center"> <img src="https://box.psnc.pl/f/59f01d4f62/?raw=1" width="800"> </p>
 <div align="center"> Figure 2: Browsing of resources in ROHub portal </div>
 
+### Accessing Jupyter notebook resources
+
 ## Annotation and Metadata of a resource
 From the content section the user can visualize the metadata and the annotation associated with a specific resource. Once a user selects the checkbox alongside a resource from the main resource list, the resource itself and its metadata of the resource can be visible at the bottom of the page. The metadata included the resource type, creation mode (local, external etc.), the title and description of the resource, creation and the modification date and time, also there are subsections like “AGENTS” and “SHARE” on the left hand side. In the “Agent” section the name of the creator of the resource is shown whereas from the share segment the user can copy the URL of the resource in order to share it as an external link. Other functionalities of the share are not present right now. Once the user clicks the “Show all annotations” all the annotations associated with the selected resource will be visible. On clicking each annotation the user can see the semantic relations involving the subject, property and the object along with the annotation id, date of creation and the creator’s name.
 
