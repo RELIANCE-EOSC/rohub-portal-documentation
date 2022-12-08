@@ -19,7 +19,7 @@ The sketch gallery segment of the RO create/edit wizard  allows the user to add/
 ### Uploading images locally
 Uploading images locally from the user’s computer by clicking the “Upload” box and selecting the images, or simply by dragging and dropping files inside the upload box.
 
-<p align="center"> <img src="https://box.psnc.pl/f/30b4a1338b/?raw=1" width="600"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/30b4a1338b/?raw=1" width="700"> </p>
 <div align="center"> Figure 1: Internal uploading Sketch in RO creation </div>
 
 
