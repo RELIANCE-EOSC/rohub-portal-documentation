@@ -38,8 +38,6 @@ Screenshots are provided below.
 <p align="center"> <img src="https://box.psnc.pl/f/6489eaf0ea/?raw=1" width="900"> </p>
 <div align="center"> Figure 3: Accessing EGI Jupyter notebook resources in ROHub portal </div>
 
-
-
 <p align="center"> <img src="https://box.psnc.pl/f/bd4f968c21/?raw=1" width="900"> </p>
 <div align="center"> Figure 4: Example of a EGI Jupyter notebook resource </div>
 
