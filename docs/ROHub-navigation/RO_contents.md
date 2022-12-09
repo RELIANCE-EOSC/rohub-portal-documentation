@@ -40,7 +40,7 @@ From the content home the user can browse the various resources and navigate to 
 
 
 <p align="center"> <img src="https://box.psnc.pl/f/bd4f968c21/?raw=1" width="900"> </p>
-<div align="center"> Figure 4: Example of a EGI Jupyter notebook </div>
+<div align="center"> Figure 4: Example of a EGI Jupyter notebook resource </div>
 
 
 ### Accessing EGI Binder resources
@@ -51,7 +51,7 @@ From the content home the user can browse the various resources and navigate to 
 
 
 <p align="center"> <img src="https://box.psnc.pl/f/2ca9c0437c/?raw=1" width="900"> </p>
-<div align="center"> Figure 6: Example of a EGI Binder </div>
+<div align="center"> Figure 6: Example of a EGI Binder resource</div>
 
 
 ## Annotation and Metadata of a resource
