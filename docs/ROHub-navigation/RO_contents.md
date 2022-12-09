@@ -33,7 +33,8 @@ From the content home the user can browse the various resources and navigate to 
 <div align="center"> Figure 2: Browsing of resources in ROHub portal </div>
 
 ### Accessing EGI Jupyter notebook resources
-
+Some reserach objects has python codes as resources in the form of Jupyter notebooks. This resources mainly stays in the "tools" folder in the content section. Once the user navigates to the specific folder containing a jupyter notebook and clicks on the resource, a pop up arises showing "Go to resource" and "Open resource in EGI Notebook". If the user choose the first option the jypyter notebook will be open in the form of a json file. On choosing the second option the user (if he is having access of the EGI notebook platform in his EGI account) get tranferred to the EGI notebook platform  and the notebook resources is opened.
+Screenshots are provided below.
 <p align="center"> <img src="https://box.psnc.pl/f/6489eaf0ea/?raw=1" width="900"> </p>
 <div align="center"> Figure 3: Accessing EGI Jupyter notebook resources in ROHub portal </div>
 
