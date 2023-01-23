@@ -21,3 +21,8 @@ In  ROHub  portal, the  checklist  functionality  is  available  from the comple
 * Optionally, the RO may have authors defined for credits
 * Optionally, the RO may have contributors defined for credits
 * Optionally, the RO may have geolocation associated
+
+Additionally for some specific types of ROs (e.g. Bibliographic centric RO, Data-centric RO, Executable RO) there are few more additional check paramets listed as below:
+
+* Bibliographic-centric RO:
+** If in the RO there is at least a resource in “biblio” folder  
