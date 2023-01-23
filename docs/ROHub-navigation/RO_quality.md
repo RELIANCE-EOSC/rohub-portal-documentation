@@ -24,7 +24,7 @@ The RO completeness bar shows the quality of the RO on the basis of this complet
 the user can also add more conditions in the checklidt for the purpose of completelness of a RO by clicking the "here" near the "Provide your own checklist". The user can supply the URL of the file where the checklist is availabe and then the text for the checklist purpose. 
 
 ## Completeness checked List filter
-The check_list filter holds the list of criteria for checking the quality of a research object. The user can select specific criteria or all criteria from the list to see the quality percentage in the status bar of the completeness segment. 
+The check_list filter holds the list of criteria for checking the quality of a research object. The user can select specific filter condition from the list or all criteria from the list to see the quality percentage in the status bar of the completeness segment. 
 
 
 <p align="center"> <img src="https://box.psnc.pl/f/ec76f5b358/?raw=1"> </p>
