@@ -24,5 +24,15 @@ In  ROHub  portal, the  checklist  functionality  is  available  from the comple
 
 Additionally for some specific types of ROs (e.g. Bibliographic centric RO, Data-centric RO, Executable RO) there are few more additional check paramets listed as below:
 
-* Bibliographic-centric RO:
-** If in the RO there is at least a resource in “biblio” folder  
+Bibliographic-centric RO:
+* If in the RO there is at least a resource in “biblio” folder  
+
+Data-centric RO:
+* In if the RO there is at least a resource in “raw data” folder
+* If in the RO there is at least a resource in “data” folder
+* In in the RO there is at least a resource in “metadata” folder
+
+For an Executable RO:
+* In in the RO there is at least a resource in “input” folder
+* If in the RO there is at least a resource in “tool” folder
+* If in the RO there is at least a resource in “output” folder
