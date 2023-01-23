@@ -22,17 +22,38 @@ In  ROHub  portal, the  checklist  functionality  is  available  from the comple
 * Optionally, the RO may have contributors defined for credits
 * Optionally, the RO may have geolocation associated
 
+<p align="center"> <img src="https://box.psnc.pl/f/19b6556b16/?raw=1" width="700"> </p>
+<div align="center"> Figure 1: Checklist in Basic RO </div>
+
+
+
+
 Additionally for some specific types of ROs (e.g. Bibliographic centric RO, Data-centric RO, Executable RO) there are few more additional check paramets listed as below:
 
 Bibliographic-centric RO:
 * If in the RO there is at least a resource in “biblio” folder  
+
+<p align="center"> <img src="https://box.psnc.pl/f/7d59dafb18/?raw=1" width="700"> </p>
+<div align="center"> Figure 2: Checklist in Bibliographic centric RO </div>
+
+
 
 Data-centric RO:
 * In if the RO there is at least a resource in “raw data” folder
 * If in the RO there is at least a resource in “data” folder
 * In in the RO there is at least a resource in “metadata” folder
 
+<p align="center"> <img src="https://box.psnc.pl/f/efbcff828c/?raw=1" width="700"> </p>
+<div align="center"> Figure 3: Checklist in Data-centric RO </div>
+
+
+
+
 For an Executable RO:
 * In in the RO there is at least a resource in “input” folder
 * If in the RO there is at least a resource in “tool” folder
 * If in the RO there is at least a resource in “output” folder
+
+
+<p align="center"> <img src="https://box.psnc.pl/f/91c01f2210/?raw=1" width="700"> </p>
+<div align="center"> Figure 4: Checklist in Executable RO </div>
