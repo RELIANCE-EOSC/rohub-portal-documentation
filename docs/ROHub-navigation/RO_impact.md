@@ -6,7 +6,7 @@ grand_parent: ROHub navigation
 nav_order: 8
 ---
 
-# Research Object Impact (under construction)
+# Research Object Impact
 
 The Impact section presently has two sections. The first section presents a graphical statistics of the number of "Activities per year" through a time period (year, last nine months, last six months and last three months) and the second section presents the total counts including the number of views, downloads, forks and number of activities to showcase the overall research object impact.
 
