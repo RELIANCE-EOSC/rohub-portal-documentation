@@ -16,3 +16,9 @@ IN ROHub the text mining and enrichment services include production-ready servic
 <p align="center"> <img src="https://box.psnc.pl/f/36c43c08ff/?raw=1" width="500"> </p>
 <div align="center"> Figure 2: Invoking enrichment service on demand from ROHub portal </div>
 
+
+As per other production services are concerned, ROHub has also integrated the recommendation service.  This recommender functionality  is available in the  ROHub  portal  from  the collapsible  RO  section  in  the Research  Object overview  tab, where users can  display a  list  of  Research  Objects similar  to  the  selected  one,  as depicted in figure below.
+
+<p align="center"> <img src="https://box.psnc.pl/f/2c918dfb97/?raw=1" width="700"> </p>
+<div align="center"> Figure 3: Similar ROs section in Research Object overview tab </div>
+
