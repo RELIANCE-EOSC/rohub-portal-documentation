@@ -13,6 +13,6 @@ IN ROHub the text mining and enrichment services include production-ready servic
 <div align="center"> Figure 1: Enrichment annotations displayed in ROHub portal </div>
 
 
-<p align="center"> <img src="https://box.psnc.pl/f/36c43c08ff/?raw=1" width="700"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/36c43c08ff/?raw=1" width="500"> </p>
 <div align="center"> Figure 2: Invoking enrichment service on demand from ROHub portal </div>
 
