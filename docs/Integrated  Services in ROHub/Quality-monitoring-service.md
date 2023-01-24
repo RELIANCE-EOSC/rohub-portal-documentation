@@ -5,4 +5,4 @@ parent: Integrated Services in ROHub
 nav_order: 2
 ---
 
-## Quality monitoring service
+## Quality Monitoring Service
