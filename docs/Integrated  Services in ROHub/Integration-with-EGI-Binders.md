@@ -25,7 +25,7 @@ https://w3id.org/ro-id-dev/a19fad22-2896-4223-bbef-2e81168687a2/resources/098c84
 https://w3id.org/ro-id-dev/a19fad22-2896-4223-bbef-2e81168687a2/resources/c9d19403-55bb-48c4-ab65-5fbd83f1478a
 ```
 
-When the user clicks on such resource in ROHub  portal,independently if it’s an internal or external resource the user can choose to go to the resource itself or download the notebook or to open it in EGI Binder, as depicted in the figure below. If the user opens the resource in EGI Binder, the service will be  launched,  all the  dependencies  will be  imported to  recreate  the computing  environment and then theuser will be able to execute the notebook.
+When the user clicks on such resource in ROHub  portal,independently if it’s an internal or external resource the user can choose to go to the resource itself (to download the notebook) or to open it in EGI Binder, as depicted in the figure below. If the user opens the resource in EGI Binder, the service will be launched,  all the  dependencies  will be  imported to  recreate  the computing  environment, the specified datasets will be made available from the environment, and then the user will be able to execute the notebook.
 
 
 <p align="center"> <img src="https://box.psnc.pl/f/12f022f00d/?raw=1" width="700"> </p>
