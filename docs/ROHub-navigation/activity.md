@@ -19,7 +19,7 @@ The "Activity" page  can be accessed from the topmost menubar of the ROHUb porta
 ## Global Activity List
 The global activity list is the one that summarizes and presents all the activities conducted by all users on all research objects available in ROHub. This list comprises mainly of the Date and time of the performed activity, activity event describing the type of activity (e.g. creation of a RO, addition of resources, addition of annotations etc.) and the name of the ROHub User who performed the activity (link of the user profile page). Additionally in case of activities involving annotations the user can download the annotation simply by clicking on the icon “Annotations”. There is also an option to sort the list on the basis os ascending or descending order of the date of creation of the annotations. The figure below shows the global activity list of the ROHub portal.
 
-<p align="center"> <img src="https://box.psnc.pl/f/9c6b44adff/?raw=1" width="700"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/c534ba3463/?raw=1" width="700"> </p>
 <div align="center"> Figure 1: Global Activity List </div>
 
 ## Activity search filter
@@ -30,5 +30,5 @@ The "Filters" is present on the right-hand side of the page. This is the section
 * The “Activity Type” filter criteria allows the users to further narrow down the search of the activities based on the type of activities the user is interested in. This could be the ROs created, added, deleted, cloned, updated, imported, snapshotted, archived or forked.
 The user can also reset the chosen filters on clicking the "Reset filters" options present on the top of the filter list.The figure below depicts the filters of the activity list.
 
-<p align="center"> <img src="https://box.psnc.pl/f/5cb039422a/?raw=1" width="300"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/9335ecc58f/?raw=1" width="300"> </p>
 <div align="center"> Figure 2: Activity search filters list section </div>
