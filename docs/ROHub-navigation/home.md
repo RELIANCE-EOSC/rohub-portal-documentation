@@ -36,7 +36,7 @@ This component enables users to find research objects by keywords, looking throu
 This section of the landing page shows the key statistics of the ROHub platform consisting of the number of research objects created with all the resources, total number of annotations, total number of users in the portal and the total number of resources in the portal.
 
 
-<p align="center"> <img src="https://box.psnc.pl/f/cafd6328c6/?raw=1" width="700" > </p>
+<p align="center"> <img src="https://box.psnc.pl/f/be02d123e3/?raw=1" width="700" > </p>
 <div align="center"> Figure 3: Key statistics of the ROhub platform </div>
 
 ## Featured research objects
