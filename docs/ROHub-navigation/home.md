@@ -20,7 +20,7 @@ The homepage or landing page provides a general overview of the ROhub platform w
 
 <p align="center"> <img src="https://box.psnc.pl/f/93c8bd5cc3/?raw=1" width="700"> </p>
 <p align="center"> <img src="https://box.psnc.pl/f/be02d123e3/?raw=1" width="700"> </p>
-<p align="center"> <img src="https://box.psnc.pl/f/7e70597369/?raw=1" width="700"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/727d198742/?raw=1" width="700"> </p>
 <p align="center"> <img src="https://box.psnc.pl/f/85fb4109c7/?raw=1" width="700"> </p>
 
 
@@ -48,5 +48,5 @@ This section presents the list of ROs that are promoted because of their quality
 ## Recent activity
 This section presents the latest three ROs that were created most recently, resources added to research objects, snapshots or archives or any recent activities on the ROs. By clicking on the “View” the user can go to the main RO overview page for detailed representation.
 
-<p align="center"> <img src="https://box.psnc.pl/f/e4de9be20e/?raw=1" width="700"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/727d198742/?raw=1" width="700"> </p>
 <div align="center">Figure 5: Recent activity component </div>
