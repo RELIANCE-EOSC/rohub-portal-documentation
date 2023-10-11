@@ -31,7 +31,7 @@ The filter search allows the user to further filter the results of the fetched R
 <div align="center"> Figure 2: Research Object Filter section </div>
 
 
-<p align="center"> <img src="https://box.psnc.pl/f/fe7c331846/?raw=1" width="300"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/8afe2485f5/?raw=1" width="300"> </p>
 <div align="center"> Figure 3: Resources Filter section </div>
 
 ### Research Object Filter search
@@ -127,20 +127,20 @@ The figure below shows the whole Metrics filter.
 Each filter section has various options to choose so that the user can filter through the most desired results of the resources in the ROhub Portal. The subsections and their figures are as follows:
 
 #### Search
-In the serach filter the user can type the name or keywords related to a resource to see the available list. On clicking the green drop down the keyword serach box apperas.
+In the serach filter the user can type the name or keywords related to a resource to see the available list. On clicking the green drop down the keyword search box appears.
 
 #### Type
-If the user is looking for a resources which is within a specific RO type, the user can simply choose from the list of RO type. On clicking the "Start typing" box apperas, the user can click and choose the desired RO type to fetch the available resources.
+If the user is looking for a resources which is within a specific RO type, the user can simply choose from the list of RO type. On clicking the "Start typing" box appears, the user can click and choose the desired RO type to fetch the available resources.
 #### RO's Title
-The RO title serach is a staright forward search where the user can serach the respective resources from any RO if the title of the RO is known. The user has the possibility to choose from a list of available ROs once the user starts to type the RO titile in the serach box.
+The RO title search is a straight forward search where the user can search the respective resources from any RO if the title of the RO is known. The user has the possibility to choose from a list of available ROs once the user starts to type the RO title in the search box.
 
 #### Creator
-This filter is based on the serach where the user can choose the name of the creator of a RO.
+This filter is based on the search where the user can choose the name of the creator of a RO.
 
-#### Source
+#### Internal
 The user can choose the resources based on whether they are "External" or "Internal" resources,
 
 The screenshot given below shows the Resource filter.
 
-<p align="center"> <img src="https://box.psnc.pl/f/5a4ac7a486/?raw=1" width="300"> </p>
+<p align="center"> <img src="https://box.psnc.pl/f/44450d0b73/?raw=1" width="300"> </p>
 <div align="center"> Figure 13: Resource search filter  </div>
