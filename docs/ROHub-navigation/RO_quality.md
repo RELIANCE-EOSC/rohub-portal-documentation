@@ -15,7 +15,7 @@ nav_order: 3
 {:toc}
 
 ---
-This section enable users to assess the quality of a research object according to some predefined quality criteria (e.g. completeness and FAIRness). In ROhub the Research Objects are formed keeping in mind the FAIR (Findable, Accessible, Interoperable and Reusable) fundamental principles. This section interacts with the quality checklist service to showcase the desired results of RO quality on the basis of completeness and its alignment with the FAIR principles. Additionally, this section enables the RO monitoring tool to assess the RO quality history. From the category option the user can select the RO completeness or the FAIRness of the Research Object. The various segments of this page is described as below.
+This section enable users to assess the quality of a research object according to some predefined quality criteria (e.g. completeness and FAIRness). In ROhub the Research Objects are formed keeping in mind the FAIR (Findable, Accessible, Interoperable and Reusable) fundamental principles. This section interacts with the quality checklist service to showcase the desired results of RO quality on the basis of completeness and its alignment with the FAIR principles. Additionally, this section enables the RO monitoring tool to assess the RO quality history. From the category option the user can select the RO Completeness or the FAIRness of the Research Object. The various segments of this page is described as below.
 
 ## Completeness
 The RO completeness bar shows the quality of the RO on the basis of this completeness in percentage, with minimum value being 0% and maximum value of 100%. On complete working integration the user can also see the evolution of the RO quality with RO monitoring tool on clicking the “See quality history with RO Monitoring Tool”.
@@ -29,3 +29,5 @@ The check_list filter holds the list of criteria for checking the quality of a r
 
 <p align="center"> <img src="https://box.psnc.pl/f/ec76f5b358/?raw=1"> </p>
 <div align="center"> Figure 1: RO Completeness section in ROHub portal </div>
+
+## FAIRness
